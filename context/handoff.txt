@@ -1,0 +1,35 @@
+CURRENT HANDOFF — 9 November 2026
+
+Repository: https://github.com/potpotman123/First-Entry-Rare-DMTs
+Local checkout: /Users/kwu/Documents/Codex/First-Entry-Rare-DMTs
+User explicitly authorized saving the project's work and context here. Keep repository private. No agents or paid/bulk work without applicable user authorization.
+
+Original question: do preapproval forecasts systematically underestimate approval-conditional revenue for first rare-disease DMTs? Focus on CMP-002/SYNGAP1 implications. No later disease indications. Primary endpoint remains matched first 36 commercial months; 60 months secondary. Keep the independent CAMP valuation project separate.
+
+Latest materials reviewed: eight current CAMP sell-side reports and a 16-page prior internal analysis. The PDF originals and two task briefs are in sources/user-provided/. All substantive appendix pages were visually read. Text extraction alone misses embedded screenshots; use the audit JSON and original PDF for appendix content.
+
+Current conclusion: no systematic bias established. The prior deck itself reaches no clear directional trend. It materially improves source leads and mechanism hypotheses. Strict cumulative N remains 0 because original annual curves/scope are not reconciled. Do not let N=0 imply the historical cases are uninformative.
+
+Important new findings:
+- Deck uses compiler-declared non-probability-adjusted estimates; preserve that evidence. Evrysdi 90% PoS reference needs original-model resolution.
+- Some prelaunch ranges include postapproval estimates, especially Spinraza $1.6bn in Sep 2017 and Zolgensma $2.8bn in Aug 2019.
+- Strensiq p.4 range $0.5–1bn omits a p.7 BofA $1.6bn estimate dated Sep 30, 2014.
+- Original-model screenshot: Credit Suisse Jan 19, 2016 Strensiq population under 18 despite broader label; postapproval mechanism evidence. Label is pediatric onset, not necessarily pediatric age when treated.
+- Exploratory Strensiq check: deck-reported CS Sep 2, 2014 forecast $500m for 2020; primary 2020 actual $731.8m (+46.36%). Forecast authenticity/geography/risk still unresolved.
+- Exploratory Zolgensma check: deck-reported Jefferies Apr 24, 2019 $2.6bn for 2024; primary actual $1.214bn (-53.31%). IV/IT scope unresolved; fast follower, not first DMT.
+- Crysvita TIO violates strict no-later-indication scope without allocation; 9k US vs 36k global adult populations are different denominators.
+- Zolgensma original route is IV, not IT. Future IV/IT franchise models need matching. 2025 Novartis Zolgensma Group label may differ from original IV product scope.
+- Skyclarys high discontinuation claims from selected practices cannot supply general persistence assumptions. Original CHOP observational table shows 207 remaining and 21 permanent discontinuations with varied follow-up, a different population/endpoint. Direct PMC access challenged; indexed primary table retrieved.
+- SMA Roche/Chugai sales need revenue-owner reconciliation before summation; market-size accuracy cannot be inferred from product peaks forecast at different dates.
+
+Current CAMP benchmark:
+Needham conditional peak $2.106bn in 2046; launch 2032 US/2033 ROW; diagnosis 15% to 50%; 50% penetration of diagnosed; 75% adherence/persistence; 15% GTN; launch WAC $575k, 3% annual price growth. PoS25% is valuation-only. Don't divide sales again. P.26/27/29 have unresolved peak-year/value and price discrepancies. Current economic share count ~90.683m includes pre-funded warrants, versus common-only ~62.754m; Needham diluted valuation uses 98m.
+
+Next highest-value source requests:
+1. Credit Suisse Strensiq Sep 2, 2014 and Jan 19, 2016; BofA Sep 30, 2014 (range reconciliation).
+2. Credit Suisse Spinraza Jan 19, 2016 (primary-vintage lead).
+3. Credit Suisse Crysvita Jan 17, 2018 and Wedbush Mar 7, 2018 (age/mix/net price; XLH-only scope).
+4. Original Givlaari and Skyclarys preapproval models plus subsequent same-analyst revisions (diagnosis and continuation countercases).
+5. Jefferies Zolgensma Apr 24, 2019 and Bernstein Evrysdi Jul 22, 2020 (IV/IT and PoS/FX resolution).
+
+Do not repeat broad public searches for peak-sales headlines. Obtain original annual curves, then matched actuals. Follow the explicit amendment: realized errors, revisions and mechanisms are separate tracks. Keep frozen initial outputs in archive; update current evidence, conclusions and this handoff as new records arrive.

@@ -1,0 +1,2731 @@
+
+=== PDF PAGE 1 ===
+                                                                                                                                                       October 15, 2026
+                                                                                                                                           INITIATING COVERAGE
+
+
+Biotechnology                                                                                                          JOSEPH STRINGER, PH.D.
+CAMP4 Therapeutics Corporation (CAMP)                                                                                  (212) 705-0346
+                                                                                                                       jstringer@needhamco.com
+
+RATING                       PRICE TARGET                 PRICE                       52-WEEK RANGE                    EDWARD MARKS, PH.D
+BUY                          $8.00                        $3.43                       $2.86 - $7.75                    908-448-9771
+                                                                                                                       emarks@needhamco.com
+Summit Push Begins in SYNGAP1 - Initiating
+Coverage with a Buy and $8 PT                                                                                          KEY DATA
+                                                                                                                       Market Cap (MM)                               $215.2
+We are initiating coverage of CAMP4 Therapeutics (CAMP) with a Buy rating and an $8 price                              Price (10/13/2026)                             $3.43
+target. Lead asset CMP-002 is an antisense oligonucleotide (ASO) in Ph1/2 development for                              52-Week Range                          $2.86 - $7.75
+SYNGAP1-related disorder, a rare genetic neurological disorder characterized by moderate-                              Shares Outstanding                             62.75
+to-severe intellectual disability, early childhood developmental delays, and epilepsy. SYNGAP1                         Avg. Daily Volume                          317,436.5
+affects ~11K patients in the US and there are no approved drugs. We believe CMP-002 has
+the  potential  to  be  the  1st  disease-modifying  therapy  for  SYNGAP1  and  model  ~$2.1B  in                     ESTIMATES
+non-risk-adjusted  peak  sales.  We  conducted  a  proprietary  survey  of  US-based  SYNGAP1-
+treating physicians that highlights the unmet need, market opportunity, and enthusiasm for                             FY (Dec)                  2025A      2026E     2027E
+a therapeutic option with a CMP-002-like profile, all of which we view as a positive for CAMP.                         EPS
+Please see note for full survey.                                                                                       Q1                        (0.62)A   (0.32)A         -
+                                                                                                                       Q2                        (0.62)A   (0.26)A         -
+
+■      SYNGAP1 is a rare genetic neurological disorder that affects ~11K patients in the US - there                    Q3                        (0.55)A   (0.28)E         -
+    are no approved drugs or effective therapies. SYNGAP1 is a haploinsufficiency - a mutation in                      Q4                       (0.86)A    (0.28)E         -
+    1 copy of the SYNGAP1 gene results in suboptimal 50% SYNGAP1 protein production. SYNGAP1                           Year                      (2.65)A    (1.13)E   (1.04)E
+                                                                                                                       Growth                                 NM        NM
+    protein is a critical regulator of proper neuronal signaling & function, and insufficient levels (i.e.             P/E                          NM        NM        NM
+    in SYNGAP1 patients) result in a multitude of severe symptoms, including neurological (seizures/                   FY (Dec)                  2025A      2026E     2027E
+    epilepsy),  developmental  delays  (cognitive,  speech),  and  behavioral  problems.  We  estimate                 Rev. (MM)($)
+    SYNGAP1 prevalence is ~11K in the US (and ~10K in EU4+UK), of which we estimate ~15% (~1.5K)                       Q1                          0.9A       1.3A         -
+    are diagnosed. There are no approved drugs and SoC is suboptimal symptom management,                               Q2                          1.5A      0.7A          -
+    typically with anti-seizure medications.                                                                           Q3                          0.8A       0.7E         -
+
+                                                                                                                       Q4                          0.3A       0.7E         -
+
+■      CMP-002 has the potential to be the first disease-modifying therapy for SYNGAP1 - we model                      Year                        3.5A       3.4E      0.0E
+    unadjusted WW peak revenue of $2.1B for CMP-002 in SYNGAP1. CMP-002 is an intrathecally-                           Growth Rev                           (2.9)%  (100.0)%
+    administered ASO designed to upregulate SYNGAP1 expression and restore protein to normal
+    “healthy” levels. Given the MoA, we believe CMP-002 has disease-modifying potential. A Ph1/2
+    MAD trial evaluating CMP-002 in SYNGAP1 patients is expected to start in 4Q26, and our base
+    case assumes initial results in 1H28.
+
+
+
+
+■      We  conducted  a  proprietary  survey  of  16  US-based  SYNGAP1-treating  physicians.  The
+    collective results suggest there is: 1) a high unmet need for effective therapies that treat the
+    neurological and developmental symptoms of SYNGAP1; & 2) high enthusiasm and a strong
+    commercial opportunity for a therapy with a potential CMP-002-like profile.  Full survey results
+    are below.
+
+
+
+
+■      Initiating coverage with a Buy rating and $8 PT. Our valuation and PT are based on a blend
+    of two valuation methods: 1) a DCF analysis through 2050 using risk-adjusted revenues, an 9%
+    WACC, and 0% terminal growth; & 2) an EV/peak revenue multiple analysis using a 7.0x peak
+    revenue multiple and risk-adjusted revenues. Our model and $8 PT assigns $6/share for CMP-002
+    in SYNGAP1 and $2/share for net cash.
+
+
+
+
+
+RELEVANT DISCLOSURES BEGIN ON PAGE 35 OF THIS REPORT.
+
+=== PDF PAGE 2 ===
+                                                                                                                                                     October 15, 2026
+At a Glance
+
+OUR INVESTMENT THESIS
+We believe the current market value of CAMP does not adequately capture the value of the risk-adjusted revenues of the CMP-002
+SYNGAP1 program. We believe CMP-002 has the potential to be a best-in-class and disease-modifying therapy for SYNGAP1, which we
+believe holds significant value. We think the stock will be driven primarily by a positive clinical developments and data from the SYNGAP1
+program.
+
+BULL CASE ASSUMPTIONS                                     BASE CASE ASSUMPTIONS                                      BEAR CASE ASSUMPTIONS
+
+■      Initial    Ph1/2    cohort    data    comes        ■      CMP-002 Ph1/2 data tracks to 1H28                   ■      CMP-002        Ph1/2        timeline        or
+    before     1H28     -     CMP-002     shows                and  shows  trends  in  improvement                        enrollment delays, initial data readout
+    strongly      positive      signals      from              across   key   efficacy   measures   (e.g.                 pushed out beyond 1H28
+    the      Ph1/2      initial      cohorts      in           seizure reduction, etc.)
+    SYNGAP1    (e.g    significant    seizure                                                                        ■      Negative safety signals or ambiguous
+    reduction   and/or   improvements   in                ■      The  totality  of  the  CMP-002  Ph1/2                   efficacy readings from the initial Ph1/2
+    non-seizure    measures    like    motor                   data  suggest  a  viable  development                      cohorts of CMP-002 in SYNGAP1 could
+    &    gait,    communication,    behavior,                  path forward directly into a pivotal/                      put significant pressure on the stock
+    development & cognition)                                   registrational trial in SYNGAP1 with
+                                                               good regulator alignment                              ■      Lack  of  clarity  and  visibility  on  a
+
+■      A clear and well-defined development                                                                               potential registrational path forward
+    path  forward  and  strong  alignment                 ■      Data  from  the  initial  Ph1/2  cohorts                 (trial design, endpoint selection, etc.)
+    with regulators emerges quickly based                      of  CMP-002  in  SYNGAP1  shows  the                       for CMP-002 in SYNGAP1
+    on very strong initial CMP-002 Ph1/2                       potential   for   an   attractive   dosing
+    data in SYNGAP1                                            profile                                               ■      Strongly        positive        data        from
+                                                                                                                          competitor       SYNGAP1       programs
+■      Positive POC data in SYNGAP1 helps                 ■      CMP-002 dosing beyond 3 months is                        (e.g.    PRAX,    STOK/ACAD,    Quiver,
+    de-risk   and   validate   the   platform                  cleared by regulators                                      GondolaBio) sets a high bar for success
+    and   is   a   positive   readthrough   to                                                                            and   puts   competitive   pressure   on
+    additional   haploinsufficient   /   loss-            ■      DC      nomination      from      SHANK3                 CAMP
+    of-function   high-value   rare   disease                  program announced in 2027 helps fill
+    indications,   including   the   SHANK3                    out pipeline                                          ■      CAMP   requires   significant   dilutive
+    program                                                                                                               financing
+
+
+
+■      Upward  revisions  of  sales  estimates                                                                       ■      $1 price target
+    to  >$2.5B  unadjusted  peak  sales  of
+    CMP-002 in SYNGAP1
+
+
+
+■      $16 price target
+
+COMPANY DESCRIPTION
+CAMP is biotechnology company focused on the discovery and development of RNA-targeting therapeutics, with the goal of upregulating
+gene expression and restoring healthy protein levels to treat a range of genetic diseases. The company was founded in 2016, completed
+an IPO in October 2024 and is headquartered in Watertown, MA.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                            CAMP4 Therapeutics Corporation / 2
+
+=== PDF PAGE 3 ===
+                                                                                                                                                 October 15, 2026
+
+
+PRICE PERFORMANCE                                                                                                KEY DATA
+                                                                                                                 Market Cap (MM)                             $215.2
+                                                                                  Price (USD)       $8.00        Price (10/13/2026)                           $3.43
+
+                                                                                                                 52-Week Range                         $2.86 - $7.75
+                                                                                                    $7.00        Shares Outstanding                            62.75
+                                                                                                                 Avg. Daily Volume                         317,436.5
+                                                                                                    $6.00
+
+                                                                                                    $5.00
+
+                                                                                                    $4.00
+
+                                                                                                    $3.00
+
+
+                                                                                                    $2.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                         CAMP4 Therapeutics Corporation / 3
+
+=== PDF PAGE 4 ===
+                                                                                                                                                   October 15, 2026
+
+PIPELINE
+
+  Product             Description                       Indication                PC    Ph1/2     Ph3     Review      Market        Commercial         Comments
+                                                                                                                                       Rights
+              antisense
+ CMP-002      oligonucleotide (ASO)         SYNGAP1-related disorders                      ●                                     CAMP4                        -
+              targeting SYNGAP1
+              antisense
+    TBD       oligonucleotide (ASO)         Phelan-McDermid Syndrome               ●                                             CAMP4                        -
+              targeting SHANK3
+              antisense                                                                                                                               Seeking
+  CMP-001     oligonucleotide (ASO)         Urea Cycle Disorders                           ●                                     CAMP4                partner
+              targeting CPS1
+
+CATALYSTS
+
+                                                                                                                  High      ± >10%     Positive
+                                                                                                                  Medium    ± 5-10%    Neutral
+                                                                                                                  Low       ± 3%      Negative
+  Timing     Product              Indication                          Event                  What to look for?      Stock Impact      Needham     Stock Readthroughs
+                                                                                                                                        View
+
+   4Q26     CMP-002    SYNGAP1-related disorder         Ph1 SAD/MAD trial start                      -                 Medium             -        STOK, ACAD, PRAX
+
+
+   2027     TBD        Phelan-McDermid Syndrome         DC nomination                                -                   Low                                -
+
+
+   1H28     CMP-002    SYNGAP1-related disorder         Initial results Ph1 SAD/MAD trial            -                  High                       STOK, ACAD, PRAX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                           CAMP4 Therapeutics Corporation / 4
+
+=== PDF PAGE 5 ===
+                                                                                                                                            October 15, 2026
+
+CAMP4 PLATFORM BACKGROUND
+CAMP Background and the RAP Platform: ASO-mediated gene upregulation
+
+CAMP’s RAP platform utilizes ASOs to upregulate an endogenous gene without altering DNA. The approach works through regulatory
+RNA (regRNAs), a class of RNA that play an important role in controlling gene expression by acting locally on transcription factors at
+the enhancer/promoter level. CAMP maps the regRNA that is controlling a target gene of interest and designs an ASO that binds to the
+regRNA, which amplifies gene expression. Mechanistically, the ASO binds to the target regRNA and displaces transcriptional repressor
+proteins, which drives more transcription and ultimately the production of more protein.
+
+regRNAs are short-lived and relatively scarce, so CAMP built a proprietary regRNA capture method to identify them and has assembled a
+proprietary catalog of regRNA sequences across diverse cell and tissue types that could be amenable to therapeutic intervention. The use
+of ASOs is a clinically-validated therapeutic modality, with established chemical composition and delivery methods. CAMP’s approach to
+target regRNAs allow for a programmable, tunable, and re-dosable way to upregulate a protein of interest, while avoiding the drawbacks
+and issues of delivery, immunogenicity, and safety associated with certain gene therapy or gene editing approaches.
+
+CAMP's  RAP  Platform  Step  1  -  Using  genome-wide  analysis                  CAMP's RAP Platform Step 2 - regRNA screening to identify lead
+of chromatin & RNA for identification and mapping of regRNA                      ASO drug candidates
+candidates
+
+
+
+
+
+
+
+
+
+
+
+                                                                                 CAMP's  RAP  Platform  Step  3  -  Optimization  of  ASO  drug
+                                                                                 candidates for activity, PK/PD, and safety
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                 Source: CAMP presentation Sep 2026
+
+
+Source: CAMP presentation Sep 2026
+SYNGAP1 BACKGROUND, UNMET NEED, AND CAMP'S LEAD DRUG CMP-002
+SYNGAP1 Background
+
+SYNGAP1-related   disorder   (abbr.   SYNGAP1)   is   a   monogenic   developmental   and   epileptic   encephalopathy   (DEE)   caused   by
+haploinsufficiency of the SYNGAP1 gene (one mutated SYNGAP1 gene and one unmutated functioning copy), which yields SYNGAP1
+protein ~50% of normal levels. The large majority are de novo mutations, with truncating (loss-of-function) variants predominating.
+
+        Epidemiology:  Prevalence/Incidence: CAMP estimates the prevalence is ~11K in the US and ~10K in the EU4 + UK. Based on
+        a literature review using incidence rates and adjusted for population, we arrive at similar estimates that are in line with CAMP.
+        For example, prevalence and incidence rates in the literature vary, but generally range from 1-4 per 10K; or ~6 per 100K births.
+        SYNGAP1 is estimated to represent 0.5-1% of all US cases of intellectual and development disability in children (some sources
+
+                                                                                                                     CAMP4 Therapeutics Corporation / 5
+
+=== PDF PAGE 6 ===
+                                                                                                                                                 October 15, 2026
+
+        cite up to 2%). Applying that to the estimated US intellectual/development disability cases of 7-8.5M, and adjusting for the US
+        population <18 y/o, gets a ~12K US prevalence. We provide our detailed model and assumptions below, and references for the
+        assumptions are in our model and available upon request.
+
+        Identified patient estimates:  CAMP estimates that diagnosis rates are ~15-20%. As of 9/30/26, the CURE SYNGAP1 global census
+        counted 1,871 diagnosed patients worldwide. This is the total known to SYNGAP1 advocacy organizations and family support
+        groups, and is explicitly not a registry, and it also excludes benign/likely-benign variants and VUS without an accompanying
+        clinical diagnosis. The census added +65 patients in 3Q26 (following +54 in 2Q26) and is adding ~200 new patients per year. In a
+        2023 R&D Day presentation, Praxis (PRAX; Buy; Fadia) estimated there are ~2K diagnosed SYNGAP1 patients in the US based on
+        a US claims database analysis (presentation  here ).
+
+Key Sources for SYNGAP1 Patient Characterization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: CAMP presentation Sep 2025
+        Symptoms:  The most common symptoms are (% of estimated patients occurring): developmental delay / intellectual disability
+        (100%); generalized epilepsy (~84%); and autism and other behavioral abnormalities (<50%); other common symptoms include
+        hypotonia, sleep disturbances, and feeding issues. Developmental delay precedes seizure onset in the vast majority (~95%) of
+        patients, and initial symptoms typically start in infancy. Seizure onset then follows at a median age of ~3 years. No robust genotype–
+        phenotype correlations have been established.
+
+        Diagnosis:  A genetic test is required to confirm a diagnosis. Because early symptoms (developmental delay, hypotonia, autism)
+        overlap with other neurodevelopmental disorders, the journey from onset to diagnosis often spans several years. The median age
+        of genetic diagnosis is ~3.8 years (IQR 2.7-6.8; Citizen Health + CHOP natural-history cohorts), consistent with the ~4-year median
+        (range 2-7) in Wiltrout 2025.  Diagnosis rates remain low - we model ~15-20% based on our literature/public-resource review,
+        and the ~1,871 census against prevalence implies the global rate may be even lower.  SYNGAP1 is not included in standard
+        newborn screening panels, and most newborns are not screened for genetic disease at birth, so like most rare monogenic disorders
+        the majority of cases go unidentified.
+
+        Treatment:  There are no approved or disease-modifying therapies, and no there is nothing on the market that addresses the
+        underlying genetic cause. Since most patients have epilepsy, anti-seizure medications are used off-label as front-line therapy
+        (e.g. Epidiolex, valproate, clobazam, levetiracetam, and lamotrigine are most commonly used), and polypharmacy is common.
+        However, up to 50% of SYNGAP-1 related epilepsies are drug-resistant. In drug-resistant cases, patients may undergo vagus nerve
+        stimulation or a strict ketogenic diet. Melatonin and perampanel are used in some patients with sleep disturbances, and behavioral
+        and psychiatric drugs (e.g. risperidone, aripiprazole) are used in some patients to help manage the symptoms of autism and
+        behavioral issues.
+
+        Clinical endpoints:  There are no approved or regulatory validated endpoints for SYNGAP1. In the Phase 1/2 trial, CAMP plans to
+        evaluate a range of relevant measures including seizures, Bayley-4, Vineland-3, Aberrant Behavior Checklist, 2nd edition (ABC-2),
+        Observer-Reported Communication Ability Measure (ORCA), Gross Motor Function Measure (GMFM), clinician global impression
+        (CGI-S/CGI-I), and patient-reported outcome for sleep, behavior, and quality of life (QoL).
+
+
+
+                                                                                                                         CAMP4 Therapeutics Corporation / 6
+
+=== PDF PAGE 7 ===
+                                                                                                                                              October 15, 2026
+
+WHAT ARE THE UNMET NEEDS IN SYNGAP1-RELATED DISORDER?
+Improved diagnosis: The average time to diagnosis is ~5 years from the first symptom. Diagnosis rates are relatively low and are
+estimated to be ~15-20% of the total prevalence. Improvements in time to diagnosis and diagnosis rates are needed, and we feel that these
+would likely dramatically improve if a disease-modifying therapy were available.
+
+Better seizure control that anti-seizure medications (ASMs) can’t deliver: ~85% of patients have epilepsy, and these patients often
+present with multiple types of seizures that are commonly resistant to the standard regimen of ASMs. Seizure burden/control is one of
+the most important areas of unmet need in SYNGAP1.
+
+No disease-modifying therapies available: There are no approved drugs for SYNGAP1. SoC drugs are used to manage symptoms and
+include off-label use of anti-seizure medications, cannabinoids, and sleep medications, but none of these options address the genetic
+cause (haploinsufficiency) of the disease. CMP-002 is being positioned as the first disease-modifying therapy.
+
+Therapies that improve cognition / intellectual disability: ~100% of SYNGAP1 patients have an intellectual disability, and there is
+currently no therapy that improves this trajectory. SoC in this area is limited to behavorial/educational/speech therapy. Along with
+seizures, this is one of the most important areas of unmet need.
+
+CMP-002 is an antisense oligonucleotide (ASO) designed to bind to a specific regulatory RNA sequence, thereby increasing SYNGAP1
+gene expression and protein production. By restoring these protein levels closer to wild-type, the therapy ultimately aims to
+normalize synaptic function to improve symptoms and potentially modify the disease in patients with SYNGAP1-related disorders.
+
+Figure 4 - CMP-002 Mechanism of Action: designed to increase production of the SYNGAP1 protein, thereby normalizing synaptic
+function in patients with SYNGAP1-related disorder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: CAMP presentation Sep 2026
+CMP-002: PRECLINICAL DATA SUMMARY
+CMP-002 shows target engagement and proof-of-mechanism in human cells and translation in a “humanized” SYNGAP1 mouse
+model (Figure 5)
+
+Figure 5 shows the data for an in vitro experiment in SYNGAP1 patient iPSC-derived neurons. The graph plots the effect of increasing
+CMP-002 concentrations (0 to 200 nM) or a nontargeting ASO control (“NTC”) on SYNGAP1 mRNA levels. The three curves represent:
+1) a familial control + NTC (grey line); 2) SYNGAP1 patient neurons + NTC (purple line); and 3) SYNGAP1 patient neurons + CMP-002
+(teal line). The data are normalized to the familial control neurons + NTC (grey line), so SYNGAP1 mRNA levels are displayed as x-fold
+in reference to the control.
+
+Since the familial (wild-type) control (grey line) represents the wild-type SYNGAP1 mRNA levels, by definition it stays at 1.0x across the
+entire dose range. In the SYNGAP1 patient neurons + NTC (purple line), the SYNGAP1 mRNA levels remain ~50% below the control (wild-
+type levels), and represents the expected haploinsufficiency (~50% expression levels) baseline. In the SYNGAP1 patient neurons + CMP-002
+
+                                                                                                                      CAMP4 Therapeutics Corporation / 7
+
+=== PDF PAGE 8 ===
+                                                                                                                                                October 15, 2026
+
+data (teal line), the SYNGAP1 mRNA increases in a dose-dependent fashion, starting from ~0.5x at concentrations <50 nM, and increasing
+to ~1.25x at 200 nM.
+
+        Needham takeaways: the data shows that CMP-002 is able to increase SYNGAP1 mRNA levels from ~50% of normal to normal
+        healthy control levels in a dose-dependent fashion. Given the lack of impact of the NTC control on SYNGAP1 mRNA expression
+        levels, the data suggests that CMP-002 is engaging the target and producing the desired effect and is not due to an off-target
+        mechanism or artifact.
+
+Figure 5 - CMP-002 Dosing Leads to Functional Efficacy in a SYNGAP1 Haploinsufficient
+Mouse Model
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: CAMP presentation Sep 2026
+CMP-002 Data in Humanized Mouse Model Restores SYNGAP protein to near wild-type levels. (Figure 6)
+
+In a separate set of in vivo experiments, CAMP evaluated CMP-002 in a humanized SYNGAP1 mouse model, to determine whether
+SYNGAP1 protein levels could be increased with treatment. The data below show ICV dosing at P21 in a humanized SYNGAP1 mouse
+model and the data readout is SYNGAP1 protein, normalized to a homozygous control.
+
+The figure shows in vivo data from a humanized mouse showing SYNGAP1 protein levels normalized to a homozygous control (grey bar).
+The bars to the right of the control show data in haploinsufficient mice, with the artificial CSF (aCSF) control (purple bar) showing the
+expected ~50% SYNGAP1 protein expression relative to the homozygous control (grey). Across the three ascending doses (25 / 50 / 100
+ug) of CMP-002 in haploinsufficient mice, the SYNGAP1 protein levels start at ~50% and increase in a dose-dependent fashion to ~75% of
+the homozygous control group (which approximates the wild-type levels).
+
+        Needham takeaways: We note there are the usual preclinical caveats to the data, including different readouts across data sets
+        (in vitro mRNA levels vs. protein levels in a mouse), so not a direct comparison within a single system. That said, we think the
+        takeaways are that CMP-002 increased SYNGAP1 protein to wild-type levels in a dose-dependent manner, and the data suggests
+        that CMP-002 target engagement/activity in vitro translates to the transcription level (mRNA) and converts to functional protein in
+        vivo. We note that in the mouse model, the magnitude of SYNGAP1 protein expression is roughly calibrated to the therapeutically
+        relevant window, in that the dose levels shown restore SYNGAP1 protein to levels above the haploinsufficent baseline but do not
+        exceed the wild-type levels, which could be problematic from a safety/toxicity perspective.
+
+
+
+
+
+
+                                                                                                                        CAMP4 Therapeutics Corporation / 8
+
+=== PDF PAGE 9 ===
+                                                                                                                                                    October 15, 2026
+
+Figure 6 - CMP-002 Data in Humanized Mouse Model - restores SYNGAP1 protein to near wild-type levels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: CAMP presentation Sep 2026
+Intrathecal administration of CMP-002 in NHPs leads to broad, dose-dependent distribution across disease-relevant brain regions
+and a ~1.3-1.6x increase in SYNGAP1 protein levels. (Figure 7)
+
+Study design: CMP-002 was administered via intrathecal injection (low/mid/high dose) Q2W x 3 doses to healthy, wild-type cynomolgus
+monkeys (n=4 per group), plus a control group (data are normalized to aCSF). Necropsy was performed 2 weeks after last dose.
+
+Figure 7 (left) shows CMP-002 concentration (y-axis; normalized on a 0-100 scale) across six regions of the brain: frontal cortex, temporal
+cortex, parietal cortex, motor cortex, occipital cortex, and hippocampus. The exact dose levels are not disclosed, but are low / mid / high.
+The data show a dose-dependent increase in CMP-002 concentration across all of the listed brain regions, with no region below the ~50
+range, which suggests CMP-002 is reaching all six of the listed regions.
+
+PD follows the PK effect - dose-dependent increases in SYNGAP1 protein. In Figure 7 (right), the data shows SYNGAP1 protein levels
+from the frontal cortex (highest CMP-002 concentration at high dose) and the hippocampus (lowest CMP-002 concentration at high dose).
+SYNGAP1 protein levels increase in a dose-dependent manner in both the frontal cortex and the hippocampus, and from our estimation
+of the graph, we see a ~30-60% increase in SYNGAP protein levels at the high dose. This tracks well with the PK data and CMP-002 levels
+shown in the figure on the right.
+
+Collectively, this data supports our confidence in the PK/PD correlation and the ability of CMP-002 to get into clinically relevant regions of
+the brain. The magnitude of the protein increase (~30-60%) is also clinically relevant if one assumes a similar increase in haploinsufficient
+SYNGAP1 protein levels of ~50% of normal at baseline, that would put near the wild-type or normal levels, which also supports the mouse
+model data discussed above.
+
+
+
+
+
+
+
+
+
+
+                                                                                                                           CAMP4 Therapeutics Corporation / 9
+
+=== PDF PAGE 10 ===
+                                                                                                                                              October 15, 2026
+
+Figure 7 - Intrathecal administration of CMP-002 in NHPs leads to broad, dose-dependent distribution across disease-relevant brain
+regions and a ~1.3-1.6x increase in SYNGAP1 protein levels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: CAMP presentation Sep 2026
+CMP-002: PHASE 1/2 ASCEND TRIAL IN SYNGAP1
+CAMP disclosed the Phase 1/2 ASCEND trial design during a virtual analyst day on 9/28/26. The trial design and descriptions
+are shown below.
+
+Figure 8 - CMP-002 Phase 1/2 ASCEND Trial in SYNGAP1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: CAMP presentation Sep 2026
+CMP-002 Phase 1/2 ASCEND Trial. Patients will be randomized 3:1 (CAMP-002 intrathecal injection : sham pinprick control) and an
+open-label extension (OLE) will be offered to all eligible patients. The trial will be conducted in 11+ sites across 9 countries and 5 regulatory
+regions (4 sites in already-approved regions; 7 EU sites pending EU review)
+
+
+
+                                                                                                                     CAMP4 Therapeutics Corporation / 10
+
+=== PDF PAGE 11 ===
+                                                                                                                                                    October 15, 2026
+
+         Population: ≥8 participants per cohort; ages 2 to <18; genetically confirmed SYNGAP1 with protein-truncating mutations in exons
+         5-19; required daily seizures, impaired sleep, inability to speak in phrases; refractory epilepsy (daily seizures despite ≥1 ongoing
+         ASM and prior trial of ≥2 ASMs); stable ASM regimen at baseline
+
+         Cohort escalation: ≥4-week baseline; treatment period of 3 doses over 3 months; 6-month follow-up → ~10 months total per
+         participant. After 2 doses in 8 participants, Safety Review Committee reviews all safety data before next-cohort dosing
+
+         Efficacy objectives: includes seizures, sleep, motor/gait, communication, behavior, development, cognition. A summary of the
+         scales being used to measure behavior, development, communication, and motor function are shown in Figure 11. Video EEG,
+         seizure diaries, the SIRIUS seizure-impact scale, Children's Sleep Habits Questionnaire, and actigraphy will also be utilized
+
+Figure 9 - CMP-002 Phase 1/2 Trial in SYNGAP1 - Overview                             Figure 10 - CMP-002 Phase 1/2 Trial in SYNGAP1 - Eligibility Criteria
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: CAMP presentation Sep 2026
+
+                                                                                     Source: CAMP presentation Sep 2026
+Figure 11 - CMP-002 Ph1/2 ASCEND Trial in SYNGAP1 - validated scales to be used to assess behavior, development, communication, and
+motor function
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: CAMP presentation Sep 2026
+
+
+
+
+
+
+
+
+
+
+                                                                                                                          CAMP4 Therapeutics Corporation / 11
+
+=== PDF PAGE 12 ===
+                                                                                                                                                October 15, 2026
+
+Our key takeaways from the CAMP analyst day on 9/28/26 as it pertains to the CMP-002 Phase 1/2 Trial in SYNGAP1:
+
+
+
+■      Seizure reduction as a potential registrational endpoint. CAMP mgmt noted that as a 1st-in-disease program (no approved drugs
+    for SYNGAP1) they can't yet define a meaningful threshold for success; regulatory discussions have centered around having reliable
+    and validated ways to assess changes across multiple methods rather than agreeing on a specific number (e.g. seizure reduction %).
+    Mgmt has engaged regulators globally and is intentionally trying to keep them "open-minded"; CAMP mgmt declined to pre-define/
+    pre-commit to clinical endpoints, emphasizing reliable, validated methodologies so that any observed movement is credible.
+
+
+
+■      Dose-response expectations. Mgmt has not yet disclosed the dose levels but noted that all three dose levels are "within the expected
+    therapeutic range", framing the initial low starting dose as a safety-oriented, peer-consistent approach.
+
+
+
+■      Natural history study comparison. Mgmt acknowledged natural history (NH) visit cadence (often ~6-monthly) is less frequent
+    than the visits on the Phase 1/2 ASCEND trial but noted NH assesses a broader window; they highlighted the ≥4-week baseline and
+    the internal sham control for comparison. The Phase 1/2 ASCEND trial is not powered for statistical significance vs. control, but
+    numerical comparisons can be made.
+
+
+
+■      Timing of data disclosure - 1H28 initial topline disclosure is a conservative base case. Mgmt's goal is to deliver a high-quality trial
+    with high confidence in the results that also provides development pathway optionality going forward. They will not be reviewing data
+    on a streaming/routine basis to protect the double-blind integrity of the trial (important given caregiver/clinician-rated assessments).
+    Certain (undisclosed) pre-specified review points exist but interim commentary or disclosure is not promised. Mgmt noted there
+    could be potential scenarios in which exceptional data could warrant early/interim data disclosure, but noted these are unpredictable
+    and reiterated its stance on delivering high quality data.
+
+PIPELINE BEYOND SYNGAP1
+
+■      SHANK3  (Phelan-McDermid  Syndrome):  SHANK3  is  a  post-synaptic  scaffolding  protein  and  haploinsufficiency  presents  a
+    phenotype that is very similar to SYNGAP1. The estimated US patient prevalence is ≥45,000 and existing natural history study/registry
+    have >3,500 patients. CAMP is planning to nominate a development candidate in 2027. Preclinical data translation to the clinic relies
+    more on primate data (plus related mouse models) as the humanized-mouse model is less established than SYNGAP1's.
+
+
+
+
+■      Two additional brain haploinsufficiency programs are expected to be disclosed over the next year, which mgmt has framed as
+    franchise-leveraging shared brain targets, with intrathecal delivery and a haploinsufficiency mechanism.
+
+SYNGAP1 COMPETITIVE LANDSCAPE
+Praxis Precision Medicines (PRAX):  PRAX-090: utilizes the Solidus ASO platform, which employs computational design for bi-
+directional tuning (up or down regulation of a target transcript). PRAX-090 is designed to upregulate SYNGAP1 mRNA and protein to
+address SYNGAP1-related loss-of-function (LoF) mutations.
+
+        Summary of past results: no results presented to date, preclinical proof-of-mechanism only
+
+        Current status: Preclinical. PRAX is guiding to nominate a development candidate for each of its three early-stage ASO programs,
+        including PRAX-090 for SYNGAP1, although timelines for the SYNGAP1 program are not clear at this time
+
+Stoke Therapeutics (STOK) / Acadia Pharmaceuticals (ACAD):  utilizes the TANGO (Targeted Augmentation of Nuclear Gene Output)
+platform to design ASOs that reduce non-productive splicing and upregulate productive mRNA/protein. Announced in January 2022,
+the collaboration includes SYNGAP1, Rett Syndrome (MECP2), and one undisclosed CNS target; for SYNGAP1 the companies share WW
+R&D and commercialization 50/50 on WW costs and profits, with Stoke eligible for development, regulatory, and sales-based milestones.
+Acadia made an upfront payment of $60M. Stoke leads research/preclinical work on Rett and undisclosed targets, but SYNGAP1 is the
+50/50 co-development and co-commercialization partnership.
+
+        Summary of past results: no clinical results to date
+
+        Current status: discovery/lead optimization. SYNGAP1 clinical candidate nomination could come in 2026
+
+
+
+                                                                                                                       CAMP4 Therapeutics Corporation / 12
+
+=== PDF PAGE 13 ===
+                                                                                                                                                        October 15, 2026
+
+Quiver Biosciences (private):  Utilizes its proprietary Genomic Positioning System (GPS) platform, which is a scalable single-cell
+human neuronal electrophysiology platform paired with AI/ML analytics and ASO design. The SYNGAP1 program is an ASO for the DEE
+presentation.
+
+         Summary of past results: none disclosed
+
+         Current status: listed in the company’s pipeline as SYNGAP1 in the early discovery phase
+
+GondolaBio (private):  BridgeBio sister company, launched in 2024 with $300M.
+
+         Summary of past results: none disclosed
+
+         Current status: SYNGAP1 appears in the GondolaBio pipeline in the discovery/lead op stage
+
+PHYSICIAN SURVEY ON SYNGAP1
+We conducted a survey of US physicians (n=16; epileptologists & neurologists) who treat SYNGAP1 patients
+- the survey was conducted 9/23/26 through 9/28/26 using Guidepoint.
+We believe the results of this survey highlight the significant unmet need and commercial opportunity in SYNGAP1, and bode well for
+CAMP's development of CMP-002.
+
+Question 1: What is your primary specialty? How many patients with genetically confirmed SYNGAP1-related disorder do
+you currently actively manage?
+                                          # of   number of patients you suspect have
+ Respondent State       Specialty      SYNGAP1   SYNGAP1 but who are genetically
+                                        patients unconfirmed
+     1     NY    Epileptologist            2                      0
+     2     NY    Adult neurologist         1                      0
+     3     NY    Epileptologist            8                      1
+     4     IL    Pediatric neurologist    10                      0                                              Pediatric
+     5     NY    Adult neurologist         1                      0
+     6     NV    Adult neurologist         2                      0                                            neurologist
+
+     7     FL    Pediatric neurologist     1                      0                                                    4                Epileptologist
+     8     WA    Epileptologist            7                      3
+     9     TN    Adult neurologist         2                      0                                                                              7
+
+    10     PA    Epileptologist            7                      2
+    11     OR    Epileptologist            3                      0                                                   Adult
+    12     WA    Adult neurologist        10                      3
+    13     NC    Pediatric neurologist     2                      0                                               neurologist
+
+    14     AZ    Epileptologist            6                      10                                                     5
+    15     AR    Pediatric neurologist    17                      7
+    16     NJ    Epileptologist            6                      0
+                               Average    5.3
+
+                               Median     4.5
+
+      18                                                                                ■      Small,     concentrated     patient     base     with     a     sizable
+
+      16                                                                                     undiagnosed pool. The panel manages about 85 SYNGAP1
+
+      14                                                                                     patients (mean 5.3, median 4.5), concentrated in a few high-
+
+      12                                                                                     volume  physicians  (one  manages  17).  Respondents  report
+
+      10                                                                                     71   genetically   confirmed   patients   and   26   suspected   but
+       8                                                                                     unconfirmed.   Suspected   cases   are   concentrated   in   three
+
+       6                                                                                     respondents (10, 7 and 3), and 10 of 16 report none.
+       4
+       2
+
+       0
+           15   4   12   3   8   10   14   16  11   1    6   9   13   2    5   7
+                                        Respondent #
+
+
+                                        Average = 5.3
+
+
+
+                                                                                                                              CAMP4 Therapeutics Corporation / 13
+
+=== PDF PAGE 14 ===
+                                                                                                                                                                                                  October 15, 2026
+
+Question 2: Over the past 3 years, the number of SYNGAP1 patients you diagnose or manage has:
+
+                                                    # of        Increased      Increased     Stayed about
+ Respondent    State          Specialty          SYNGAP1      significantly    somewhat        the same       Decreased                                               Explanation
+                                                  patients
+      1       NY      Epileptologist                 2                                             X                       it hasn't changed. Its a rare condition that we don't see every year.
+
+      2       NY      Adult neurologist              1                                             X                       Only have 1 patient
+
+      3       NY      Epileptologist                 8                                             X                       no meaningful inc or dec
+
+      4       IL      Pediatric neurologist          10                            X                                       More frequent usage of genetic testing
+
+      5       NY      Adult neurologist              1                                             X                       Disease itself is very rare and I have only seen two cases, one of which I am currently managing.
+
+      6       NV      Adult neurologist              2                                             X                       same
+
+      7       FL      Pediatric neurologist          1                                             X                       I have diagnosed about one patient every 1-2 years
+
+      8       WA      Epileptologist                 7                                             X                       No change
+
+      9       TN      Adult neurologist              2                             X                                       better recognition and more reliable/available testing have improved diagonsis
+
+      10      PA      Epileptologist                 7                             X                                       Genetic phenotyping is now more accessible
+
+      11      OR      Epileptologist                 3                             X                                       Went from 1 to 3
+
+      12      WA      Adult neurologist              10                            X                                       Increased awareness and screening with genetic panels
+
+      13      NC      Pediatric neurologist          2                                             X                       stayed about the same
+
+      14      AZ      Epileptologist                 6                             X                                       I have gotten more insurance coverage for epilepsy gene testing, and thus the incidence of finding
+                                                                                                                           pathogenic variants to SYNGAP1 is increasing.
+
+      15      AR      Pediatric neurologist          17             X                                                      more testing
+
+      16      NJ      Epileptologist                 6                                             X                       very rare disease
+
+                                                   Count            1              6               9              0
+
+                                                     %             6%             38%            56%             0%
+
+
+                                                                                                                ■      Patient volumes are stable to growing, with growth driven
+                                                         Increased                                                     by testing, not prevalence. No physician reported a decline
+                                                         significantly                                                 in diagnosis. 56% say patient numbers are flat, 38% say they
+                                                         6%                                                            rose somewhat and 6% say significantly. Respondents who saw
+                                                                                                                       growth credit more genetic testing, better insurance coverage
+                                                                                                                       for epilepsy panels and greater awareness.
+
+
+                        Stayed                                   Increased
+                        about the                                somewhat
+                        same                                     38%
+                        56%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                CAMP4 Therapeutics Corporation / 14
+
+=== PDF PAGE 15 ===
+                                                                                                                                                                                      October 15, 2026
+
+Question 3: In your experience, what is the typical time from first symptoms to a confirmed SYNGAP1 diagnosis?
+
+                                           # of
+ Respondent State       Specialty       SYNGAP1   <6 months  6–12 months 1–3 years 3–5 years >5 years             9
+                                         patients
+     1      NY   Epileptologist             2                                X                                    8
+     2      NY   Adult neurologist          1                                X
+     3      NY   Epileptologist             8                                X                                    7
+     4      IL   Pediatric neurologist     10                     X
+     5      NY   Adult neurologist          1                                X                                    6
+     6      NV   Adult neurologist          2                                X
+     7      FL   Pediatric neurologist      1                     X                                               5
+     8      WA   Epileptologist             7                                          X
+     9      TN   Adult neurologist          2                     X                                               4
+
+     10     PA   Epileptologist             7                     X
+     11     OR   Epileptologist             3                                X                                    3
+
+     12     WA   Adult neurologist         10                     X                                               2
+     13     NC   Pediatric neurologist      2                     X
+     14     AZ   Epileptologist             6                                          X                          1
+     15     AR   Pediatric neurologist     17                                X
+     16     NJ   Epileptologist             6                                X                                    0
+                                          Count       0           6          8         2        0                       <6 months            6–12         1–3 years        3–5 years        >5 years
+
+                                           %         0%          38%        50%      13%       0%                                          months
+
+
+
+
+                                                                                                         ■      Diagnosis  typically  takes  a  year  or  more  after  symptom
+                                                                                                               onset. Half say 1-3 years, 38% say 6-12 months and 13% say 3-5
+                                       3–5                                                                     years. No one reports under 6 months or over 5 years.
+                                     years
+                                      13%
+                                                      6–12 months
+                                                                38%
+
+
+                           1–3 years
+                                50%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                      CAMP4 Therapeutics Corporation / 15
+
+=== PDF PAGE 16 ===
+                                                                                                                                                                                                    October 15, 2026
+
+Question 4: What is the single biggest bottleneck to a confirmed SYNGAP1 diagnosis?
+
+                                       # of   Access to genetic Cost /   Low clinical Gene content
+ RespondentState      Specialty      SYNGAP1      testing     insurance   suspicion    of testing   Other                7
+                                      patients                coverage                  panels                                        6                  6
+     1     NY   Epileptologist          2           X                                                                    6
+     2     NY   Adult neurologist       1                        X
+     3     NY   Epileptologist          8           X                                                                    5
+     4     IL   Pediatric neurologist   10                                   X
+     5     NY   Adult neurologist       1                                    X                                           4
+     6     NV   Adult neurologist       2                        X
+     7     FL   Pediatric neurologist   1           X                                                                                                                       3
+     8     WA   Epileptologist          7                        X                                                       3
+
+     9     TN   Adult neurologist       2                        X
+    10     PA   Epileptologist          7                        X                                                       2
+
+    11     OR   Epileptologist          3           X                                                                                                                                          1
+    12     WA   Adult neurologist       10          X                                                                    1
+
+    13     NC   Pediatric neurologist   2                                                 X                                                                                                                       0
+    14     AZ   Epileptologist          6                        X                                                       0
+
+    15     AR   Pediatric neurologist   17          X                                                                            Access to            Cost /         Low clinical      Gene content            Other
+    16     NJ   Epileptologist          6                                    X                                                    genetic           insurance          suspicion         of testing
+
+                                      Count         6            6           3            1           0                            testing          coverage                               panels
+
+                                        %          38%          38%         19%          6%          0%
+
+
+                                                                                                                 ■     Testing  access  and  cost,  not  clinical  suspicion,  are  the
+                  Gene                                                                                                  main diagnostic barriers. Access to genetic testing and cost/
+              content of
+                 testing                                                                                                insurance coverage tie at ~38% each, so 75% point to testing-
+                 panels                                                                                                 related barriers. Low clinical suspicion is 19% and panel gene
+                    6%                                                                                                  content is 6% (see the data note below).
+                        Low clinical                                Access to
+                          suspicion                                  genetic
+                              19%                                     testing
+                                                                        38%
+
+
+
+
+                                       Cost /
+                                    insurance
+                                     coverage
+                                        38%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                  CAMP4 Therapeutics Corporation / 16
+
+=== PDF PAGE 17 ===
+                                                                                                                                                                           October 15, 2026
+
+Question 5: How do you currently manage your SYNGAP1 patients, and how satisfied are you with each approach? Rate
+each row: 1 = very satisfied 2 = satisfied 3 = neutral 4 = dissatisfied 5 = very dissatisfied N/A = do not use
+
+                                                             # of                                        Behavioral /
+ Respondent      State             Specialty              SYNGAP1            Anti-seizure              developmental           Psychopharmacology           Sleep interventions
+                                                          patients           medications              therapies (OT, PT,        for behavior / mood
+                                                                                                           speech)
+
+       1         NY      Epileptologist                       2                     2                          3                           3                          3
+       2         NY      Adult neurologist                    1                     2                          3                           4                          4
+       3         NY      Epileptologist                       8                     3                          3                           2                          2
+       4         IL      Pediatric neurologist                10                    3                          2                           2                          4
+       5         NY      Adult neurologist                    1                     2                          2                           4                          3
+       6         NV      Adult neurologist                    2                     3                          3                           3                          3
+       7         FL      Pediatric neurologist                1                     2                          3                           4                          4
+       8         WA      Epileptologist                       7                     2                          4                           5                          4
+       9         TN      Adult neurologist                    2                     3                          4                           4                          4
+       10        PA      Epileptologist                       7                     4                          2                           4                          4
+       11        OR      Epileptologist                       3                     3                          4                           4                          4
+       12        WA      Adult neurologist                    10                    4                          3                           3                          3
+       13        NC      Pediatric neurologist                2                     4                          4                           3                          3
+       14        AZ      Epileptologist                       6                     2                          2                           4                          4
+       15        AR      Pediatric neurologist                17                    3                          4                           3                          4
+       16        NJ      Epileptologist                       6                     3                          1                           3                          2
+                                                        Average                    2.8                        2.9                         3.4                        3.4
+
+                                                        Median                     3.0                        3.0                         3.5                        4.0
+
+                                            High (very dissatisfied)                4                          4                           5                          4
+                                                Low (very satisfied)                2                          1                           2                          2
+
+
+                                   Count - High (very dissatisfied)               19%                        31%                          6%                        56%
+
+                                       Count - Low (very satisfied)               38%                         6%                         13%                        13%
+
+
+
+          4.0                          Average Ranking                                                                       % of Docs Ranking as "1 = Very Satisfied"
+ Less                                                                                                  40%           38%
+ Satisfied
+          3.5                                                 3.4                 3.4                  35%
+
+
+          3.0          2.8                2.9                                                          30%
+
+
+          2.5                                                                                          25%
+
+
+          2.0                                                                                          20%
+
+
+          1.5                                                                                          15%
+                                                                                                                                                               13%                  13%
+
+          1.0                                                                                          10%
+
+          0.5                                                                                                                              6%
+ MoreSatisfied                                                                                          5%
+
+          0.0                                                                                           0%
+               Anti-seizure medicationsBehavioral /   Psychopharmacology forSleep interventions               Anti-seizure medicationsBehavioral / developmentalPsychopharmacology forSleep interventions
+                                   developmental therapiesbehavior / mood
+                                      (OT, PT, speech)                                                                            therapies (OT, PT, speech)behavior / mood
+
+
+
+■      Current SYNGAP1 management leaves room for improvement, especially for sleep and behavior/mood. No approach clearly
+     satisfies physicians. Anti-seizure medications score best (avg 2.8/5.0) and behavioral/developmental therapies are polarized (avg
+     2.9/5.0). Psychopharmacology (avg 3.4/5.0) and sleep interventions (avg 3.4/5.0) are weakest, with 50% and 56% of respondents
+     dissatisfied, respectively.
+
+
+
+                                                                                                                                             CAMP4 Therapeutics Corporation / 17
+
+=== PDF PAGE 18 ===
+                                                                                                                                                                             October 15, 2026
+
+Question 6: Across symptom domains, where is the greatest unmet therapeutic need for your SYNGAP1 patients? Select
+your top 3 and rank them: 1 = highest need, 2 = second, 3 = third, ... 6 = least unmet need.
+
+                                                                 # of                             Cognition /          Language /          Behavior &            Adaptive
+ Respondent        State             Specialty               SYNGAP1        Seizure control       intellectual      communication             mood              function /             Sleep
+                                                              patients                              disability                                                independence
+
+        1         NY       Epileptologist                         2                 2                    1                   3                   4                    5                   6
+        2         NY       Adult neurologist                      1                 6                    4                   3                   2                    1                   5
+        3         NY       Epileptologist                         8                 4                    2                   3                   5                    1                   6
+        4         IL       Pediatric neurologist                  10                3                    1                   2                   4                    5                   6
+        5         NY       Adult neurologist                      1                 5                    1                   2                   3                    6                   4
+        6         NV       Adult neurologist                      2                 1                    2                   4                   3                    5                   6
+        7         FL       Pediatric neurologist                  1                 5                    4                   3                   2                    1                   6
+        8         WA       Epileptologist                         7                 6                    3                   4                   1                    2                   5
+        9         TN       Adult neurologist                      2                 5                    1                   2                   4                    3                   6
+       10         PA       Epileptologist                         7                 1                    2                   3                   4                    5                   6
+       11         OR       Epileptologist                         3                 6                    3                   1                   2                    4                   5
+       12         WA       Adult neurologist                      10                2                    1                   3                   4                    5                   6
+       13         NC       Pediatric neurologist                  2                 5                    3                   2                   4                    1                   6
+       14         AZ       Epileptologist                         6                 2                    1                   3                   4                    5                   6
+       15         AR       Pediatric neurologist                  17                6                    1                   2                   3                    4                   5
+       16         NJ       Epileptologist                         6                 2                    4                   3                   5                    1                   6
+                                                            Average                3.8                  2.1                 2.7                 3.4                  3.4                 5.6
+
+                                                            Median                 4.5                  2.0                 3.0                 4.0                  4.0                 6.0
+
+                                                    High (lower need)               6                    4                   4                   5                    6                   6
+                                                    Low (higher need)               1                    1                   1                   1                    1                   4
+
+                                           Count - High (lower need)               25%                 19%                 13%                  13%                  6%                 69%
+
+                                           Count - Low (higher need)               13%                 44%                  6%                  6%                  31%                  6%
+
+                                          Total Score                                                                                       Average Ranking
+         100                                                                                          Lower Unmet 6                                                                        5.6
+ Less                                                                                 90              Need
+ Important90
+                                                                                                                5
+          80
+
+          70                                                                                                    4                                                             3.8
+                                                                         61                                                                        3.4          3.4
+          60                                   54           54
+          50                                                                                                    3                     2.7
+                                 43
+          40                                                                                                            2.1
+                    34                                                                                          2
+          30
+
+          20                                                                                                    1
+
+          10                                                                                          Higher Unmet
+ More                                                                                                 Need      0
+ Important  0                                                                                                         Cognition /  Language / Behavior & mood Adaptive   Seizure control  Sleep
+                 Cognition /  Language / Behavior & mood  Adaptive  Seizure control  Sleep                            intellectualcommunication               function /
+                 intellectualcommunication               function /                                                   disability                            independence
+                  disability                           independence
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                               CAMP4 Therapeutics Corporation / 18
+
+=== PDF PAGE 19 ===
+                                                                                                                                                                  October 15, 2026
+
+
+                     % of Docs Ranking as "1 = Highest Need"                                ■      Cognition     is     the     top     unmet     need,     followed     by
+50%                                                                                              communication and adaptive function; seizures and sleep
+45%       44%                                                                                    rank lower. Cognition/intellectual disability ranks first (avg
+
+40%                                                                                              rank  2.1/6.0,  #1  for  44%)  and  language/communication  is
+
+35%                    31%                                                                       second (2.7/6.0). Adaptive function is polarized (31% rank it #1,
+
+30%                                                                                              but avg 3.4/6.0). Seizure control ranks lower in unmet need than
+
+25%                                                                                              expected (avg 3.8/6.0), consistent with relative satisfaction with
+
+20%                                                                                              anti-seizure medications. Sleep is clearly last (avg 5.6/6.0).
+
+15%                                  13%
+
+10%                                                6%            6%           6%
+
+ 5%
+
+ 0%
+        Cognition /Adaptive functionSeizure controlLanguage /Behavior & mood Sleep
+        intellectual/ independence             communication
+        disability
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                     CAMP4 Therapeutics Corporation / 19
+
+=== PDF PAGE 20 ===
+                                                                                                                                                           October 15, 2026
+
+Question 7: Consider a disease-modifying therapy that targets the underlying SYNGAP1 haploinsufficiency — administered
+by intrathecal injection, designed to raise SYNGAP protein toward normal levels and improve outcomes across multiple
+domains. Assume a favorable safety and efficacy profile. Of the SYNGAP1 patients you manage, approximately what
+proportion would you consider clinically appropriate candidates?
+                                           # of
+ Respondent State       Specialty       SYNGAP1   < 10%  10-25%  25-50%  50-75% > 75%             9
+                                         patients                                                                                                                     8
+     1      NY   Epileptologist             2                      X                              8
+     2      NY   Adult neurologist          1                                     X
+     3      NY   Epileptologist             8                              X                      7
+
+     4      IL   Pediatric neurologist     10                                     X               6
+     5      NY   Adult neurologist          1                                     X
+     6      NV   Adult neurologist          2               X                                     5
+     7      FL   Pediatric neurologist      1                                     X
+     8      WA   Epileptologist             7                      X                              4
+     9      TN   Adult neurologist          2                              X                                                             3             3
+     10     PA   Epileptologist             7                                     X               3
+                                                                                                                           2
+     11     OR   Epileptologist             3                                     X               2
+     12     WA   Adult neurologist         10                              X
+     13     NC   Pediatric neurologist      2               X                                     1
+     14     AZ   Epileptologist             6                                     X               0
+     15     AR   Pediatric neurologist     17                      X
+     16     NJ   Epileptologist             6                                     X                      < 10%         10-25%        25-50%        50-75%          > 75%
+
+                                          Count     0       2      3       3      8
+                                            %       0%    13%     19%     19%    50%
+
+
+                                                                                          ■      Physicians   see   a   broad   addressable   population   for   a
+                                                10-25%       of pts                            disease-modifying therapy. Half would consider more than
+                                                        13%                                    75% of their patients appropriate candidates, and 69% would
+                                                                                               consider more than half. No one chose under 10%.
+
+
+
+                   > 75%      of pts                25-50%       of pts
+                          50%                               19%
+
+
+                                              50-75%       of pts
+                                                      19%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                CAMP4 Therapeutics Corporation / 20
+
+=== PDF PAGE 21 ===
+                                                                                                                                                                                    October 15, 2026
+
+Question 8: Consider a disease-modifying therapy that targets the underlying SYNGAP1 haploinsufficiency — administered
+by intrathecal injection, designed to raise SYNGAP protein toward normal levels and improve outcomes across multiple
+domains. Assume a favorable safety and efficacy profile. What is the youngest age at which you would consider initiating a
+disease-modifying therapy?
+
+                                  # of                                              As early as
+RespondentState    Specialty    SYNGAP1   < 1yr   1-2 yrs  3-5 yrs 6-12 yrs > 12 yrsdiagnosed None             6
+                                patients
+    1    NY   Epileptologist       2                X
+    2    NY   Adult neurologist    1       X                                                                                                                                           5
+    3    NY   Epileptologist       8                                                   X                       5
+
+    4    IL   Pediatric neurologist10      X
+    5    NY   Adult neurologist    1                         X                                                                       4           4
+    6    NV   Adult neurologist    2                X                                                          4
+
+    7    FL   Pediatric neurologist1                         X
+    8    WA   Epileptologist       7                                                   X                                 3
+    9    TN   Adult neurologist    2                X                                                          3
+    10   PA   Epileptologist       7                         X
+    11   OR   Epileptologist       3                X
+    12   WA   Adult neurologist   10                                                   X                       2
+    13   NC   Pediatric neurologist2                         X
+    14   AZ   Epileptologist       6                                                   X
+    15   AR   Pediatric neurologist17      X                                                                   1
+    16   NJ   Epileptologist       6                                                   X
+                                 Count     3        4        4       0        0        5       0
+                                   %      19%      25%      25%      0%      0%       31%      0%              0
+                                                                                                                      < 1yr       1-2 yrs     3-5 yrs     6-12 yrs     > 12 yrs   As early as    None
+                                                                                                                                                                                  diagnosed
+
+
+                                                                                                        ■      Most physicians would treat early, with 75% willing to start
+                                                                                                              by age 2. 31% would start as early as diagnosed, 19% under 1
+                                                                                                              year and 25% at 1-2 years. The remaining 25% would start at 3-5
+                               < 1yr                                                                          years, and no one would wait past 5.
+                               19%
+
+                                                              As early as
+                                                               diagnosed
+                                                                    31%
+
+
+                 3-5 yrs
+                   25%
+
+                                                       1-2 yrs
+                                                         25%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                     CAMP4 Therapeutics Corporation / 21
+
+=== PDF PAGE 22 ===
+                                                                                                                                                                                                              October 15, 2026
+
+Question 9: How important would each of the following be in your decision to adopt such a therapy? Rate each row: 1 =
+extremely important … 5 = not at all important
+
+                                                    # of                         Cognitive /                                                                                                               Breadth of         Dosing
+ Respondent    State          Specialty          SYNGAP1        Attribute /    developmental        Seizure         Behavioral     Communication         Sleep           Safety /       Durability of    benefit across    frequency /
+                                                  patients       outcome            gains          reduction      improvement       improvement      improvement        tolerability        effect          domains       administration
+                                                                                                                                                                                                                              burden
+      1       NY      Epileptologist                  2              2                1                1                2                 1                 3                1                2                2                 3
+      2       NY      Adult neurologist               1              1                1                1                1                 1                 1                1                1                1                 2
+      3       NY      Epileptologist                  8              5                5                5                5                 5                 4                4                5                4                 3
+      4       IL      Pediatric neurologist          10              2                1                1                3                 2                 4                2                3                3                 4
+      5       NY      Adult neurologist               1              1                2                1                1                 1                 3                2                3                1                 2
+      6       NV      Adult neurologist               2              4                4                5                4                 4                 4                4                5                4                 4
+      7       FL      Pediatric neurologist           1              1                2                3                2                 2                 2                1                2                1                 2
+      8       WA      Epileptologist                  7              3                1                2                1                 1                 2                3                2                2                 1
+      9       TN      Adult neurologist               2              2                1                2                1                 2                 2                1                2                1                 2
+      10      PA      Epileptologist                  7              2                1                1                1                 1                 2                1                1                1                 2
+      11      OR      Epileptologist                  3              1                2                1                1                 1                 3                2                2                3                 2
+      12      WA      Adult neurologist              10              3                2                1                2                 1                 3                2                2                3                 3
+      13      NC      Pediatric neurologist           2              1                1                1                1                 1                 1                1                1                1                 1
+      14      AZ      Epileptologist                  6              1                1                1                1                 1                 2                1                2                2                 3
+      15      AR      Pediatric neurologist          17              4                3                4                3                 3                 3                4                3                3                 4
+      16      NJ      Epileptologist                  6              1                1                1                1                 1                 3                2                1                1                 3
+                                                Average             2.1              1.8              1.9              1.9               1.8               2.6              2.0              2.3              2.1               2.6
+
+                                                Median               2                1                1                1                 1                 3                2                2                2                 3
+
+                                  High (not at all important)        5                5                5                5                 5                 4                4                5                4                 4
+                                 Low (extremely important)           1                1                1                1                 1                 1                1                1                1                 1
+
+
+                       % w/ high value (not at all important)       6%               6%               13%              6%                6%               19%              19%               13%              13%              19%
+
+
+                      %  w/ low value (extremely important)        44%              56%               63%              56%              63%               13%              44%               25%              44%              13%
+
+
+                                                    Total Score                                                        ■      Efficacy      drives      adoption,      while      the      intrathecal
+              45                                                                                          42
+  Less Important                                                                               41
+              40                                                                                                              administration burden is a minor concern. Communication
+                                                                                     37
+              35                                                          33                                                  improvement    (avg    1.75/5.0),    cognitive    gains    (1.81/5.0),
+                                                     31         32
+              30                29         30
+                      28                                                                                                      behavioral   improvement   (1.88/5.0)   and   seizure   reduction
+
+
+              25                                                                                                              (1.94/5.0) are rated "extremely important" by 56-63%. Safety
+
+
+              20
+                                                                                                                              (2.0/5.0) and breadth of benefit (2.1/5.0) follow, then durability
+
+              15
+                                                                                                                              (2.3/5.0).    Sleep    improvement    and    dosing/administration
+              10
+                                                                                                                              burden are least important (avg ~2.6/5.0 each).
+               5
+ MoreImportant
+               0
+                  CommunicationCognitive /BehavioralSeizure reductionSafety /Breadth of benefitDurability ofDosing frequencySleep
+                   improvementdevelopmentalimprovement       tolerabilityacross domainseffect/ administrationimprovement
+                                gains                                                         burden
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                          CAMP4 Therapeutics Corporation / 22
+
+=== PDF PAGE 23 ===
+                                                                                                                                                                                                October 15, 2026
+
+Question 10: Which clinical endpoint would you consider most appropriate to demonstrate benefit in a SYNGAP1 trial?
+Please rank the following with: 1 = most appropriate.
+                                                           # of                               Cognition /                                                                           Clinician /         Biomarker /
+ Respondent      State            Specialty            SYNGAP1       Seizure frequency        intellectual      Communication /      Behavior / mood      Adaptive function      caregiver global     SYNGAP protein
+                                                        patients                          disability measure   language measure           measure              measure            impression of             level
+                                                                                                                                                                                     change
+       1        NY      Epileptologist                      2                 1                    2                     3                    4                     5                    6                    7
+       2        NY      Adult neurologist                   1                 7                    3                     4                    5                     2                    6                    1
+       3        NY      Epileptologist                      8                 1                    3                     2                    4                     5                    6                    7
+       4        IL      Pediatric neurologist               10                3                    2                     1                    4                     5                    6                    7
+       5        NY      Adult neurologist                   1                 1                    5                     4                    7                     2                    6                    3
+       6        NV      Adult neurologist                   2                 1                    3                     4                    5                     7                    8                    2
+       7        FL      Pediatric neurologist               1                 5                    3                     4                    2                     1                    6                    7
+       8        WA      Epileptologist                      7                 7                    1                     2                    3                     4                    5                    6
+       9        TN      Adult neurologist                   2                 6                    1                     2                    3                     4                    8                    5
+       10       PA      Epileptologist                      7                 1                    2                     3                    4                     5                    6                    7
+       11       OR      Epileptologist                      3                 2                    1                     3                    4                     6                    5                    7
+       12       WA      Adult neurologist                   10                4                    1                     2                    3                     8                    7                    6
+       13       NC      Pediatric neurologist               2                 1                    2                     8                    3                     4                    5                    6
+       14       AZ      Epileptologist                      6                 3                    1                     2                    5                     4                    6                    7
+       15       AR      Pediatric neurologist               17                8                    6                     3                    1                     2                    4                    7
+       16       NJ      Epileptologist                      6                 1                    3                     2                    4                     5                    6                    7
+                                                          Average            3.3                  2.4                   3.1                  3.8                  4.3                   6.0                  5.8
+
+                                                           Median             3                    2                     3                    4                     5                    6                    7
+
+                                                              Total          52                    39                   49                   61                    69                   96                    92
+
+                                         High (least appropriate)             8                    6                     8                    7                     8                    8                    7
+                                         Low (most appropriate)               1                    1                     1                    1                     1                    4                    1
+
+                                Count - High (least appropriate)             6%                   6%                    6%                   6%                    6%                  13%                   56%
+
+                                 Count - Low (most appropriate)             44%                   31%                   6%                   6%                    6%                   6%                   6%
+
+
+                                               Total Score                                                                                  % of Docs Ranking as "1 = Most Appropriate"
+           120                                                                                                       50%
+  Less Important
+                                                                                                                     45%       44%
+           100                                                                                   96
+                                                                                    92                               40%
+
+
+            80                                                                                                       35%
+                                                                        69                                                                  31%
+                                                           61                                                        30%
+            60
+                                  49           52                                                                    25%
+
+            40       39                                                                                              20%
+
+
+                                                                                                                     15%
+            20
+                                                                                                                     10%
+ MoreImportant                                                                                                                                            6%           6%            6%           6%           6%
+             0                                                                                                        5%
+                   Cognition /Communication /Seizure frequencyBehavior / moodAdaptive functionBiomarker /Clinician /
+                  intellectual  language                 measure      measure   SYNGAP proteincaregiver global        0%
+                   disability   measure                                             level    impression of                    Seizure     Cognition /Communication /Behavior / moodAdaptive functionBiomarker /Clinician /
+                   measure                                                                     change                        frequency    intellectual  language      measure      measure   SYNGAP proteincaregiver global
+                                                                                                                                           disability   measure                                   level     impression of
+                                                                                                                                           measure                                                            change
+
+
+■      Seizure frequency and cognition are the preferred trial endpoints; the protein biomarker and global impression are not. One
+      of the two is top choice for 75% (seizure frequency #1 for 44%, cognition #1 for 31%). Cognition has the best average rank (2.4/7.0, vs
+      3.3/7.0 for seizures), followed by communication (3.1/7.0). SYNGAP1 protein biomarker (avg 5.75/7.0) and clinician/caregiver global
+      impression (avg 6.0/7.0) rank lowest.
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                              CAMP4 Therapeutics Corporation / 23
+
+=== PDF PAGE 24 ===
+                                                                                                                                                                                                                    October 15, 2026
+
+Question 11: If a safe and effective disease-modifying therapy were approved, how would your treated SYNGAP1
+population change?
+                                                     # of    I would treat      Modest increase    About the same
+ Respondent    State          Specialty           SYNGAP1    notably more
+                                                   patients  patients
+      1       NY      Epileptologist                  2                                                     X
+      2       NY      Adult neurologist               1               X
+      3       NY      Epileptologist                  8                                                     X
+      4       IL      Pediatric neurologist          10               X
+      5       NY      Adult neurologist               1               X
+      6       NV      Adult neurologist               2                                                     X
+      7       FL      Pediatric neurologist           1                                  X
+      8       WA      Epileptologist                  7                                  X                                                              About the
+
+      9       TN      Adult neurologist               2                                  X                                                              same
+      10      PA      Epileptologist                  7               X
+      11      OR      Epileptologist                  3                                                     X                                           31%                               I would treat
+
+      12      WA      Adult neurologist              10               X                                                                                                                   notably more
+      13      NC      Pediatric neurologist           2               X
+      14      AZ      Epileptologist                  6               X                                                                                                                   patients
+
+      15      AR      Pediatric neurologist          17               X                                                                                    Modest                         50%
+      16      NJ      Epileptologist                  6                                                     X
+                                                    Count             8                  3                  5                                              increase
+
+                                                      %             50%                19%                31%                                              19%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+■      An approved therapy would expand the treated population for roughly 70% of physicians. No one expects fewer patients. 50%
+      would treat notably more, 19% a modest increase and 31% about the same.
+
+Question 12: Do you have any additional thoughts or opinions on SYNGAP1, the                                                                                       ■      Open     comments     point     to     high
+unmet need, or the broader treatment landscape?                                                                                                                           unmet need and a testing/insurance
+
+                                            # of                                                                                                                          bottleneck, with enthusiasm for the
+ Respondent  State       Specialty        SYNGAP1  Do you have any additional thoughts or opinions on SYNGAP1, the unmet need, or the broader treatment landscape?
+                                          patients                                                                                                                        mechanism. Nine of 16 gave substantive
+     1        NY        Epileptologist       2     None, I would be interested in a disease modifying therapy for any of these genetic epilepsy conditinos.
+                                                                                                                                                                          comments  and  seven  replied  "none",
+     2        NY      Adult neurologist      1     Insurance is the barrier then resources and support staff on getting through the hurdles
+     3        NY        Epileptologist       8     would still need earlier referrals and testing                                                                         "no"   or   "N/A".   Respondents   say   an
+
+     4        IL     Pediatric neurologist   10    Current unmet need is extremely high. No targeted treatment available                                                  approved   therapy   would   drive   more
+
+     5        NY      Adult neurologist      1     There is significant unmet need as well as low disease visibility generally                                            diagnoses. One respondent doubts how
+
+     6        NV      Adult neurologist      2     none                                                                                                                   much research is feasible in such a rare
+
+     7        FL     Pediatric neurologist   1     N/A                                                                                                                    disease.
+
+     8       WA         Epileptologist       7     Exciting and unique MOA
+
+     9        TN      Adult neurologist      2     rare condition, so not sure how much research is feasible
+
+     10       PA        Epileptologist       7     No
+
+     11       OR        Epileptologist       3     No
+
+     12      WA       Adult neurologist      10    Not at this time
+
+     13       NC     Pediatric neurologist   2     none
+     14       AZ        Epileptologist       6     We need to have better coverage of genetic testing to see more patients with this condition, and treat them with emerging disease-
+                                                   modifying therapies.
+     15       AR     Pediatric neurologist   17    No
+     16       NJ        Epileptologist       6     really if I specific treatment were for SYNGAP1 you will have more diagnosis given don't want to now miss these patients and miss
+                                                   out on a potential therapy
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                               CAMP4 Therapeutics Corporation / 24
+
+=== PDF PAGE 25 ===
+                                                                                                                                          October 15, 2026
+
+REVENUE MODELS
+We model unadjusted WW peak revenue of $2.1B for CMP-002 in SYNGAP1
+Addressable patients:  We model a prevalence of ~11,000 SYNGAP1 patients in the US <18 y/o, of which ~15% are currently diagnosed
+and are the target population for CMP-002. We model 0.5% population growth and assume the diagnosis rate increases to ~50% at peak
+CMP-002 market penetration.
+
+Price:  We model an annual WAC price of $575,000 at launch in 2032, which we believe is justifiable for a chronically-dosed disease-
+modifying therapy in an ultra-rare pediatric disorder like SYNGAP1. We considered multiple drug comps (neuromuscular, disease-
+modifying, genetic rare disease) and their corresponding annual WAC prices including: Amondys (~$750K/yr); Daybue (~$715K/yr);
+Spinraza (~$495K/yr); Onpattro (~450K/yr); Exondys (~$417K/yr); and Qalsody (~$200K/yr).
+
+WW sales:  Our WW peak sales estimate for CMP-002 in SYNGAP1 is $2.1B (~$1.7B US and ~$420M EU4 + UK). We model 50% peak
+penetration into the SYNGAP1 patient population, which equates to ~3,000 US patients treated at peak in 2046.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                  CAMP4 Therapeutics Corporation / 25
+
+=== PDF PAGE 26 ===
+                                                                                                                                                                                                                                                                                                                                                                                                           October 15, 2026
+
+CMP-002 WW Revenue Model in SYNGAP1 (Needham & Co.)
+
+ CMP-002 WW Revenue Model in SYNGAP1 Disorders                                                                                                                                                                                                                                               Patent expiry                            LOE w/ HWE
+                  United States                         2026          2027          2028         2029          2030          2031         2032          2033         2034          2035          2036         2037          2038          2039         2040          2041          2042         2043          2044          2045         2046          2047          2048         2049          2050          2051         2052          2053
+                     SYNGAP1
+
+ SYNGAP1 prevalence <18 y/o                               11,000        11,055         11,110       11,166        11,222       11,278       11,334         11,391       11,448       11,505        11,563        11,620        11,678       11,737        11,796       11,855        11,914        11,973       12,033       12,093         12,154       12,215        12,276       12,337        12,399        12,461       12,523        12,586
+                   % diagnosed                           15%           16%          16%           17%           17%          18%           18%          22%           26%          30%           34%           38%          42%           46%           50%          50%           50%           50%          50%           50%           50%          50%           50%           50%          50%           50%          50%           50%
+ # diagnosed patients <18 y/o                              1,650          1,714        1,778        1,842         1,908         1,974        2,040        2,506         2,976         3,452         3,931        4,416         4,905        5,399         5,898         5,927        5,957         5,987         6,017        6,047         6,077         6,107         6,138        6,169         6,199        6,230         6,262         6,293
+             % penetration CMP-002                                                                                                         5%           10%           20%          35%           45%           50%          50%           50%           50%          50%           50%           50%          50%           50%           50%          25%           13%           6%            3%            2%            1%           0%
+ Patients treated w/ CMP-002                                     -            -             -            -             -             -             102            251           595         1,208         1,769        2,208        2,452        2,699        2,949        2,964        2,978         2,993       3,008          3,023        3,038          1,527           767           386           194              97             49             25
+
+ WAC annual price/patient                                                                                                              $ 575,000     $  592,250    $   610,018  $  628,318    $  647,168    $ 666,583    $ 686,580     $   707,177   $  728,393   $ 750,245     $  772,752    $ 795,934    $   819,813   $ 844,407    $  869,739    $  895,831    $  922,706   $ 950,387     $  978,899     ######        ######        ######
+    combined adherence & persistence rate                                                                                                  75%          75%           75%           75%          75%           75%          75%           75%           75%          75%           75%           75%          75%           75%           75%          75%           75%           75%          75%           75%           75%          75%
+                gross:net discount                                                                                                         15%          15%           15%           15%          15%           15%           15%          15%           15%           15%          15%           15%           15%          15%           15%           15%          15%           15%          15%           15%           15%          15%
+ Net annual price/patient                                                                                                              $ 366,563     $  377,559    $ 388,886    $ 400,553     $  412,569    $ 424,946    $ 437,695     $ 450,826     $ 464,350    $  478,281    $  492,629    $ 507,408    $  522,630    $ 538,309    $ 554,459     $  571,092    $  588,225   $  605,872    $ 624,048     $  642,770   $ 662,053     $   681,914
+ U.S. sales (M)                                       $       -    $       -     $       -     $       -    $       -     $       -     $         37 $         95  $        231  $      484   $       730   $       938  $     1,073   $      1,217  $     1,369  $     1,417   $     1,467   $     1,519  $     1,572   $     1,627   $     1,685  $       872   $       451   $       234  $        121  $         63  $         32 $          17
+
+                       % y/y                                                                                                                            153%         145%          109%          51%           29%           14%          13%           13%           4%            4%           4%            4%            4%           4%           -48%         -48%          -48%          -48%         -48%          -48%          -48%
+                 ROW (EU4 + UK)
+               ROW sales multiplier                                                                                                                     0.25x        0.25x         0.25x        0.25x         0.25x         0.25x        0.25x         0.25x         0.25x        0.25x         0.25x         0.25x        0.25x         0.25x         0.25x        0.25x         0.25x         0.25x        0.25x         0.25x         0.25x
+ ROW sales (M)                                        $         -  $         -   $         -  $         -   $         -   $         -  $         -   $           24$           58$           121$          182$         235$         268$        304 $         342$         354 $         367 $         380$         393 $         407$          421$          218$          113 $           58$           30$            16$             8$             4
+ ROW sales (M)                                        $       -    $       -     $       -     $       -    $       -     $       -     $       -    $         24  $         58  $        121 $        182  $       235  $       268   $      304    $       342  $       354   $       367   $       380  $       393   $       407   $       421  $        218  $        113  $         58 $         30  $         16  $           8$           4
+
+                  % of WW sales                                                                                                                         20%           20%          20%           20%           20%          20%           20%           20%          20%           20%           20%          20%           20%           20%          20%           20%           20%          20%           20%          20%           20%
+
+
+ WW sales (M)                                         $       -    $       -     $       -     $       -    $       -     $       -     $         37 $        118  $       289   $       605  $        912  $     1,173  $     1,342   $     1,521   $      1,712 $     1,772   $    1,834    $     1,899  $     1,965   $    2,034    $     2,106  $    1,090    $       564   $       292  $        151  $         78  $        40  $          21
+                       % y/y                                                                                                                                         145%          109%          51%           29%           14%          13%           13%           4%            4%           4%            4%            4%           4%           -48%         -48%          -48%          -48%         -48%          -48%          -48%
+
+Source: Needham & Co.
+CMP-002 WW Revenue Estimates in SYNGAP1 - Needham                                                                                                                                                                           CMP-002 WW Revenue Estimates in SYNGAP1 - Needham vs. VA Consensus
+
+             $2,500                                                                                                                                                                                                                       $2,000
+
+                                                                                                                                                                                                     $2,106                               $1,800                                                                                                                                                                            $1,712 $1,716
+                                                                                                                                                                           $1,965 $2,034                                                                                                                                                                                                                     $1,587
+             $2,000                                                                                                                              $1,834 $1,899                                                                            $1,600                                                                                                                                         $1,444         $1,521
+                                                                                                                        $1,712 $1,772                                                                                                                                                                                                                                              $1,342
+                                                                                                                                                                                                                                          $1,400                                                                                                                     $1,272
+                                                                                                           $1,521                                                                                                                         $1,200                                                                                                               $1,173
+             $1,500                                                                           $1,342                                                                                                                                                                                                                                             $1,074
+                                                                                 $1,173                                                                                                                                                   $1,000                                                                                             $912
+                                                                      $912                                                                                                                                                                   $800                                                                              $754
+             $1,000                                                                                                                                                                                                                                                                                        $577          $605
+                                                                                                                                                                                                                                             $600
+                                                         $605                                                                                                                                                                                                                          $353
+                                                                                                                                                                                                                                             $400                                                    $289
+                $500                        $289                                                                                                                                                                                                                   $148
+                                                                                                                                                                                                                                             $200             $37                $118
+                               $118
+                                                                                                                                                                                                                                                $-
+                   $-                                                                                                                                                                                                                                          2032                2033                2034                2035                2036                 2037                2038                2039                2040
+                               2033         2034         2035        2036         2037         2038         2039         2040         2041         2042         2043        2044         2045         2046                                                                                                       Needham                  VA Consensus
+
+                                                                                                  U.S.         ROW
+                                                                                                                                                                                                                            Source: Needham & Co.
+Source: Needham & Co.
+
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                         CAMP4 Therapeutics Corporation / 26
+
+=== PDF PAGE 27 ===
+                                                                                                                                                                       October 15, 2026
+
+CMP-002 in SYNGAP1: Peak Sales Summary                                                           CMP-002 Peak U.S. Revenues in SYNGAP1 Variance Analysis
+            CMP-002 in SYNGAP1: Peak Sales Summary                                               CMP-002 Peak U.S. Revenue in SYNGAP1 - Variance Analysis
+
+                                                                                                            Peak prevalence:             12,154
+WAC annual price (2032 launch)                                       $     575,000                             Peak net price:   $      538,309
+                % annual price increase                                    3%                                                           CMP-002 peak penetration
+
+                                                                                                                      30%             40%            50%             60%            70%
+WAC annual price (2046 peak)                                         $     869,739                         30%    $            589$              785$            981 $           1,178$          1,374
+                       GTN discount                                        15%                             40%    $            785$            1,047$          1,309$          1,570$          1,832
+                adherence/persistence                                      75%                             50%    $            981 $           1,309 $          1,636$          1,963$         2,290
+Net annual price (2046 peak)                                         $     554,459                         60%    $           1,178$            1,570$          1,963$         2,355$         2,748
+
+                                                                                                           70%    $          1,374$            1,832$         2,290$         2,748$         3,206
+
+                                                                                                 Source: Needham & Co.
+Total SYNGAP1 patients (US)                                                    12,154
+                        % diagnosed                                       50%
+
+                % penetration CMP-002                                     50%
+Total CMP-002 patients treated (US)                                            3,039
+
+
+US peak sales (2046)                                                 $         1,685
+                      ROW multiplier                                      0.25x
+
+ROW peak sales (2046)                                                $            421
+WW peak sales (2046)                                                 $         2,106
+
+Source: Needham & Co.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                          CAMP4 Therapeutics Corporation / 27
+
+=== PDF PAGE 28 ===
+                                                                                                                                                                                                                                                                                                                                                                                       October 15, 2026
+
+VALUATION
+CAMP Valuation - DCF Model (Needham & Co.)
+
+                      Company:        CAMP4 Therapeutics
+                           Ticker:    CAMP
+                            Valuation date         10/13/26
+                                     YE date       12/31/26
+                             Discount Rate             9.0%
+                  Terminal Growth Rate                    0%
+                                 Probability        2026          2027          2028          2029          2030          2031         2032          2033           2034         2035          2036          2037          2038         2039          2040          2041          2042         2043          2044          2045          2046         2047          2048          2049          2050        Terminal
+         CMP-002 in SYNGAP1              25%               0             0             0             0            0             0             9            30            72           151          228          293           335           380          428           443           459           475           491          509           526           272            141           73            38
+       Collaboration revenue            100%               3             0             0             0            0             0             0             0             0             0             0            0             0             0             0            0             0             0             0            0             0             0             0            0             0
+                             Total revenue                 3             0             0             0            0             0             9            30            72           151          228          293           335           380          428           443           459           475           491          509           526           272            141           73            38
+                                       % y/y                                                                                                                       145%          109%           51%          29%           14%           13%           13%           4%            4%           4%            4%            4%            4%          -48%          -48%          -48%         -48%
+                                       COGS                0             0             0             0            0             0             1              2            6            12            18           23            27           30            34            35            37           38            39            41            42            22            11            6             3
+                                   COGS %            0%            0%            0%            0%           0%            0%            8%            8%            8%            8%            8%            8%           8%            8%            8%            8%           8%            8%            8%            8%           8%            8%            8%            8%           8%
+                                          R&D             45            14            16           23            35           42              11            6             4             2             2             3            3             4             4            4             5             5             5             5            5             3             1             1            0
+                 R&D as a % of revenue              1331%            -             -            -             -             -          120%           20%            5%            1%            1%           1%            1%            1%            1%           1%            1%            1%            1%           1%            1%            1%            1%           1%            1%
+                                        SG&A              21             6             7             8           10            19           23             30            47           74            89           100           107           110            111          111          110          109           108           107           105           54            28             15            8
+                    SG&A as a % of sales            625%             -             -            -             -             -          250%          100%           65%           49%          39%           34%           32%           29%          26%           25%           24%           23%           22%           21%          20%           20%          20%           20%           20%
+                  risk-adjusted EBIT ($M)                  (63)          (20)          (23)           (31)         (45)          (61)         (26)             (8)           16          64           119           167          198          236           278           292          307           323           339           356          374            193           100            52           27
+       % NOL/Tax asset carryforward                 80%            80%           80%          80%           80%           80%          80%            80%          100%          100%          100%          100%         100%          100%          100%          100%         100%          100%          100%          100%         100%          100%          100%          100%         100%
+                  NOLs/Tax Assets ($M)                 (280)         (296)         (314)         (339)        (375)         (423)        (444)           (451)        (435)          (371)        (253)          (85)          112          348           626           919         1,226        1,549         1,888        2,244          2,618         2,811         2,911       2,963         2,990
+                                    Tax rate         0%             0%           0%            0%            0%            0%           0%             0%            0%           0%            0%            0%           20%           20%          20%           20%           20%           20%          20%           20%           20%           20%          20%           20%           20%
+                          Taxes paid ($M)                  0             0             0             0            0             0             0             0             0             0             0            0            40           47            56            58            61           65            68             71           75           39            20             10            5
+                risk-adjusted EBIAT ($M)                 (63)          (20)         (23)           (31)         (45)          (61)         (26)             (8)          16           64            119          167           158          189           223          234           246           258           271          285           299            155           80            41            21
+                                         D&A                  2             2             1         -            -             -             -              -                0            0             0             0             0            0             0             0             0            0             0             0             0            0             0             0             0
+                                       CapEx                 (0)           (0)           (0)         -           -             -             -              -               (0)           (0)           (0)            (1)            (1)            (1)            (1)           (2)           (2)           (2)           (2)           (2)           (2)           (2)           (2)            (1)            (1)
+          Δ Non-cash Working Capital                        (17)            0            (1)            0           (2)           (6)           (7)            (2)             1            4            2             1             1            0           (0)            (1)            (1)            (1)            (1)            (1)            (1)            5            2             1             1
+                  risk-adjusted FCF ($M)                 (78)          (18)         (23)          (30)          (47)          (67)         (33)            (10)          17            67          120           168           158          188           221          232           244           256           269          282           296           158             81           42            21              238
+
+
+                                        Years           0.22           1.22         2.22          3.22         4.22          5.22          6.22           7.22         8.22          9.22         10.22         11.22         12.22        13.22         14.22         15.22        16.22         17.22         18.22         19.22        20.22         21.22        22.22         23.22         24.22             24.22
+                           Discount Factor              0.98          0.90          0.83          0.76         0.70          0.64          0.59          0.54          0.49          0.45          0.41          0.38         0.35          0.32          0.29          0.27         0.25          0.23          0.21          0.19          0.18          0.16         0.15          0.14          0.12              0.12
+
+
+                            NPV FCF ($M)                 (77)          (16)          (19)         (23)          (33)         (43)           (19)           (5)            9           30            50           64            55            60            65            62           60            58            56            54           52            25             12            6             3               30
+
+
+                      NPV cash flows (M)          $      485                                                                   NPV Per Share Analysis                                                     Sensitivity Analysis                                 Discount Rate
+
+               PV of Terminal Value (M)           $        30                                                                                          (M)       NPV/share                                                               7.0%         8.0%          9.0%         10.0%         11.0%
+        Terminal Value as a % of Total                    6%                                                         CMP-002 in SYNGAP1            $        514  $          5                                                -50%     $          9  $          7  $          6 $          6  $          5
+
+                   Enterprise Value (M)          $      514                                                                          Net cash      $        135  $           1                                               -25%     $          9  $          7  $          6 $          6  $          5
+                                    Cash (M)      $      135                                                                             Total     $     649      $         7                                                -10%     $          9  $          8  $          6 $          6  $          5
+                                    Debt (M)      $       -                                                                                                                                                                     0%    $          9  $          8  $         7  $          6  $          5
+
+                              Net Cash (M)        $       135                                                                                                                                                                   1%    $          9  $          8  $          7 $          6  $          5
+                        Equity Value (M)          $     649                                                                                                                                                                     2%    $          9  $          8  $          7 $          6  $          5
+
+                    Fully Diluted S/O (M)                98                                                                                                                                                                     3%    $          9  $          8  $          7 $          6  $          5
+                              Price/Share         $        7
+Source: Needham & Co.
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                       CAMP4 Therapeutics Corporation / 28
+
+=== PDF PAGE 29 ===
+                                                                                                                                                            October 15, 2026
+
+CAMP Valuation - sum-of-the-parts revenue multiple analysis (Needham & Co.)
+        EV/Peak Revenue Valuation                           CMP-002 in                                      EV/Peak Revenue Valuation Summary
+                                                              SYNGAP1
+Base year                                                                2026                                                        Value (M)         Per Share          %
+Peak sales year                                                          2043               CMP-002 in SYNGAP1                      $            745   $              8   85%
+
+Revenue multiple                                                          7.0x              Platform/pipeline                       $            -     $          -         0%
+WACC (discount rate)                                                     9.0%               Net cash                                $             135  $               1   15%
+Peak revenue non-risk-adjusted (M)                       $                 1,843            Fully Diluted S/O (M)                               98
+
+Probability of success                                                    25%               Enterprise Value (M)                    $           745          -
+Peak revenue risk-adjusted (M)                           $                    461           Equity Value (M)                        $           880    $             9   100%
+Years                                                                      17.0
+
+Value (M)                                                $                   745
+Fully Diluted S/O (M)                                                           98
+Value/share                                              $                      8
+
+Source: Needham & Co.
+VALUATION SUMMARY
+CAMP Valuation Summary
+Valuation                                                                                                 Valuation - SOTP
+                                     Equity Value (M)               Price/Share           Weight                                             Value (M)            $/Share
+DCF                                   $                         649  $                   7   50%          CMP-002 in SYNGAP1                 $                  630$              6
+EV/Peak Revenue(x)                    $                         880  $                   9   50%          Platform/Pipeline                  $                  - $           -
+Weighted Average                      $                         765  $                   8                Net Cash                           $                   135$               1
+
+                                                                                                          Equity Value                       $                  765$              8
+                                                                                                          Fully Diluted S/O (M)                              98              98
+
+Source: Needham & Co.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                 CAMP4 Therapeutics Corporation / 29
+
+=== PDF PAGE 30 ===
+                                                                                                                                               October 15, 2026
+
+CAMP Valuation                                                                     CAMP Valuation Per Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: Needham & Co.
+                                                                                   Source: Needham & Co.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                      CAMP4 Therapeutics Corporation / 30
+
+=== PDF PAGE 31 ===
+                                                                                                                                                                                                                                                                                                                                         October 15, 2026
+
+Income Statement
+ CAMP4 Therapeutics (CAMP)
+ Income Statement ($M)
+ FY: December                                                               2024A             2025A            1Q26A             2Q26A             3Q26E            4Q26E              2026E             2027E            2028E             2029E             2030E             2031E            2032E             2033E            2034E             2035E             2036E
+ Product Revenue
+     CMP-002 (SYNGAP1)                                                              -                 -                -                 -                 -                 -                -                 -                 -                 -                -                 -                  37                118            289               605                912
+ Total product revenue                                                             -                 -                 -                -                 -                 -                -                 -                 -                 -                -                 -                  37                118            289               605                912
+                                %y/y                                                                                                                                                                                                                                                                               216%              145%              109%               51%
+ Research & collaboration revenue                                                   0.7               3.5                1.3             0.7               0.7               0.7               3.4             -                 -                 -                 -                -                 -                 -                 -                -                 -
+ Total Revenue                                                                     0.7               3.5                1.3              0.7              0.7               0.7               3.4              -                -                 -                 -                 -                  37               118              289               605               912
+
+
+ COGS (incl. royalties)                                                            -                 -                 -                 -                -                 -                 -                -                 -                 -                 -                -                  3.0               9.5              23.1           48.4                  73
+                             COGS %                                                -                 -                 -                 -                -                 -                 -                -                 -                 -                 -                -            8%                8%                8%               8%                8%
+
+
+ Gross Income                                                                           1            3.5                1.3              0.7              0.7               0.7               3.4              -                -                 -                 -                 -                  34              109               266               556              839
+                          Gross margin                                                                                                                                                                                                                                                                              92%               92%              92%               92%
+
+
+ GAAP R&D                                                                         38.8              38.2              10.2               11.0             12.0              12.0            45.2              55.0              65.0              90.0            139.5             167.4              44.9               23.7             14.5               6.0                  9
+ GAAP SG&A                                                                         14.9              17.4              4.2               5.0               6.0               6.0             21.2             24.0              26.0              32.0             40.0              75.0              93.5              118.3            188.1           296.4                356
+ Impairment of right-of-use asset                                                   -                 0.5              -                 -                 -                 -                -                 -                 -                 -                -                 -                 -                 -                -                 -                 -
+ Total GAAP OpEx                                                                  53.7               56.1             14.4              16.0             18.0              18.0              66.4              79.0             91.0                122              180               242              138               142               203              302               365
+                                % y/y                                                           4%                3%               10%              25%               37%               18%               19%               15%              34%               47%               35%              -43%               3%               43%              49%                21%
+                          % of revenue                                                                                                                                                                                                                                                           370%              120%               70%              50%               40%
+
+
+ Operating Income                                                                 (53.1)          (52.6)             (13.1)            (15.3)            (17.3)           (17.3)           (63.0)            (79.0)           (91.0)              (122)            (180)             (242)            (104)               (33)               64              254              474
+                      Operating Margin                                                                                                                                                                                                                                                                                                                 42%               52%
+
+
+ Interest income (expense)                                                           1.3                 2              0.9              -                -                 -                  0.9               2.0              3.6               5.0               8.8              11.5             13.2             14.4              14.0               15.7                21
+ Change in FV derivative tranche liability                                         -                 (30)              (6.2)             -                -                 -                 (6.2)            -                 -                 -                 -                -                 -                 -                 -                -                 -
+ Other income (expense)                                                           (0.0)                (0)              0.0              -                -                 -                  0.0             -                 -                 -                 -                -                 -                 -                 -                -                 -
+
+
+ Pre-tax Income                                                                  (51.8)          (80.4)             (18.3)             (15.3)            (17.3)           (17.3)           (68.2)           (77.0)             (87.4)             (117)             (171)            (231)              (91)              (19)               78             270               496
+
+
+ Income taxes                                                                      -                 -                 -                 -                -                 -                 -                -                 -                 -                 -                -                 -                 -                 -                -                 -
+                            Tax rate %                                             -                 -                 -                 -                -                 -              -               0%               0%                0%                0%                0%               0%                0%                0%               0%                0%
+
+
+ Net Income (loss)                                                               (51.8)          (80.4)             (18.3)             (15.3)            (17.3)           (17.3)           (68.2)           (77.0)             (87.4)             (117)             (171)            (231)              (91)              (19)               78             270               496
+
+
+ GAAP Diluted EPS                                                              (11.04)            (2.65)            (0.32)            (0.26)            (0.28)           (0.28)             (1.13)           (1.04)           (1.03)              (1.11)           (1.36)            (1.59)          (0.59)             (0.12)            0.40              1.37             2.49
+
+
+ Shares - Diluted (M)                                                               4.7             30.4              57.9              58.2              62.5             62.7             60.3              74.2              85.2             105.8            125.8             145.2             154.5             155.3            195.9             197.4              199.1
+
+
+ Needham & Company, LLC
+Source: Company documents; Needham & Co.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                                                                                CAMP4 Therapeutics Corporation / 31
+
+=== PDF PAGE 32 ===
+                                                                                                                                                                                                                                                                                                                     October 15, 2026
+
+Balance Sheet
+ CAMP4 Therapeutics (CAMP)
+ Balance Sheet ($M)
+ FY: December                                                                                                2024A              2025A              2026E              2027E              2028E              2029E              2030E              2031E             2032E              2033E              2034E              2035E              2036E
+ Current assets:
+      Cash and cash equivalents                                                                                       64                  110              34                 115               186                381               526                 613               678                672                 771            1,074              1,607
+      Restricted cash, current                                                                                       -                      1              -                 -                  -                  -                  -                  -                  -                  -                 -                  -                  -
+      Prepaid expenses and other current assets                                                                          2                  3                4                   5                  7                  9                 12                16                 19                 21                22                 22                 22
+ Total current assets                                                                                                 66                 114               38                  121               193               390               538                628                697                693                793              1,096             1,630
+ Noncurrent assets:
+      Restricted cash, noncurrent                                                                                        2                  1              -                 -                  -                  -                  -                  -                  -                  -                 -                  -                  -
+      Property & equipment                                                                                               4                  2                 2                  2                  2                  2                  2                  2                 2                  2                  2                  3                  4
+      Operating lease right-of-use assets                                                                                6                 0                 0                   0                  0                  0                  0                 0                  0                  0                  0                  0                  0
+      Other assets                                                                                                       0                 0                 0                   0                  0                  0                  0                 0                  0                  0                  0                  0                  0
+ Total Assets                                                                                                         78                118                40                123                195               393               540                 631               699                695                795              1,099              1,634
+ Current liabilities:
+      Accounts payable                                                                                                    1                0                  1                  2                  2                  2                  4                  5                 3                  3                  4                  6                  7
+      Accrued expenses and other current liabilities                                                                     5                 6                  7                  8                  8                 10                  9                  5                 3                  3                  4                  6                  7
+      Current portion of deferred revenue                                                                                0                 9               -                 -                  -                  -                  -                  -                  -                  -                 -                  -                  -
+      Operating lease liabilities, current                                                                               3                 0               -                 -                  -                  -                  -                  -                  -                  -                 -                  -                  -
+      Other current liabilities                                                                                          0                 0               -                 -                  -                  -                  -                  -                  -                  -                 -                  -                  -
+ Total current liabilities                                                                                             10                 16                 8                   9                 10                 12                 13                10                  6                  6                  8                 12                 15
+ Noncurrent liabilities:
+      Deferred revenue                                                                                               -                     8               -                 -                  -                  -                  -                  -                  -                  -                 -                  -                  -
+      Operating lease liabilities                                                                                        5                  2                 2                  2                  2                  2                  2                  2                 2                  2                  2                  2                  2
+      Derivative tranche liability                                                                                   -                   45                -                 -                  -                  -                  -                  -                  -                  -                 -                  -                  -
+      Other liabilities                                                                                                  0                 0                 0                   0                  0                  0                  0                 0                  0                  0                  0                  0                  0
+ Total liabilities                                                                                                    15                70                  10                  11                12                14                 14                  11                  7                 7                 10                 14                 16
+ Common stock                                                                                                            0                 0                 0                   0                  0                  0                  0                 0                  0                  0                  0                  0                  0
+ Additional paid-in capital                                                                                          275               340                391                549                708             1,020              1,338              1,663              1,826               1,841              1,861             1,891             1,928
+ Accumulated gain (deficit)                                                                                         (212)             (292)             (360)               (437)              (525)             (642)               (813)           (1,043)             (1,134)            (1,153)           (1,075)             (806)               (310)
+ Total stockholders' equity                                                                                           63                48                  31                112               183               379                526                619               692                688                786              1,086              1,618
+
+
+ Total liabilities & stockholders' equity                                                                             78                118                40                123                195               393               540                 631               699                695                795              1,099              1,634
+
+                                        Balance Check                                                           OK                 OK                 OK                OK                 OK                 OK                 OK                 OK                 OK                 OK                OK                 OK                 OK
+ Balance Sheet Drivers
+ Prepaid expenses/Other current assets (% of revenue)                                                         360%                92%               124%                nm                 nm                 nm                 nm                 nm                50%                17%                 7%                4%                 2%
+      Prepaid expenses/Other current assets (% y/y)                                                             nm                38%                30%               30%                30%                30%                30%                30%                20%                10%                 5%                2%                 2%
+ Accounts payable (% of OpEx)                                                                                   2%                 0%                 2%                 2%                2%                 2%                 2%                 2%                 2%                 2%                 2%                2%                 2%
+ Accrued expenses/liabilities (% of OpEx)                                                                       9%                10%                10%                10%                9%                 8%                 5%                 2%                 2%                 2%                 2%                2%                 2%
+
+ Needham & Company, LLC
+Source: Company documents; Needham & Co.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                                                               CAMP4 Therapeutics Corporation / 32
+
+=== PDF PAGE 33 ===
+                                                                                                                                                                                                                                                                                                                                              October 15, 2026
+
+Cash Flow Statement
+
+ CAMP4 Therapeutics (CAMP)
+ Cash Flow Statement ($M)
+ FY: December                                                                                                                                      2024A             2025A              2026E             2027E             2028E             2029E             2030E              2031E             2032E             2033E             2034E             2035E             2036E
+ Cash Flows from Operating Activities
+ Net income (loss)                                                                                                                                        (52)              (80)              (68)               (77)              (87)              (117)             (171)            (231)               (91)              (19)               78              270               496
+ Adjustments:
+      Depreciation and amortization                                                                                                                           2                 2                  1             -                 -                 -                 -                  -                    0                  0                 0                 0                 0
+      Stock-based compensation expense                                                                                                                        4                 4                 5                 8                  9                12                18               24                 14                14                20                30                36
+      Change in fair value of derivative tranche liability                                                                                                -                   30               (45)              -                 -                 -                 -                  -                 -                 -                 -                 -                 -
+      Impairment of right-of-use asset                                                                                                                    -                     0              -                 -                 -                 -                 -                  -                 -                 -                 -                 -                 -
+      Loss on the sale of property and equipment                                                                                                          -                     0              -                 -                 -                 -                 -                  -                 -                 -                 -                 -                 -
+      Non-cash gain on lease modification                                                                                                                 -                    (0)             -                 -                 -                 -                 -                  -                 -                 -                 -                 -                 -
+      Non-cash lease expense                                                                                                                                  2                 2              -                 -                 -                 -                 -                  -                 -                 -                 -                 -                 -
+      Non-cash interest expense                                                                                                                               0                 0              -                 -                 -                 -                 -                  -                 -                 -                 -                 -                 -
+ Changes in operating assets and liabilities:
+      Prepaid expenses and other current assets                                                                                                               (1)               (1)               (1)               (1)               (2)               (2)               (3)               (4)               (3)                (2)                (1)              (0)               (0)
+      Accounts payable                                                                                                                                        0                 (1)                1                0                  0                  1                 1                 1               (2)                 0                  1                2                  1
+      Accrued expenses and other current liabilities                                                                                                          2                  1                 1                 1                 0                 2                 (1)              (4)               (2)                 0                  1                2                  1
+      Deferred revenue                                                                                                                                        0                17                (18)            -                 -                 -                 -                  -                 -                 -                 -                 -                 -
+      Operating lease assets and liabilities                                                                                                                 (3)               (3)               (0)             -                 -                 -                 -                  -                 -                 -                 -                 -                 -
+ Net cash provided (used) in Operating Activities                                                                                                        (46)               (30)             (124)              (69)               (79)            (105)              (155)             (213)              (84)                (6)              99               304               534
+ Cash Flows from Investing Activities
+      Purchase of property and equipment                                                                                                                     (0)               (0)               (0)             -                 -                 -                 -                  -                   (0)               (0)                (0)                (1)               (1)
+      Proceeds from the sale of property and equipment                                                                                                    -                     0              -                 -                 -                 -                 -                  -                 -                 -                 -                 -                 -
+ Net cash provided (used) in Investing Activities                                                                                                           (0)               (0)               (0)                0                 0                  0                 0                 0                (0)               (0)               (0)                (1)                (1)
+ Cash flows from Financing Activities
+      Proceeds from issuance of common stock, net                                                                                                          76                58                47                150               150              300               300               300                 150              -                 -                 -                 -
+      Proceeds from issuance of pre-funded warrants, net                                                                                                  -                     4              -                 -                 -                 -                 -                  -                 -                 -                 -                 -                 -
+      Proceeds from exercise of common stock options                                                                                                          0                 0              -                 -                 -                 -                 -                  -                 -                 -                 -                 -                 -
+      Proceeds allocated to the derivative tranche liability, net                                                                                         -                    15              -                 -                 -                 -                 -                  -                 -                 -                 -                 -                 -
+      Principal payments on financing obligation                                                                                                             (0)               (0)             -                 -                 -                 -                 -                  -                 -                 -                 -                 -                 -
+      Principal payments on finance leases                                                                                                                   (0)               (0)             -                 -                 -                 -                 -                  -                 -                 -                 -                 -                 -
+      Payments of deferred issuance costs                                                                                                                    (4)            -                  -                 -                 -                 -                 -                  -                 -                 -                 -                 -                 -
+ Net cash provided (used) in Financing Activities                                                                                                          72                76                47               150               150               300               300               300                150                  0                  0                 0                 0
+ Net increase (decrease) in cash & equivalents and restricted cash                                                                                         26                46               (78)                81                 71              195               145                87                66                 (6)              99               303               533
+ Beginning of period                                                                                                                                        40                66                112               34                 115              186               381              526                613               678               672                771            1,074
+ End of period                                                                                                                                             66                 112              34                115               186               381              526                 613             678                672                771            1,074             1,607
+
+ Cash Flow Statement Drivers
+ D&A (% of PP&E)                                                                                                                                   248%               447%              400%              300%              200%               100%               50%               20%               10%                5%                5%                5%                 5%
+ Stock-based compensation (% of OpEx)                                                                                                                8%                29%                7%               10%                10%               10%               10%               10%               10%               10%                10%               10%               10%
+ P&E (% of revenue)                                                                                                                                 68%                 8%                5%                2%                2%                2%                 1%                1%                0%                0%                0%                0%                 0%
+ P&E (% y/y)                                                                                                                                         nm               -37%              -39%              -100%               nm                nm                nm                nm                 nm               216%              145%              109%               51%
+
+ Needham & Company, LLC
+Source: Company documents; Needham & Co.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                                                                                    CAMP4 Therapeutics Corporation / 33
+
+=== PDF PAGE 34 ===
+                                                                                                                                                    October 15, 2026
+
+VALUATION (PRICE TARGET: $8.00)
+Our valuation and price target are based on a weighted average of two valuation methods: 1) a DCF analysis through 2050 using risk-
+adjusted revenues, a 9% WACC, and 0% terminal growth; and 2) a sum-of-the-parts EV/peak revenue multiple analysis using a 7.0x peak
+revenue multiple and risk-adjusted revenues.
+
+RISKS TO TARGET
+CAMP
+Investment risks include, but are not limited to, clinical development, competitive, regulatory, commercial, financial, and legal risks
+associated with CAMP4 products.
+
+
+■      Clinical Development. CAMP4 may be unsuccessful in progressing its preclinical assets into clinical studies.
+
+
+
+■      Competitive. Drug development is competitive, and there is no guarantee that CAMP4 will obtain commercial success with its drugs,
+    if approved.
+
+
+
+■      Regulatory: Drugs require regulatory approval prior to launch. No drug from CAMP4 has been approved by a regulatory authority.
+
+
+
+■      Commercial: CAMP4 will need to sufficiently differentiate its clinical candidates from other drugs currently on the market and in
+    development. The company will also need to build a commercial infrastructure to compete with companies with substantially more
+    resources.
+
+
+
+■      Financial. We do not anticipate profitability for several years. Clinical development of CAMP4's drug candidates involves relatively
+    long timelines and significant financial resources. We expect CAMP4 will require additional funds as it takes its clinical candidates
+    through clinical trials. CAMP4 may need to raise additional capital, and there is no guarantee that the company will be able to obtain
+    financing on favorable terms.
+
+
+
+■      Legal: CAMP4 owns intellectual property for its assets, including CMP-002. However, there is no guarantee that any pending patent
+    applications will issue or that the company will achieve adequate protection of its product candidates. There are risks that CAMP4
+    products may infringe patents assigned to other entities.
+
+
+ Rating and Price Target History for: CAMP4 Therapeutics Corporation (CAMP) as of 10-14-2026
+
+                                                                                                                                          12
+                                                                                                                                          10
+                                                                                                                                          8
+
+                                                                                                                                          6
+                                                                                                                                          4
+                                                                                                                                          2
+                                                                                                                                          0
+ Q3       2024        Q1         Q2          Q3        2025        Q1         Q2          Q3        2026        Q1          Q2         Q3
+
+
+
+
+                                                                                                                              Created by: BlueMatrix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                          CAMP4 Therapeutics Corporation / 34
+
+=== PDF PAGE 35 ===
+                                                                                                                                                                                            October 15, 2026
+
+
+ANALYST CERTIFICATION
+I, Joseph Stringer hereby certify that the views expressed in this research report accurately reflect my personal views about the subject company (ies) and its (their) securities.
+I, also certify that I, have not been, and will not be receiving direct or indirect compensation in exchange for expressing the specific recommendation(s) in this report.
+
+RATINGS DISTRIBUTIONS FOR NEEDHAM & COMPANY, LLC
+
+                                                                                  % of companies under coverage                                       % for which investment banking services
+                                                                                             with this rating                                      have been provided for in the past 12 months
+Buy                                                                                                   80                                                                        20
+Hold                                                                                                  20                                                                        3
+Underperform                                                                                          < 1                                                                       0
+Rating Suspended                                                                                       0                                                                        0
+Restricted                                                                                            < 1                                                                       0
+
+Needham & Company, LLC employs a rating system based on the following:
+
+Buy: A security, which at the time the rating is instituted, we expect to outperform the average total return of the broader market over the next 12 months.
+
+Hold: A security, which at the time the rating is instituted, we expect to perform approximately in line with the average total return of the broader market over the next
+12 months.
+
+Underperform: A security, which at the time the rating is instituted, we expect to underperform the average total return of the broader market over the next 12 months.
+
+Rating Suspended: We have suspended the rating and/or price target, if any, for this security, because there is not a sufficient fundamental basis for determining a rating
+or price target. The previous rating and price target, if any, are no longer in effect and should not be relied upon.
+
+Restricted: Needham & Company, LLC policy and/or applicable law and regulations preclude certain types of communications, including an investment recommendation,
+during the course of Needham & Company, LLC’s engagement in an investment banking transaction and in certain other circumstances.
+
+For disclosure purposes, in accordance with FINRA requirements, Buy ratings most closely correspond to a "Buy" recommendation. Hold ratings mostly correspond to a
+"Hold/Neutral" recommendation; while our Underperform rating closely corresponds to the "Sell" recommendation required by the FINRA.
+
+Our rating system attempts to incorporate industry, company and/or overall market risk and volatility. Consequently, at any given point in time, our investment rating on
+a security and its implied price appreciation may not correspond to the stated 12-month price target. For valuation methods used to determine our price targets and risks
+related to our price targets, please contact your Needham & Company, LLC salesperson for a copy of the most recent research report.
+
+Price charts and rating histories for companies under coverage and discussed in this report are available at  http://www.needhamco.com/ . You may also request this
+information by writing to: Needham & Company, LLC, Attn: Compliance/Research, 250 Park Ave., New York, NY 10177
+
+By issuing this research report, each Needham & Company, LLC analyst and associate whose name appears within this report hereby certifies that (i) the recommendations
+and opinions expressed in the research report accurately reflect the research analyst’s and associate’s personal views about any and all of the subject securities or issuers
+discussed herein and (ii) no part of the research analyst’s or associate’s compensation was, is or will be directly or indirectly related to the specific recommendations or
+views expressed by the research analyst or associate in the research report.
+
+DISCLOSURES
+The research analyst and research associate have received compensation based upon various factors, including quality of research, investor client feedback, and the Firm's
+overall revenues, which includes investment banking revenues for the following: CAMP4 Therapeutics Corporation
+
+
+
+This report is for informational purposes only and does not constitute a solicitation or an offer to buy or sell any securities mentioned herein. Information contained in this report has been obtained
+from sources believed to be reliable, but Needham & Company, LLC makes no representation as to its accuracy or completeness, except with respect to the Disclosure Section of the report. Any
+opinions expressed herein reflect our judgment as of the date of the materials and are subject to change without notice. The securities discussed in this report may not be suitable for all investors
+and are not intended as recommendations of particular securities, financial instruments or strategies to particular clients. Investors must make their own investment decisions based on their
+financial situations and investment objectives. The value of income from your investment may vary because of changes in interest rates, changes in the financial and operational conditions of the
+companies and other factors. Investors should be aware that the market price of securities discussed in this report may be volatile. Due to industry, company and overall market risk and volatility, at
+the securities current price, our investment rating may not correspond to the stated price target. Additional information regarding the securities mentioned in this report is available upon request.
+© Copyright 2026, Needham & Company, LLC, Member FINRA, SIPC.
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                           CAMP4 Therapeutics Corporation / 35

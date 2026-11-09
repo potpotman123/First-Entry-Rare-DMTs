@@ -1,0 +1,311 @@
+
+=== PDF PAGE 1 ===
+                                                                                                                                               COMPANY NOTE
+                                                                                                                                       September 28, 2026
+
+ CAMP4 Therapeutics Corporation (CAMP)                                                                                                    Overweight
+ Phase I/II ASCEND Study of CMP-002 for SYNGAP1-Related Disorders Start in 4Q:26
+
+
+CONCLUSION                                                                                                          PRICE: US$3.92
+CAMP4 expects to dose the first patient in the Phase I/II ASCEND study by YE:26 with                                TARGET: US$15.00
+signal finding top-line data expected in 1H:28. Preclinical data showed CMP-002 reduced                             Proj. EV $1.26B + mid'27E cash
+both incidence and severity of seizures in a SYNGAP1 humanized mouse model. CAMP4
+announced its 2nd program for Phelan-McDermid syndrome, another haploinsufficient                                   Edward A. Tenthoff
+neurodevelopmental disorder caused by mutations in the SHANK3 gene. In December,                                    Sr Research Analyst, Piper Sandler & Co.
+CAMP4 partnered with GSK to develop ASOs against regulatory RNAs (regRNAs) for                                      212 284-9403, edward.tenthoff@psc.com
+multiple targets in neurodegenerative and kidney diseases. We estimate CAMP4 has pro                                Thad Barney, Ph.D.
+                                                                                                                    Research Analyst, Piper Sandler & Co.
+forma cash of ~$133 million to fund operations through YE:28. We reiterate our Overweight                           212 284-9450, thad.barney@psc.com
+rating and $15 price target.                                                                                        Changes                 Previous         Current
+
+                                                                                                                    Rating                          —     Overweight
+•   SYNGAP1-Related Disorders are rare neurodevelopmental conditions characterized                                  Price Tgt                       —      US$15.00
+   by  movement  disorders,  developmental  delays  and  features  of  autism  spectrum                             FY26E Rev (mil)                 —         US$9.6
+   disorder  with  ~85%  of  patients  experiencing  epileptic  seizures.  Mutations  in  the                       FY27E Rev (mil)                 —         US$8.0
+   Synaptic Ras GTPase Activating Protein (SYNGAP) cause haploinsufficiency and low                                 FY26E EPS                       —      US$(1.06)
+   SYNGAP1 protein levels. Normal SYNGAP1 localizes to the postsynaptic density                                     FY27E EPS                       —      US$(0.65)
+   of glutamatergic neurons, where it regulates signal transduction and protein-protein                             52-Week High / Low            US$7.75 / US$2.63
+   interactions, acting as a negative regulator of excitatory synaptic strength. Consequently,                      Shares Out (mil)                                          90.7
+   reduced SYNGAP1 levels lead to excessive or abnormally timed excitatory synaptic                                      Form 10Q as of August 12th + subsequent
+   signaling, altered synaptic development, impaired neuronal-network regulation, and                               financing
+   seizures. There are currently no approved therapies for SYNGAP1-related disorders.                               Market Cap. (mil)                                US$355.5
+                                                                                                                    Total Assets ($mil)                                         NA
+•   Phase I/II ASCEND Study to Start by YE:26. CMP-002 is an intrathecally-delivered                                Avg Daily Vol (000)                                       288
+                                                                                                                    Book Value/Share                                          NA
+   ASO that targets regRNAs to upregulate SYNGAP1 gene expression, restore protein                                  Net Cash Per Share                             US$1.47
+   levels and reduce aberrant neuronal firing. The CTA for the Phase I/II ASCEND study                                   2Q:26 cash + subsequent $50M financing
+   has cleared in UK, Australia and Argentina, and is awaiting clearance in Europe.                                 Div Yield                                                   0.00%
+   ASCEND will enroll genetically confirmed SYNGAP1-related disorder patients age                                   Fiscal Year End                                            Dec
+   2-17  years  with  daily  seizures,  impaired  sleep  and  inability  to  speak  in  phrases.                    Price Performance - 1 Year
+   ASCEND  will  randomize  3  MAD  cohorts  (3:1)  of  8  patients  each  to  receive  3
+   CMP-002 doses or sham pinprick over 3 months with 6 months of follow-up. 24-                                       USD
+   hour video EEG will measure both seizures and sleep disturbances. Seizures will                                      8
+   also be assessed by seizure diaries and seizure-related impact assessment scale                                      7
+   (SERIAS), and sleep by Children's Sleep Habits Questionnaire (CSHQ) and actigraphy                                   6
+   before each clinical visit. Other domains of function including communication, motor,                                5
+   behavior, and development will be assessed with validated measures such as Bayley
+   Scales of Infant and Toddler Development, Vineland Adaptive Behavior Scales, Aberrant                                4
+   Behavior Checklist, Observer-reported Communication Ability Measure, and Gross                                       3
+   Motor Function Measure. CAMP4 anticipates reporting top-line data in 1H:28.                                          2
+RISKS TO ACHIEVEMENT OF PT & RECOMMENDATION                                                                           Sep-25Nov-25 Jan-26Mar-26 May-26 Jul-26 Sep-26
+regRNA therapies may fail in the clinic or to gain approval. CAMP4 may be unable to sign                            Source: Bloomberg
+new partnerships. CAMP4 may need additional capital or face future litigation.
+COMPANY DESCRIPTION
+CAMP4 is developing regRNAs as a novel therapeutic modality.
+
+  YEAR                                 REVENUE (US$ m)                                                         EARNINGS PER SHARE (US$)
+                Mar          Jun          Sep          Dec           FY         FY RM          Mar          Jun         Sep          Dec           FY         FY P/E
+   2025A         0.9          1.5          0.8          0.3         3.5         101.6x        (0.62)       (0.62)       (0.55)       (0.81)       (2.65)        NM
+   2026E        1.3A         1.8A          3.3          3.3         9.6         37.0x        (0.32)A      (0.58)A       (0.14)       (0.14)       (1.06)        NM
+   2027E         3.3          3.3          1.5          0.0         8.0         44.4x         (0.13)       (0.14)       (0.17)       (0.21)       (0.65)        NM
+
+Piper Sandler does and seeks to do business with companies covered in its research reports. As a result, investors should be aware
+that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider this report as only
+a single factor in making their investment decisions. This report should be read in conjunction with important disclosure information,
+including an attestation under Regulation Analyst Certification, found on pages  3 - 4 of this report or at the following site:
+http://www.pipersandler.com/researchdisclosures.
+CAMP4 Therapeutics Corporation                                                                                                                            Page 1 of 4
+
+=== PDF PAGE 2 ===
+                                                    363679_7ec47f89-dc75-4097-ba5c-3812bacf8b61.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAMP4 Therapeutics Corporation                                                                                                                                    Page 2 of 4
+
+=== PDF PAGE 3 ===
+                                                                                                                                                            COMPANY NOTE
+                                                                                                                                                   September 28, 2026
+
+
+IMPORTANT RESEARCH DISCLOSURES
+
+
+                                 Rating and Price Target History for: CAMP4 Therapeutics Corporation (CAMP) as of 09-25-2026
+
+  11/05/24    09/15/25   08/13/26
+  I:OW:$18    OW:$12     OW:$15
+                                                                                                                                                            12
+                                                                                                                                                            10
+                                                                                                                                                            8
+                                                                                                                                                            6
+                                                                                                                                                            4
+                                                                                                                                                            2
+                                                                                                                                                            0
+ Q2          Q3        2024         Q1          Q2          Q3         2025        Q1          Q2          Q3         2026        Q1          Q2          Q3
+
+
+
+                                                                                                                                           Created by: BlueMatrix
+
+Notes: The boxes on the Rating and Price Target History chart above indicate the date of the fundamental Equity Research Note, the rating and the price
+target. Each box represents a date on which an analyst made a change to a rating or price target, except for the first box, which may only represent the
+first Note written during the past three years.
+Legend:
+I: Initiating Coverage
+R: Resuming Coverage
+T: Transferring Coverage
+D: Discontinuing Coverage
+S: Suspending Coverage
+OW: Overweight
+N: Neutral
+UW: Underweight
+NA: Not Available
+UR: Under Review
+                                                               Distribution of Ratings/IB Services
+                                                                            Piper Sandler
+
+                                                                                                                                             IB Serv./Past 12 Mos.
+
+Rating                                                                             Count                      Percent                   Count                Percent
+BUY [OW]                                                                               505                       63.44                      144                 28.51
+HOLD [N]                                                                               277                       34.80                       48                 17.33
+SELL [UW]                                                                               14                         1.76                        2                14.29
+
+Note: Distribution of Ratings/IB Services shows the number of companies currently covered by fundamental equity research in each rating category from
+which Piper Sandler and its affiliates received compensation for investment banking services within the past 12 months. FINRA rules require disclosure
+of which ratings most closely correspond with "buy," "hold," and "sell" recommendations. Piper Sandler ratings are not the equivalent of buy, hold or sell,
+but instead represent recommended relative weightings. Nevertheless, Overweight corresponds most closely with buy, Neutral with hold and Underweight
+with sell. See Stock Rating definitions below.
+
+
+Analyst Certification
+The analyst Edward A. Tenthoff, primarily responsible for the preparation of this research report, attests to the following:
+
+
+The views expressed in this report accurately reflect my personal views about the subject company and the subject security. In addition, no part of my
+compensation was, is, or will be directly or indirectly related to the specific recommendations or views contained in this report.
+
+
+Piper Sandler research analysts receive compensation that is based, in part, on overall firm revenues, which include investment banking revenues.
+
+
+Time of dissemination: 28 September 2026 18:11EDT.
+
+
+
+
+
+
+
+
+
+
+
+
+CAMP4 Therapeutics Corporation                                                                                                                                           Page 3 of 4
+
+=== PDF PAGE 4 ===
+                                                                                                                                                                 COMPANY NOTE
+                                                                                                                                                        September 28, 2026
+
+
+Research Disclosures
+Piper Sandler has had a client relationship or has received compensation for investment banking services from CAMP4 Therapeutics Corporation within
+the past 12 months.
+Piper Sandler was a registered market maker or liquidity provider in the securities of CAMP4 Therapeutics Corporation at the time this research report
+was published.
+
+Affiliate disclosures: Piper Sandler is the trade name and registered trademark under which the corporate and investment banking products and services
+of Piper Sandler Companies and its subsidiaries Piper Sandler & Co. and Piper Sandler Ltd. are marketed. This report has been prepared by Piper Sandler
+& Co. and/or its affiliate Piper Sandler Ltd. Piper Sandler & Co. is regulated by FINRA, NYSE and the United States Securities and Exchange Commission,
+and its headquarters are located at 350 North 5th Street, Minneapolis, MN 55401. Piper Sandler Ltd. is authorised and regulated by the Financial Conduct
+Authority, and is located at 6th Floor, 2 Gresham Street, London EC2V 7AD. This report is distributed in the European Union by Piper Sandler Europe
+SAS, a French “société par actions simplifiée” incorporated in France under the number RCS Paris 932 083 769, the registered office of which is 10, place
+Vendôme, 75001, Paris, France. Piper Sandler Europe SAS is licensed as an investment firm by the Autorité de Contrôle Prudentiel et de Résolution and
+supervised by the Autorité des Marchés Financiers. Disclosures in this section and in the Other Important Information section referencing Piper Sandler
+include all affiliated entities unless otherwise specified.
+
+
+Rating Definitions
+    Stock Ratings: Piper Sandler fundamental research ratings are indicators of expected total return (price appreciation plus dividend) within the next
+    12 months. At times analysts may specify a different investment horizon or may include additional investment time horizons for specific stocks.
+    Stock performance is measured relative to the group of stocks covered by each analyst. Lists of the stocks covered by each are available at
+    www.pipersandler.com/researchdisclosures. Stock ratings and/or stock coverage may be suspended from time to time in the event that there is no
+    active analyst opinion or analyst coverage, but the opinion or coverage is expected to resume. Research reports and ratings should not be relied
+    upon as individual investment advice. As always, an investor’s decision to buy or sell a security must depend on individual circumstances, including
+    existing holdings, time horizons and risk tolerance. Piper Sandler sales and trading personnel may provide written or oral commentary, trade ideas, or
+    other information about a particular stock to clients or internal trading desks reflecting different opinions than those expressed by the research analyst.
+    Piper Sandler will buy and sell securities of the subject company on a principal basis, regardless of whether it is a registered market maker in those
+    securities. In addition, Piper Sandler offers technical research products that are based on different methodologies, may contradict the opinions contained
+    in fundamental research reports, and could impact the price of the subject security. Recommendations based on technical analysis are intended for the
+    professional trader, while fundamental opinions are typically suited for the longer-term institutional investor.
+
+    Overweight (OW): Anticipated to outperform relative to the median of the group of stocks covered by the analyst.
+
+
+    Neutral (N): Anticipated to perform in line relative to the median of the group of stocks covered by the analyst.
+
+    Underweight (UW): Anticipated to underperform relative to the median of the group of stocks covered by the analyst.
+
+Other Important Information
+The material regarding the subject company is based on data obtained from sources we deem to be reliable; it is not guaranteed as to accuracy and does
+not purport to be complete. This report is solely for informational purposes and is not intended to be used as the primary basis of investment decisions.
+Piper Sandler has not assessed the suitability of the subject company for any person. Because of individual client requirements, it is not, and it should not
+be construed as, advice designed to meet the particular investment needs of any investor. This report is not an offer or the solicitation of an offer to sell or
+buy any security. Unless otherwise noted, the price of a security mentioned in this report is the most recently available closing market price. Piper Sandler
+does not maintain a predetermined schedule for publication of research and will not necessarily update this report. Piper Sandler policy generally prohibits
+research analysts from sending draft research reports to subject companies; however, it should be presumed that the fundamental equity analyst(s) who
+authored this report has had discussions with the subject company to ensure factual accuracy prior to publication, and has had assistance from the company
+in conducting diligence, including visits to company sites and meetings with company management and other representatives.
+Notice to customers: This material is not directed to, or intended for distribution to or use by, any person or entity if Piper Sandler is prohibited or restricted
+by any legislation or regulation in any jurisdiction from making it available to such person or entity. Customers in any of the jurisdictions where Piper Sandler
+and its affiliates do business who wish to effect a transaction in the securities discussed in this report should contact their local Piper Sandler representative,
+or as otherwise noted below. Canada: Piper Sandler & Co. is not registered as a dealer in Canada and relies on the "international dealer exemption" set forth
+in National Instrument 31-103 – Registration Requirements, Exemptions and Ongoing Registrant Obligations of the Canadian Securities Administrators.
+This research report has not been prepared in accordance with the disclosure requirements of Dealer Member Rule 3400 – Research Restrictions and
+Disclosure Requirements of the Investment Industry Regulatory Organization of Canada. United Kingdom: This material is for the use of intended recipients
+only and only for distribution to professional and institutional investors, i.e., persons who are authorised persons or exempted persons within the meaning
+of the Financial Services and Markets Act 2000 of the United Kingdom, or persons who have been categorised by Piper Sandler Ltd. as professional
+clients under the rules of the Financial Conduct Authority. European Union: This material is intended only for institutional investors (professional clients
+and eligible counterparties within the meaning of the Markets in Financial Instruments Directive (Directive 2014/65/EU of the European Parliament and of
+the Council of 15 May 2014)). Piper Sandler Europe SAS is licensed as an investment firm by the Autorité de Contrôle Prudentiel et de Résolution and
+supervised by the Autorité des Marchés Financiers. United States: This report is distributed in the United States by Piper Sandler & Co., member SIPC,
+FINRA and NYSE, Inc., which accepts responsibility for its contents. The securities described in this report may not have been registered under the U.S.
+Securities Act of 1933 and, in such case, may not be offered or sold in the United States or to U.S. persons unless they have been so registered, or an
+exemption from the registration requirements is available.
+This report is produced for the use of Piper Sandler customers and may not be reproduced, re-distributed or passed to any other person or published in
+whole or in part for any purpose without the prior consent of Piper Sandler & Co. Additional information is available upon request. Copyright 2026 Piper
+Sandler. All rights reserved.
+
+
+
+CAMP4 Therapeutics Corporation                                                                                                                                                Page 4 of 4

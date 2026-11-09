@@ -1,0 +1,605 @@
+
+=== PDF PAGE 1 ===
+                                                                                                                                Ask
+     How accurate are analyst forecasts for 1st                               entry rare disease products?
+
+
+     ▪  Analyze set of rare disease 1st to market products (launched within last ~10 years)
+
+          ▪   Track analyst peak revenue estimate ranges         prior to launch
+          ▪   Compare to actual sales      and current consensus forecasts
+          ▪   Prior to launch, are analysts “under    - or over-calling” $ opportunity for 1   st to market rare disease products?
+
+          ▪   Explore explanations for misses; focus on products where learnings may be applicable to SYNGAP1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+=== PDF PAGE 2 ===
+                                                                                                                                                     Caveats
+      Focused on products with more historical data; limited label expansion
+
+
+      ▪   Analysis caveats:
+            ▪   Data availability: analyst estimate look-back and actual sales near peak are often limited
+                (esp. given prolonged 7+ year uptake to peak often seen in rare diseases)
+            ▪   Excluded products (e.g., Solris) where initial estimates assumed single indications and product eventually
+                expanded to additional distinct indications
+            ▪   Included some indication expansion products when model is still driven by core initial indication + there
+                are SYNGAP1 relevant learnings
+            ▪   Also, looked at SMA market where fast followers / multiple products were in sequence in the pipeline to get
+                at potential dynamics in a multiple modality DMT market*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2         * Excluded: TTR given cardio expansion and Alnylam cannibalizing its own products; Dravet seizure focused market given short sequence of Epidiolex / Fintepla launches (eventual mkt leader), also approved for LGS
+
+=== PDF PAGE 3 ===
+                                                                                                                                          Results Summary
+      No clear trend; analyst over & underestimates can inform SYNGAP1
+
+
+      ▪  Analysts both over and underestimate 1st entry rare disease product revenue; no consistent trend emerged
+
+      ▪  Misses in both directions are often due to TAM and penetration estimate mismatches
+            o   Specifically related to initial populations modeled (e.g., more severe, pediatric), lower initial epi estimates
+                  o   Both early Strensiq and Crysvita models did not assign much value to adult mkt; limited overall
+                      population literature epi; patient identification improved post-launch
+            o   Highlights importance of augmenting genetic testing and patient identification pre-launch
+      ▪  Geographic expansion often conferred upside vs. initial launch forecasts
+      ▪  Premium pricing is frequently applied in analyst models and does not typically underly forecast misses*
+
+
+
+
+
+
+
+
+
+
+
+
+
+3            * note: there are specific instances – e.g., weight-based dosing + under-calling adult penetration – that resulted in low initial annual price / patient assumptions (not as relevant to IT ASOs)
+
+=== PDF PAGE 4 ===
+                                                                                                                                                                                                               1st Entry Products
+         Estimate mismatch often due to initial addressable mkt & epi assumptions
+
+         Select 1st Entry Products                                                             WW Annual Sales
+
+                Product                        Disease                    Launch             Pre-launch Peak Est.                   Actual Sales               Current Peak Est.                             Rationale
+                                                                             Year                     (Year Made)                          (2025)                   (Est. Peak Year)            Prior vs. actual $ / current estimates
+
+                                                                                                                                                                                                TAM expansion + epi:     early models
+               Strensiq                   Hypophosphatasia                                            $0.5 – 1B                                                           $2B                   focused on most severe / pediatric;
+                  SC ERT                          (HPP)                      2015                       (2012-14)                         $1.7B                          (2027)                 added adults to later models (note: no
+                                                                                                                                                                                                label change); early models relied on
+                                                                                                                                                                                                sparse epi lit. estimates.
+               Crysvita                          X-linked                                            $1.2 – 1.8B                                                        $2 – 3B                 TAM + geo. expansion:     initial models
+                 SC mAb                   hypophosphatemia                   2018                     (2016-2018)                         $1.6B                          (2032)                 assumed limited adult ID ( vs. reality);
+                                                  (XLH)*                                                                                                                                        LATAM revenue expansion
+
+                                               Dystrophic                                                                                                                                       Penetration + epi + geo. expansion:
+                Vyjuvek                 epidermolysis bullosa                2023                    $0.75 – 1B                           $0.4B                       $1.7 – 2B                 better penetration in the diag. patient
+             Topical Gene Tx                      (DEB)^                                                  (2023)                                                         (2033)                 pool; expanded models into larger
+                                                                                                                                                                                                prev. estimates;  addition of EU sales
+                                                                                                                                                                                                Pricing vs. tolerability : pre-launch
+                Daybue                       Rett Syndrome                   2023                    $0.4 – 0.8B                          $0.4B                      $0.5 – 0.9B                models assumed $150k / pt / yr; vs.
+                  Oral SM                                                                               (2022-23)                                                        (2032)                 $375k; yet real-world tolerability has
+                                                                                                                                                                                                hampered uptake; epi largely accurate
+                                                                                                                                                                                                Diagnosis overestimates: difficult
+                Givlaari                     Acute hepatic                   2019                    $0.5 – 1.5B                          $0.3B                          $0.6B                  patient ID due to symptom overlap with
+                 SC siRNA                   porphyria (AHP)                                             (2017-19)                                                        (2033)                 other diseases, acute attacks;
+                                                                                                                                                                                                overestimated ALNY gene Tx efforts
+
+                                                                                                                                                                                                Penetration: earlier estimates
+              Skyclarys                     Friedreich Ataxia                2023                    $1.4 – 2.2B                          $0.5B                       $1 – 1.5B                 overestimated penetration into older /
+                  Oral SM                                                                                 (2022)                                                         (2033)                 community center patients; poor real    -
+                                                                                                                                                                                                world adherence
+
+           *Crysvita label expanded to Tumor -Induced Osteomalacia in 2020 / expanded within XLH to infants; marginally contributing to sales est.; initial initiation still remains core to $
+4          ^ Vyjuvek label expanded to newborns; however, penetration assumptions into initial core age group have increased
+           Sources: pre-launch : AlphaSense consolidation of analyst estimates (not probability adjusted); actual sales and current consensus forecasts from Evaluate Pharma and select reports
+
+=== PDF PAGE 5 ===
+                                                                                                                                                          Fast Follower Market
+       SMA estimates in line with overall mkt size, not product shares
+
+                                                                                  WW Annual Sales
+
+                                                                                        Pre-launch Peak Est.        VS     Actual (‘25)     VS     Current Peak Est.
+              Product                   Disease                Launch Year                        Launch
+                                                                                          Analyst Est.
+                                                                                            2016                                                      Consensus
+             Spinraza                     SMA                       2016                  $1.6 - 3.0B                                     Post Peak
+                IT ASO                                                                                                        $1.5B                     $2.1B  2019 Actual
+
+            Zolgensma                     SMA                       2019                       2019                           $1.2B       Pre Peak
+             IT Gene Tx                                                                      $1.4 – 2.8B                                                $1.6B  2033 Est.
+
+              Evrysdi                     SMA                       2020                          2020                                    Pre Peak
+                 Oral                                                                          $2.2 – 3.8B                    $2.1B                     $3.2B   2032 Est.
+
+
+
+      •    Available pre-launch analyst peak sales est. are near launch – i.e., not a robust pre-launch look-back data set
+      •    Ranges in estimates reflect multiple products in clinical development simultaneously; different calls on mkt leader
+      •    Higher analyst pre-launch Spinraza estimates assumed it would continue to take most of the market
+      •    Additional entrants (esp. Evrysdi) had rapid uptake and became SMA market leader
+
+
+
+
+
+
+
+5        Sources: pre-launch : AlphaSense consolidation of analyst estimates (not probability adjusted); actual sales and current consensus forecasts from Evaluate Pharma
+
+=== PDF PAGE 6 ===
+ Appendix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+=== PDF PAGE 7 ===
+   Strensiq (launched 2015)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+
+=== PDF PAGE 8 ===
+    Strensiq – CS 2016 historical model build
+
+    Restricted to <18 patients given limited information not because of label
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+=== PDF PAGE 9 ===
+   Crysvita (launched 2018)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+
+=== PDF PAGE 10 ===
+   Vyjuvek (launched 2023)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+
+=== PDF PAGE 11 ===
+   Givlaari (launched 2019)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11
+
+=== PDF PAGE 12 ===
+   Skyclarys (launched 2023)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12
+
+=== PDF PAGE 13 ===
+                                                                            SMA
+   EvaluatePharma actual and consensus sales est.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13
+
+=== PDF PAGE 14 ===
+                                                                               SMA
+   Spinraza Analyst Estimates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14
+
+=== PDF PAGE 15 ===
+                                                                                       SMA
+   Zolgensma Analyst Estimates
+
+
+
+
+
+
+
+
+                    Outlier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15
+
+=== PDF PAGE 16 ===
+                                                                                SMA
+   Evrysdi Analyst Estimates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16

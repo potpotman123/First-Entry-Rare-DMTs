@@ -1,0 +1,2114 @@
+{
+  "as_of": "2026-11-09",
+  "study_status": "Integrated prior internal deck and eight current CAMP reports. No systematic commercial forecast bias established; strict cumulative sample remains empty. Exploratory point outcomes and forecast revisions are separate.",
+  "sources": {
+    "camp_update": {
+      "title": "CAMP4 Q3 2026 update, November 5, 2026",
+      "url": "https://investors.camp4tx.com/news-releases/news-release-details/camp4-reports-third-quarter-2026-financial-results-and-corporate",
+      "type": "primary",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "camp_8k": {
+      "title": "CAMP4 September 28, 2026 Form 8-K, Item 8.01",
+      "url": "https://www.sec.gov/Archives/edgar/data/1736730/000162828026063740/camp-20260928.htm",
+      "type": "primary",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "camp_10q": {
+      "title": "CAMP4 September 30, 2026 Form 10-Q, equity statement and Notes 7 and 11",
+      "url": "https://investors.camp4tx.com/node/8336/html",
+      "type": "primary",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "syngap_census": {
+      "title": "Original SYNGAP1 patient-census and incidence research",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11726535/",
+      "type": "original research",
+      "access_note": "Census cutoff March 31, 2024; not a current 2026 patient count.",
+      "accessed": "2026-11-09"
+    },
+    "chop": {
+      "title": "CHOP: SYNGAP1-related disorders",
+      "url": "https://www.chop.edu/conditions-diseases/syngap1-related-disorders",
+      "type": "clinical institution",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "stoke": {
+      "title": "Stoke Q2 2026 update, August 3, 2026",
+      "url": "https://stoketherapeutics.gcs-web.com/news-releases/news-release-details/stoke-therapeutics-announces-second-quarter-2026-financial",
+      "type": "primary",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "fda_arc": {
+      "title": "FDA rare-disease drug approval index",
+      "url": "https://www.fda.gov/about-fda/accelerating-rare-disease-cures-arc-program/rare-disease-drug-approvals",
+      "type": "regulator",
+      "access_note": "Selected approvals, not a complete orphan-drug census.",
+      "accessed": "2026-11-09"
+    },
+    "fda_orphan": {
+      "title": "FDA orphan designations and approvals database",
+      "url": "https://www.accessdata.fda.gov/scripts/opdlisting/oopd/index.cfm",
+      "type": "regulator",
+      "access_note": "Access route identified; no full database export reconciled in this study.",
+      "accessed": "2026-11-09"
+    },
+    "ert_fda": {
+      "title": "FDA-authored clinical-pharmacology paper on ERT development",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11998121/",
+      "type": "original regulatory research",
+      "access_note": "Indexed table used as screening source; direct page returned a browser challenge.",
+      "accessed": "2026-11-09"
+    },
+    "ert_review": {
+      "title": "Lysosomal enzyme-replacement approval review table",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12743805/",
+      "type": "secondary scientific review",
+      "access_note": "Screening seed only; US and EU approval dates must not be conflated.",
+      "accessed": "2026-11-09"
+    },
+    "spin_approval": {
+      "title": "Biogen: FDA approval of Spinraza, December 23, 2016",
+      "url": "https://investors.biogen.com/node/16026",
+      "type": "primary",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "spin_label": {
+      "title": "Spinraza prescribing information",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dd70cd5f-b0fc-4ba4-a5ea-89a34778bd94",
+      "type": "regulatory label",
+      "access_note": "Current label used for delivery context, not to backdate later dosing changes.",
+      "accessed": "2026-11-09"
+    },
+    "spin_forecast": {
+      "title": "Needham forecast quoted August 1, 2016 by StreetInsider",
+      "url": "https://www.streetinsider.com/Analyst%2BPT%2BChange/Ionis%2BPharmaceuticals%2B%28IONS%29%2BPT%2BRaised%2Bto%2B%2464%2Bat%2BNeedham%2B%26%2BCompany%2Bas%2BENDEAR%2BStudy%2BHalted%2BEarly%2Bfor%2BEfficacy/11885526.html",
+      "type": "contemporaneous analyst quotation",
+      "access_note": "Indexed quotation retrieved; direct page unavailable. Original broker model not obtained.",
+      "accessed": "2026-11-09"
+    },
+    "biogen22": {
+      "title": "Biogen 2022 Form 10-K, Spinraza revenues",
+      "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504523000009/biib-20221231.htm",
+      "type": "primary",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "spin_quarter": {
+      "title": "BioWorld: Biogen second-quarter 2017 earnings",
+      "url": "https://www.bioworld.com/articles/392405-biogen-sails-to-strong-2nd-quarter-on-winds-of-sma-drug-sales",
+      "type": "financial reporting",
+      "access_note": "Postapproval quarterly consensus; excluded from preapproval comparisons.",
+      "accessed": "2026-11-09"
+    },
+    "spin_claims": {
+      "title": "Prime Therapeutics AMCP 2019 Spinraza claims poster",
+      "url": "https://pharmacy.primetherapeutics.com/content/dam/corporate/Documents/Newsroom/Pressreleases/2019/amcp-posters/news-amcp-2019-spinraza.pdf",
+      "type": "original payer research",
+      "access_note": "Small commercially insured sample; poster approval-date error is not adopted.",
+      "accessed": "2026-11-09"
+    },
+    "brin17": {
+      "title": "BioMarin 2017 Form 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1048477/000156459018003114/bmrn-10k_20171231.htm",
+      "type": "primary",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "brin19": {
+      "title": "BioMarin 2019 Form 10-K, product revenues",
+      "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847720000009/bmrn-20191231.htm",
+      "type": "primary",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "brin21": {
+      "title": "BioMarin 2021 Form 10-K, product revenues",
+      "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847722000012/bmrn-20211231.htm",
+      "type": "primary",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "brin_label": {
+      "title": "Brineura FDA label, 2024",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761052s016lbl.pdf",
+      "type": "regulatory label",
+      "access_note": "Delivery context; launch-age restrictions taken from 2017 filing, not this expanded label.",
+      "accessed": "2026-11-09"
+    },
+    "day_fda": {
+      "title": "FDA: first treatment for Rett syndrome",
+      "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-treatment-rett-syndrome",
+      "type": "regulator",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "day_label": {
+      "title": "Daybue original FDA label, 2023",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/217026s000lbl.pdf",
+      "type": "regulatory label",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "day_forecast": {
+      "title": "Reuters March 10, 2023 report quoting preapproval SMBC and RBC notes",
+      "url": "https://mix929.com/2023/03/10/u-s-fda-approves-acadias-genetic-rett-syndrome-drug/",
+      "type": "contemporaneous analyst quotation",
+      "access_note": "Syndicated indexed text; exact dates of underlying notes and PoS not recovered.",
+      "accessed": "2026-11-09"
+    },
+    "day25": {
+      "title": "Acadia full-year 2025 results",
+      "url": "https://acadia.com/en-us/media/news-releases/acadia-pharmaceuticals-reports-fourth-quarter-and-full-year-2025-financial-results-and-operating-overview",
+      "type": "primary",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "day24": {
+      "title": "Acadia full-year 2024 results",
+      "url": "https://acadia.com/en-us/media/news-releases/acadia-pharmaceuticals-reports-fourth-quarter-and-full-year-2024",
+      "type": "primary",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "kaly_label": {
+      "title": "FDA orphan approval history for ivacaftor",
+      "url": "https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=228306",
+      "type": "regulator",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "kaly_forecast": {
+      "title": "AP, May 15, 2012: JPMorgan Kalydeco forecast",
+      "url": "https://www.drugdiscoverytrends.com/vertex-forecast-promising/",
+      "type": "contemporaneous analyst quotation",
+      "access_note": "Postapproval; not eligible preapproval evidence.",
+      "accessed": "2026-11-09"
+    },
+    "vrtx15": {
+      "title": "Vertex 2015 Form 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532016000067/a201510k-main.htm",
+      "type": "primary",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "vrtx16": {
+      "title": "Vertex 2016 Form 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532017000017/a201610k-main.htm",
+      "type": "primary",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "str_label": {
+      "title": "Strensiq prescribing information",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=3387574f-5eaa-4501-a71d-4cbfbd563031",
+      "type": "regulatory label",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "str_forecast": {
+      "title": "FirstWord September 2, 2015, citing Bloomberg analyst estimates",
+      "url": "https://firstwordpharma.com/story/3014546",
+      "type": "contemporaneous secondary forecast",
+      "access_note": "Geography, consensus composition and PoS unresolved. Article also misattributes acquisition history; original Bloomberg source not recovered.",
+      "accessed": "2026-11-09"
+    },
+    "alxn18": {
+      "title": "Alexion 2018 Form 10-K geographic product-sales table",
+      "url": "https://www.sec.gov/Archives/edgar/data/899866/000089986619000010/R26.htm",
+      "type": "primary",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "alxn_peak": {
+      "title": "JPMorgan July 27, 2015 peak forecasts quoted by Benzinga",
+      "url": "https://www.benzinga.com/analyst-ratings/analyst-color/15/07/5705028/jp-morgan-moves-alexion-pharma-to-overweight-says-strens",
+      "type": "contemporaneous analyst quotation",
+      "access_note": "Peak year undisclosed; not annual forecast evidence.",
+      "accessed": "2026-11-09"
+    },
+    "on_forecast": {
+      "title": "Clarivate Drugs to Watch 2018, methodology p.7 and patisiran p.23",
+      "url": "https://kinampark.com/DDS/files/Drugs%20to%20Watch%202018.pdf",
+      "type": "original forecast publication hosted by third party",
+      "access_note": "Cortellis forecast; not established as pure sell-side consensus. Text retrieved; web screenshot failed.",
+      "accessed": "2026-11-09"
+    },
+    "alny18": {
+      "title": "Alnylam 2018 Form 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000156459019003022/alny-10k_20181231.htm",
+      "type": "primary",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "alny22": {
+      "title": "Alnylam 2022 Form 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867023000005/alny-20221231.htm",
+      "type": "primary",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "sky_fda": {
+      "title": "FDA Skysona 2022 regulatory review",
+      "url": "https://www.fda.gov/media/162098/download",
+      "type": "regulator",
+      "access_note": "Documents prior allogeneic transplantation; first gene therapy is not first available DMT.",
+      "accessed": "2026-11-09"
+    },
+    "blue24": {
+      "title": "Bluebird 2024 annual report, financial statements F-20",
+      "url": "https://www.publicnow.com/view/674D88DD30443E461D8CA9ABE94FE585420CBB37",
+      "type": "primary issuer document mirror",
+      "access_note": "Product revenues and recognition at infusion; not cell-collection guidance.",
+      "accessed": "2026-11-09"
+    },
+    "lux_fda": {
+      "title": "FDA Luxturna approval record",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/luxturna",
+      "type": "regulator",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "zok_fda": {
+      "title": "FDA November 20, 2020 Zokinvy approval bulletin",
+      "url": "https://content.govdelivery.com/accounts/USFDA/bulletins/2ada181/",
+      "type": "regulator",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "nul_fda": {
+      "title": "FDA 2021 new-drug approval report",
+      "url": "https://www.fda.gov/media/155227/download?attachment=",
+      "type": "regulator",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "ox_label": {
+      "title": "Oxlumo label",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=16985a31-f5e4-4557-9266-fc78d4bc5055",
+      "type": "regulatory label",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "mep_approval": {
+      "title": "Ultragenyx first MPS VII approval announcement, November 15, 2017",
+      "url": "https://www.sec.gov/Archives/edgar/data/1515673/000156459017023875/rare-ex991_6.htm",
+      "type": "primary",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "deloitte": {
+      "title": "Deloitte 2020 launch-performance study",
+      "url": "https://www.deloitte.com/us/en/insights/industry/life-sciences/successful-drug-launch-strategy.html",
+      "type": "original commercial research",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "ispor": {
+      "title": "Deloitte ISPOR 2024 launch-performance abstract",
+      "url": "https://www.ispor.org/heor-resources/presentations-database/presentation/intl2024-3896/136368",
+      "type": "original research abstract",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "mck": {
+      "title": "McKinsey 2024 first-time-launcher analysis",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/small-but-mighty-priming-biotech-first-time-launchers-to-compete-with-established-players",
+      "type": "original commercial research",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "illicki": {
+      "title": "Ilicki and Spicer 2026 abstract on rare-disease launch beliefs",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1359644626001972",
+      "type": "original research abstract",
+      "access_note": "Full text inaccessible; survey of expectations is not a broker-forecast error panel.",
+      "accessed": "2026-11-09"
+    },
+    "zs": {
+      "title": "ZS emerging-biopharma first-launch analysis",
+      "url": "https://www.zs.com/insights/us-emerging-pharma-biotech-first-launch-analysis",
+      "type": "original commercial research",
+      "access_note": "",
+      "accessed": "2026-11-09"
+    },
+    "leerink_sep": {
+      "title": "2026-09-28-CAMP.OQ-Leerink Partners-Tuning In to the FIH Study Design-124590577",
+      "path": "/Users/kwu/Downloads/2026-09-28-CAMP.OQ-Leerink Partners-Tuning In to the FIH Study Design-124590577.pdf",
+      "type": "user-supplied original sell-side report",
+      "pages": 17,
+      "sha256": "aa3a873484c380bcb0cf3540bd407113504581c007a868c36c7bfc3198d02b1d",
+      "accessed": "2026-11-09",
+      "access_note": "Text extracted; critical Needham pp.26\u201329, Piper p.2 and Blair p.4 tables visually checked.",
+      "repo_path": "sources/user-provided/sellside/2026-09-28-CAMP.OQ-Leerink Partners-Tuning In to the FIH Study Design-124590577.pdf"
+    },
+    "piper": {
+      "title": "2026-09-28-CAMP.OQ-Piper Sandler Compan-Phase III ASCEND Study of CMP-002 for SYNGAP1-Related Disor...-124604109",
+      "path": "/Users/kwu/Downloads/2026-09-28-CAMP.OQ-Piper Sandler Compan-Phase III ASCEND Study of CMP-002 for SYNGAP1-Related Disor...-124604109.pdf",
+      "type": "user-supplied original sell-side report",
+      "pages": 4,
+      "sha256": "eb8e01378b08cb10d1bb216f0a5bd2df75d9ce288832d91198d804522c97dad8",
+      "accessed": "2026-11-09",
+      "access_note": "Text extracted; critical Needham pp.26\u201329, Piper p.2 and Blair p.4 tables visually checked.",
+      "repo_path": "sources/user-provided/sellside/2026-09-28-CAMP.OQ-Piper Sandler Compan-Phase III ASCEND Study of CMP-002 for SYNGAP1-Related Disor...-124604109.pdf"
+    },
+    "leerink_oct": {
+      "title": "2026-10-12-CAMP.OQ-Leerink Partners-3Q26 Emerging Rare Disease Earnings Preview and Upcoming Cat...-124872499",
+      "path": "/Users/kwu/Downloads/2026-10-12-CAMP.OQ-Leerink Partners-3Q26 Emerging Rare Disease Earnings Preview and Upcoming Cat...-124872499.pdf",
+      "type": "user-supplied original sell-side report",
+      "pages": 26,
+      "sha256": "e5972cd9283618434c6ef3c79a89e79b6213237ce3530c87170182a2912ad593",
+      "accessed": "2026-11-09",
+      "access_note": "Text extracted; critical Needham pp.26\u201329, Piper p.2 and Blair p.4 tables visually checked.",
+      "repo_path": "sources/user-provided/sellside/2026-10-12-CAMP.OQ-Leerink Partners-3Q26 Emerging Rare Disease Earnings Preview and Upcoming Cat...-124872499.pdf"
+    },
+    "needham": {
+      "title": "2026-10-15-CAMP.OQ-Needham  Company In-Summit Push Begins in SYNGAP1 - Initiating Coverage with a B...-124964472",
+      "path": "/Users/kwu/Downloads/2026-10-15-CAMP.OQ-Needham  Company In-Summit Push Begins in SYNGAP1 - Initiating Coverage with a B...-124964472.pdf",
+      "type": "user-supplied original sell-side report",
+      "pages": 35,
+      "sha256": "035fea6fced34cd2e4db342cd11e7a191ba2153803f183ce823bd67f51439dc4",
+      "accessed": "2026-11-09",
+      "access_note": "Text extracted; critical Needham pp.26\u201329, Piper p.2 and Blair p.4 tables visually checked.",
+      "repo_path": "sources/user-provided/sellside/2026-10-15-CAMP.OQ-Needham  Company In-Summit Push Begins in SYNGAP1 - Initiating Coverage with a B...-124964472.pdf"
+    },
+    "oppenheimer": {
+      "title": "2026-10-27-CAMP.OQ-Oppenheimer  Co., I-Setting Up CAMP EU CTA Approval Highlights Continuing Execu...-125191838",
+      "path": "/Users/kwu/Downloads/2026-10-27-CAMP.OQ-Oppenheimer  Co., I-Setting Up CAMP EU CTA Approval Highlights Continuing Execu...-125191838.pdf",
+      "type": "user-supplied original sell-side report",
+      "pages": 6,
+      "sha256": "75dd233f73a6000d982736946d7cb7ab0f009518b9b7620960dad38a3a478c98",
+      "accessed": "2026-11-09",
+      "access_note": "Text extracted; critical Needham pp.26\u201329, Piper p.2 and Blair p.4 tables visually checked.",
+      "repo_path": "sources/user-provided/sellside/2026-10-27-CAMP.OQ-Oppenheimer  Co., I-Setting Up CAMP EU CTA Approval Highlights Continuing Execu...-125191838.pdf"
+    },
+    "jpmorgan": {
+      "title": "2026-11-05-CAMP.OQ-JPMorgan-CAMP4 Quick Take - 3Q26 Earnings - CMP-002 Progressing On Tr...-125440903",
+      "path": "/Users/kwu/Downloads/2026-11-05-CAMP.OQ-JPMorgan-CAMP4 Quick Take - 3Q26 Earnings - CMP-002 Progressing On Tr...-125440903.pdf",
+      "type": "user-supplied original sell-side report",
+      "pages": 7,
+      "sha256": "10959845bf368778cf4f579cf4534958cc8a3e78b7b526dea89dd6dfbdbb029f",
+      "accessed": "2026-11-09",
+      "access_note": "Text extracted; critical Needham pp.26\u201329, Piper p.2 and Blair p.4 tables visually checked.",
+      "repo_path": "sources/user-provided/sellside/2026-11-05-CAMP.OQ-JPMorgan-CAMP4 Quick Take - 3Q26 Earnings - CMP-002 Progressing On Tr...-125440903.pdf"
+    },
+    "blair": {
+      "title": "2026-11-05-CAMP.OQ-William Blair  Comp-Third-Quarter Earnings; ASCEND Set for Year-End Dosing With ...-125444289",
+      "path": "/Users/kwu/Downloads/2026-11-05-CAMP.OQ-William Blair  Comp-Third-Quarter Earnings; ASCEND Set for Year-End Dosing With ...-125444289.pdf",
+      "type": "user-supplied original sell-side report",
+      "pages": 7,
+      "sha256": "42208eef1ac06c716b039f26feeba40aef2237ab46368daba1fdff15b6321f32",
+      "accessed": "2026-11-09",
+      "access_note": "Text extracted; critical Needham pp.26\u201329, Piper p.2 and Blair p.4 tables visually checked.",
+      "repo_path": "sources/user-provided/sellside/2026-11-05-CAMP.OQ-William Blair  Comp-Third-Quarter Earnings; ASCEND Set for Year-End Dosing With ...-125444289.pdf"
+    },
+    "wedbush": {
+      "title": "2026-11-06-CAMP.OQ-Wedbush Securities I-3Q26 Good Progress Towards SYNGAP1 First Patient Dosing By ...-125466705",
+      "path": "/Users/kwu/Downloads/2026-11-06-CAMP.OQ-Wedbush Securities I-3Q26 Good Progress Towards SYNGAP1 First Patient Dosing By ...-125466705.pdf",
+      "type": "user-supplied original sell-side report",
+      "pages": 6,
+      "sha256": "05761890066e3348b3abd764ce47c43fe7e29fe2500df94967df9f37460c870e",
+      "accessed": "2026-11-09",
+      "access_note": "Text extracted; critical Needham pp.26\u201329, Piper p.2 and Blair p.4 tables visually checked.",
+      "repo_path": "sources/user-provided/sellside/2026-11-06-CAMP.OQ-Wedbush Securities I-3Q26 Good Progress Towards SYNGAP1 First Patient Dosing By ...-125466705.pdf"
+    },
+    "prior_deck": {
+      "title": "Prior first-entry rare-disease analyst-estimate analysis",
+      "repo_path": "sources/user-provided/prior-analysis/1st Entry Rare Tx - Historical Analyst Estimates.pdf",
+      "pages": 16,
+      "type": "user-supplied synthesis with reproduced source excerpts",
+      "date": null,
+      "accessed": "2026-11-09",
+      "access_note": "Read all substantive pages, including image-based appendix. Underlying AlphaSense links are not clickable in the PDF. Most appendix material is a synthesis; p.8 reproduces a Credit Suisse model-assumption table."
+    },
+    "alexion2020": {
+      "title": "Alexion 2020 Form 10-K, p.92 / Note 18 F-66",
+      "url": "https://www.sec.gov/Archives/edgar/data/899866/000089986621000014/alxn-20201231.htm",
+      "type": "primary audited filing",
+      "accessed": "2026-11-09"
+    },
+    "novartis2024": {
+      "title": "Novartis FY2024 results, top-20 brands table",
+      "url": "https://www.novartis.com/news/media-releases/novartis-continues-strong-momentum-sales-growth-margin-expansion-reaches-key-innovation-milestones-2024",
+      "type": "primary company results",
+      "accessed": "2026-11-09"
+    },
+    "strensiq_original_label": {
+      "title": "FDA original Strensiq orphan approval record",
+      "url": "https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=266608",
+      "type": "primary regulatory record",
+      "accessed": "2026-11-09"
+    },
+    "zolgensma_original": {
+      "title": "FDA Purple Book Zolgensma record",
+      "url": "https://www.accessdata.fda.gov/scripts/purplebooksearch/index.cfm?blaNo=125694&event=productdetails",
+      "type": "primary regulatory record",
+      "accessed": "2026-11-09"
+    },
+    "evrysdi_original": {
+      "title": "FDA Evrysdi approval, August 7, 2020",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-oral-treatment-spinal-muscular-atrophy",
+      "type": "primary regulatory record",
+      "accessed": "2026-11-09"
+    },
+    "omav_safety": {
+      "title": "Safety Monitoring of Omaveloxolone in Friedreich Ataxia: Results from One Year of Clinical Treatment",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12089633/",
+      "type": "original observational clinical research",
+      "accessed": "2026-11-09",
+      "access_note": "Indexed Table 2 and dosing text recovered; direct PMC/Europe PMC page access challenged. No population-wide persistence inference."
+    },
+    "novartis2025": {
+      "title": "Novartis FY2025 financial report, p.8",
+      "url": "https://www.novartis.com/sites/novartis_com/files/q4-2025-interim-financial-report-en.pdf",
+      "type": "primary company results",
+      "accessed": "2026-11-09",
+      "access_note": "Reports Zolgensma Group and discusses intrathecal Itvisma. Do not assume 2025 group revenue is pure original IV-product sales."
+    }
+  },
+  "protocol_sha256": "76dbcc6a85d587099c7d8ffdbfc76f2213872a8161d829aab016d3988566cc38",
+  "current_sellside": [
+    {
+      "broker": "Leerink Partners",
+      "date": "2026-09-28; 2026-10-12",
+      "rating": "Outperform",
+      "target_usd": 14,
+      "method": "SOTP cash flows into early 2040s; 12% discount rate. October report assigns no explicit value to CMP-001 BD or other platform opportunities.",
+      "sales_pos": "No auditable conditional annual sales curve or PoS disclosed in these notes.",
+      "pages": "September pp.1\u20133,12; October pp.16\u201317",
+      "sources": [
+        "leerink_sep",
+        "leerink_oct"
+      ]
+    },
+    {
+      "broker": "Piper Sandler",
+      "date": "2026-09-28",
+      "rating": "Overweight",
+      "target_usd": 15,
+      "method": "Projected EV $1.26bn plus mid-2027 estimated cash.",
+      "sales_pos": "No explicit conditional sales/PoS bridge. P.2 is an image-based earnings model dated August 13, 2026.",
+      "pages": "pp.1\u20132",
+      "sources": [
+        "piper"
+      ]
+    },
+    {
+      "broker": "Needham",
+      "date": "2026-10-15",
+      "rating": "Buy",
+      "target_usd": 8,
+      "method": "50% DCF / 50% EV-to-peak-sales; 9% discount rate; 0% terminal growth; 7x peak-sales multiple; 98m diluted shares.",
+      "sales_pos": "Conditional WW peak $2.106bn in 2046; 25% PoS applied separately in valuation.",
+      "pages": "pp.25\u201329,31",
+      "sources": [
+        "needham"
+      ]
+    },
+    {
+      "broker": "Oppenheimer",
+      "date": "2026-10-27",
+      "rating": "Outperform",
+      "target_usd": 15,
+      "method": "DCF: 12% discount rate, 2% terminal growth; described terminal FCF value $3.5bn in 2036.",
+      "sales_pos": "Do not interpret terminal FCF value as annual revenue or assume undisclosed PoS.",
+      "pages": "pp.1,3",
+      "sources": [
+        "oppenheimer"
+      ]
+    },
+    {
+      "broker": "JPMorgan",
+      "date": "2026-11-05",
+      "rating": "Overweight",
+      "target_usd": null,
+      "method": "Quick take describes shares as undervalued on probability-adjusted CMP-002 potential.",
+      "sales_pos": "No current target/model on first page; rating history p.2 last lists $9 on June 16, 2026. That historical entry is not a fresh model update.",
+      "pages": "pp.1\u20132",
+      "sources": [
+        "jpmorgan"
+      ]
+    },
+    {
+      "broker": "William Blair",
+      "date": "2026-11-05",
+      "rating": "Outperform",
+      "target_usd": null,
+      "method": "Relative peer valuation and platform thesis; no numerical price target in supplied note.",
+      "sales_pos": "2030 product revenue $53.939m: UCD $51.866m and SYNGAP $2.073m. Risk treatment not disclosed. Do not attribute total revenue to CMP-002.",
+      "pages": "pp.1,3\u20134",
+      "sources": [
+        "blair"
+      ]
+    },
+    {
+      "broker": "Wedbush",
+      "date": "2026-11-06",
+      "rating": "Outperform",
+      "target_usd": 8,
+      "method": "Discounted earnings and clinical NPV: 25x P/E, 25% discount rate; DCF: 12% WACC, 0% terminal growth.",
+      "sales_pos": "25% discount rate is not disclosed clinical PoS. No conditional sales bridge.",
+      "pages": "pp.1,3",
+      "sources": [
+        "wedbush"
+      ]
+    }
+  ],
+  "needham_conditional_sales": [
+    {
+      "year": 2032,
+      "us_usdm": 37,
+      "worldwide_usdm": 37,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2033,
+      "us_usdm": 95,
+      "worldwide_usdm": 118,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2034,
+      "us_usdm": 231,
+      "worldwide_usdm": 289,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2035,
+      "us_usdm": 484,
+      "worldwide_usdm": 605,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2036,
+      "us_usdm": 730,
+      "worldwide_usdm": 912,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2037,
+      "us_usdm": 938,
+      "worldwide_usdm": 1173,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2038,
+      "us_usdm": 1073,
+      "worldwide_usdm": 1342,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2039,
+      "us_usdm": 1217,
+      "worldwide_usdm": 1521,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2040,
+      "us_usdm": 1369,
+      "worldwide_usdm": 1712,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2041,
+      "us_usdm": 1417,
+      "worldwide_usdm": 1772,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2042,
+      "us_usdm": 1467,
+      "worldwide_usdm": 1834,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2043,
+      "us_usdm": 1519,
+      "worldwide_usdm": 1899,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2044,
+      "us_usdm": 1572,
+      "worldwide_usdm": 1965,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2045,
+      "us_usdm": 1627,
+      "worldwide_usdm": 2034,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2046,
+      "us_usdm": 1685,
+      "worldwide_usdm": 2106,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2047,
+      "us_usdm": 872,
+      "worldwide_usdm": 1090,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2048,
+      "us_usdm": 451,
+      "worldwide_usdm": 564,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2049,
+      "us_usdm": 234,
+      "worldwide_usdm": 292,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2050,
+      "us_usdm": 121,
+      "worldwide_usdm": 151,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2051,
+      "us_usdm": 63,
+      "worldwide_usdm": 78,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2052,
+      "us_usdm": 32,
+      "worldwide_usdm": 40,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    },
+    {
+      "year": 2053,
+      "us_usdm": 17,
+      "worldwide_usdm": 21,
+      "status": "observed forecast, rounded as printed",
+      "conditional_on_approval": true,
+      "source": "needham",
+      "page": 26
+    }
+  ],
+  "visible_alpha_reproduced_chart": [
+    {
+      "year": 2032,
+      "as_reported_usdm": 148,
+      "source": "needham",
+      "page": 26,
+      "status": "observed chart label of reproduced consensus; underlying composition and PoS unknown"
+    },
+    {
+      "year": 2033,
+      "as_reported_usdm": 353,
+      "source": "needham",
+      "page": 26,
+      "status": "observed chart label of reproduced consensus; underlying composition and PoS unknown"
+    },
+    {
+      "year": 2034,
+      "as_reported_usdm": 577,
+      "source": "needham",
+      "page": 26,
+      "status": "observed chart label of reproduced consensus; underlying composition and PoS unknown"
+    },
+    {
+      "year": 2035,
+      "as_reported_usdm": 754,
+      "source": "needham",
+      "page": 26,
+      "status": "observed chart label of reproduced consensus; underlying composition and PoS unknown"
+    },
+    {
+      "year": 2036,
+      "as_reported_usdm": 1074,
+      "source": "needham",
+      "page": 26,
+      "status": "observed chart label of reproduced consensus; underlying composition and PoS unknown"
+    },
+    {
+      "year": 2037,
+      "as_reported_usdm": 1272,
+      "source": "needham",
+      "page": 26,
+      "status": "observed chart label of reproduced consensus; underlying composition and PoS unknown"
+    },
+    {
+      "year": 2038,
+      "as_reported_usdm": 1444,
+      "source": "needham",
+      "page": 26,
+      "status": "observed chart label of reproduced consensus; underlying composition and PoS unknown"
+    },
+    {
+      "year": 2039,
+      "as_reported_usdm": 1587,
+      "source": "needham",
+      "page": 26,
+      "status": "observed chart label of reproduced consensus; underlying composition and PoS unknown"
+    },
+    {
+      "year": 2040,
+      "as_reported_usdm": 1716,
+      "source": "needham",
+      "page": 26,
+      "status": "observed chart label of reproduced consensus; underlying composition and PoS unknown"
+    }
+  ],
+  "historical_forecasts": [
+    {
+      "id": "F1",
+      "pair": "Spinraza / SMA",
+      "institution": "Needham, Chad Messer",
+      "report_date": "2016-08-01",
+      "target_year": 2022,
+      "original_sales_usdm": 5000,
+      "operator": ">",
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "annual product sales, as reported",
+      "risk_treatment": "unknown",
+      "pos": null,
+      "conditional_sales_usdm": null,
+      "source": "spin_forecast",
+      "strict_eligible": false,
+      "exclusion_reasons": [
+        "PoS unknown",
+        "Outside 9\u201315-month primary vintage",
+        "No 36-month curve"
+      ],
+      "notes": "After positive ENDEAR interim result. Forecast is greater than $5bn, not exactly $5bn."
+    },
+    {
+      "id": "F2",
+      "pair": "Strensiq / HPP",
+      "institution": "Unspecified analysts cited by Bloomberg / FirstWord",
+      "report_date": "2015-09-02",
+      "target_year": 2018,
+      "original_sales_usdm": 355,
+      "operator": "=",
+      "geography": "unknown",
+      "currency": "USD",
+      "revenue_basis": "annual product sales, as reported",
+      "risk_treatment": "unknown",
+      "pos": null,
+      "conditional_sales_usdm": null,
+      "source": "str_forecast",
+      "strict_eligible": false,
+      "exclusion_reasons": [
+        "PoS unknown",
+        "Geography unknown",
+        "No annual curve",
+        "Original report missing",
+        "Outside primary vintage"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "F3",
+      "pair": "Strensiq / HPP",
+      "institution": "JPMorgan",
+      "report_date": "2015-07-27",
+      "target_year": null,
+      "original_sales_usdm": 1000,
+      "operator": ">",
+      "geography": "unknown",
+      "currency": "USD",
+      "revenue_basis": "annual product sales, as reported",
+      "risk_treatment": "unknown",
+      "pos": null,
+      "conditional_sales_usdm": null,
+      "source": "alxn_peak",
+      "strict_eligible": false,
+      "exclusion_reasons": [
+        "Peak year unknown",
+        "PoS unknown",
+        "No annual curve"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "F4",
+      "pair": "Kanuma / LAL deficiency",
+      "institution": "JPMorgan",
+      "report_date": "2015-07-27",
+      "target_year": null,
+      "original_sales_usdm": 700,
+      "operator": ">",
+      "geography": "unknown",
+      "currency": "USD",
+      "revenue_basis": "annual product sales, as reported",
+      "risk_treatment": "unknown",
+      "pos": null,
+      "conditional_sales_usdm": null,
+      "source": "alxn_peak",
+      "strict_eligible": false,
+      "exclusion_reasons": [
+        "Peak year unknown",
+        "PoS unknown",
+        "No annual curve"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "F5_2018",
+      "pair": "Onpattro / hATTR polyneuropathy",
+      "institution": "Clarivate Cortellis",
+      "report_date": "2018-03",
+      "target_year": 2018,
+      "original_sales_usdm": 83,
+      "operator": "=",
+      "geography": "US and Europe launches discussed; forecast geography not fully enumerated",
+      "currency": "USD",
+      "revenue_basis": "annual product sales, as reported",
+      "risk_treatment": "unknown",
+      "pos": null,
+      "conditional_sales_usdm": null,
+      "source": "on_forecast",
+      "strict_eligible": false,
+      "exclusion_reasons": [
+        "PoS unknown",
+        "Not established pure sell-side consensus",
+        "Future indication scope unresolved",
+        "No complete 36-month curve",
+        "Outside primary vintage"
+      ],
+      "notes": "Original publication p.23; sales owner and inclusion of cardiomyopathy require underlying model."
+    },
+    {
+      "id": "F5_2019",
+      "pair": "Onpattro / hATTR polyneuropathy",
+      "institution": "Clarivate Cortellis",
+      "report_date": "2018-03",
+      "target_year": 2019,
+      "original_sales_usdm": 373,
+      "operator": "=",
+      "geography": "US and Europe launches discussed; forecast geography not fully enumerated",
+      "currency": "USD",
+      "revenue_basis": "annual product sales, as reported",
+      "risk_treatment": "unknown",
+      "pos": null,
+      "conditional_sales_usdm": null,
+      "source": "on_forecast",
+      "strict_eligible": false,
+      "exclusion_reasons": [
+        "PoS unknown",
+        "Not established pure sell-side consensus",
+        "Future indication scope unresolved",
+        "No complete 36-month curve",
+        "Outside primary vintage"
+      ],
+      "notes": "Original publication p.23; sales owner and inclusion of cardiomyopathy require underlying model."
+    },
+    {
+      "id": "F5_2022",
+      "pair": "Onpattro / hATTR polyneuropathy",
+      "institution": "Clarivate Cortellis",
+      "report_date": "2018-03",
+      "target_year": 2022,
+      "original_sales_usdm": 1212,
+      "operator": "=",
+      "geography": "US and Europe launches discussed; forecast geography not fully enumerated",
+      "currency": "USD",
+      "revenue_basis": "annual product sales, as reported",
+      "risk_treatment": "unknown",
+      "pos": null,
+      "conditional_sales_usdm": null,
+      "source": "on_forecast",
+      "strict_eligible": false,
+      "exclusion_reasons": [
+        "PoS unknown",
+        "Not established pure sell-side consensus",
+        "Future indication scope unresolved",
+        "No complete 36-month curve",
+        "Outside primary vintage"
+      ],
+      "notes": "Original publication p.23; sales owner and inclusion of cardiomyopathy require underlying model."
+    },
+    {
+      "id": "F6",
+      "pair": "Daybue / Rett",
+      "institution": "SMBC Nikko, David Hoang",
+      "report_date": null,
+      "target_year": 2035,
+      "original_sales_usdm": 487.2,
+      "operator": "=",
+      "geography": "US",
+      "currency": "USD",
+      "revenue_basis": "annual product sales, as reported",
+      "risk_treatment": "unknown",
+      "pos": null,
+      "conditional_sales_usdm": null,
+      "source": "day_forecast",
+      "strict_eligible": false,
+      "exclusion_reasons": [
+        "Exact note date missing; described as preapproval",
+        "PoS unknown",
+        "Peak horizon not elapsed",
+        "No annual curve"
+      ],
+      "notes": "Quotation published March 10, 2023."
+    },
+    {
+      "id": "F7",
+      "pair": "Daybue / Rett",
+      "institution": "RBC, Gregory Renza",
+      "report_date": null,
+      "target_year": 2032,
+      "original_sales_usdm": 500,
+      "operator": ">",
+      "geography": "US",
+      "currency": "USD",
+      "revenue_basis": "annual product sales, as reported",
+      "risk_treatment": "unknown",
+      "pos": null,
+      "conditional_sales_usdm": null,
+      "source": "day_forecast",
+      "strict_eligible": false,
+      "exclusion_reasons": [
+        "Exact note date missing; described as preapproval",
+        "PoS unknown",
+        "Peak horizon not elapsed",
+        "No annual curve"
+      ],
+      "notes": "Quotation published March 10, 2023."
+    },
+    {
+      "id": "F8",
+      "pair": "Kalydeco / CF",
+      "institution": "JPMorgan, Geoff Meacham",
+      "report_date": "2012-05-15",
+      "target_year": 2015,
+      "original_sales_usdm": 982,
+      "operator": "=",
+      "geography": "unknown",
+      "currency": "USD",
+      "revenue_basis": "annual product sales, as reported",
+      "risk_treatment": "unknown",
+      "pos": null,
+      "conditional_sales_usdm": null,
+      "source": "kaly_forecast",
+      "strict_eligible": false,
+      "exclusion_reasons": [
+        "Postapproval",
+        "PoS unknown",
+        "Original-genotype actual sales inseparable",
+        "No annual curve"
+      ],
+      "notes": "Excluded control record; not evidence of preapproval bias."
+    }
+  ],
+  "actual_sales": [
+    {
+      "pair": "Spinraza / SMA",
+      "year": 2022,
+      "sales_usdm": 1793.5,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "biogen22",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Strensiq / HPP",
+      "year": 2016,
+      "sales_usdm": 177.5,
+      "geography": "US",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "alxn18",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Strensiq / HPP",
+      "year": 2016,
+      "sales_usdm": 209.4,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "alxn18",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Strensiq / HPP",
+      "year": 2017,
+      "sales_usdm": 280.1,
+      "geography": "US",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "alxn18",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Strensiq / HPP",
+      "year": 2017,
+      "sales_usdm": 339.8,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "alxn18",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Strensiq / HPP",
+      "year": 2018,
+      "sales_usdm": 374.3,
+      "geography": "US",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "alxn18",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Strensiq / HPP",
+      "year": 2018,
+      "sales_usdm": 475.1,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "alxn18",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Kanuma / LAL deficiency",
+      "year": 2016,
+      "sales_usdm": 29.1,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "alxn18",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Kanuma / LAL deficiency",
+      "year": 2017,
+      "sales_usdm": 65.6,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "alxn18",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Kanuma / LAL deficiency",
+      "year": 2018,
+      "sales_usdm": 92.0,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "alxn18",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Onpattro / hATTR polyneuropathy",
+      "year": 2018,
+      "sales_usdm": 12.5,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "alny18",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Onpattro / hATTR polyneuropathy",
+      "year": 2022,
+      "sales_usdm": 558,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "alny22",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Brineura / CLN2",
+      "year": 2017,
+      "sales_usdm": 8.6,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "brin17",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Brineura / CLN2",
+      "year": 2018,
+      "sales_usdm": 39.9,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "brin19",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Brineura / CLN2",
+      "year": 2019,
+      "sales_usdm": 72.0,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "brin19",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Brineura / CLN2",
+      "year": 2020,
+      "sales_usdm": 110.192,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "brin21",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Brineura / CLN2",
+      "year": 2021,
+      "sales_usdm": 128.034,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "brin21",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Daybue / Rett",
+      "year": 2023,
+      "sales_usdm": 177.2,
+      "geography": "total reported product revenue; not assumed US-only",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "day24",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Daybue / Rett",
+      "year": 2024,
+      "sales_usdm": 348.4,
+      "geography": "total reported product revenue; not assumed US-only",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "day24",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Daybue / Rett",
+      "year": 2025,
+      "sales_usdm": 391.4,
+      "geography": "total reported product revenue; not assumed US-only",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "day25",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Kalydeco / CF",
+      "year": 2013,
+      "sales_usdm": 371.285,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "Mixed genotypes/ages; later within-disease expansions cannot be removed",
+      "source": "vrtx15",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Kalydeco / CF",
+      "year": 2014,
+      "sales_usdm": 463.75,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "Mixed genotypes/ages; later within-disease expansions cannot be removed",
+      "source": "vrtx15",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Kalydeco / CF",
+      "year": 2015,
+      "sales_usdm": 631.674,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "Mixed genotypes/ages; later within-disease expansions cannot be removed",
+      "source": "vrtx15",
+      "locator": "product revenue table",
+      "status": "observed"
+    },
+    {
+      "pair": "Skysona / CALD",
+      "year": 2023,
+      "sales_usdm": 12.373,
+      "geography": "US",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "blue24",
+      "locator": "F-20; revenue recognized at infusion",
+      "status": "observed"
+    },
+    {
+      "pair": "Skysona / CALD",
+      "year": 2024,
+      "sales_usdm": 9.917,
+      "geography": "US",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "blue24",
+      "locator": "F-20; revenue recognized at infusion",
+      "status": "observed"
+    },
+    {
+      "pair": "Zynteglo / beta-thalassemia",
+      "year": 2023,
+      "sales_usdm": 16.692,
+      "geography": "US",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "blue24",
+      "locator": "F-20; revenue recognized at infusion",
+      "status": "observed"
+    },
+    {
+      "pair": "Zynteglo / beta-thalassemia",
+      "year": 2024,
+      "sales_usdm": 62.273,
+      "geography": "US",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "original disease; product-level reported sales",
+      "source": "blue24",
+      "locator": "F-20; revenue recognized at infusion",
+      "status": "observed"
+    },
+    {
+      "pair": "Strensiq / HPP",
+      "year": 2020,
+      "sales_usdm": 731.8,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "reported product sales; forecast scope must still be checked",
+      "source": "alexion2020",
+      "locator": "product sales table",
+      "status": "observed"
+    },
+    {
+      "pair": "Zolgensma / SMA",
+      "year": 2024,
+      "sales_usdm": 1214,
+      "geography": "worldwide",
+      "currency": "USD",
+      "revenue_basis": "recognized net product sales",
+      "period_convention": "calendar year",
+      "scope": "reported product sales; forecast scope must still be checked",
+      "source": "novartis2024",
+      "locator": "product sales table",
+      "status": "observed"
+    }
+  ],
+  "screened_candidates": [
+    {
+      "pair": "Spinraza / SMA",
+      "us_approval_year": 2016,
+      "group": "genetic neurological",
+      "decision": "Priority DMT analogue",
+      "reason": "No eligible annual preapproval series recovered.",
+      "source": "spin_approval",
+      "verification": "Launch approval and mechanism checked",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Brineura / CLN2",
+      "us_approval_year": 2017,
+      "group": "genetic neurological",
+      "decision": "Priority DMT analogue",
+      "reason": "Forecast unavailable; CNS delivery and age-window relevance.",
+      "source": "brin17",
+      "verification": "Launch approval checked",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Daybue / Rett",
+      "us_approval_year": 2023,
+      "group": "neurodevelopmental",
+      "decision": "Adjacent cohort",
+      "reason": "Disease-specific benefit; durable disease modification not established by launch evidence.",
+      "source": "day_fda",
+      "verification": "Launch FDA summary and original label checked",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Kalydeco / G551D CF",
+      "us_approval_year": 2012,
+      "group": "genotype defined",
+      "decision": "Priority DMT analogue",
+      "reason": "Later genotypes contaminate aggregate sales; recovered forecast is postapproval.",
+      "source": "kaly_label",
+      "verification": "Original approval and expansion dates checked",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Strensiq / HPP",
+      "us_approval_year": 2015,
+      "group": "metabolic",
+      "decision": "Priority DMT analogue",
+      "reason": "Preapproval point forecast; geography and risk unresolved.",
+      "source": "str_label",
+      "verification": "Label checked",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Onpattro / hATTR polyneuropathy",
+      "us_approval_year": 2018,
+      "group": "RNA / neurological",
+      "decision": "Ambiguous first-DMT cohort",
+      "reason": "Prior transplant; territorial treatment differences; forecast scope unresolved.",
+      "source": "alny18",
+      "verification": "Primary filing checked; strict first-status needs adjudication",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Skysona / CALD",
+      "us_approval_year": 2022,
+      "group": "genetic neurological",
+      "decision": "Delivery comparator only",
+      "reason": "Prior allogeneic transplant; no preapproval revenue curve.",
+      "source": "sky_fda",
+      "verification": "FDA launch review checked",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Zynteglo / beta-thalassemia",
+      "us_approval_year": 2022,
+      "group": "hematologic / gene therapy",
+      "decision": "Delivery comparator only",
+      "reason": "Prior transplantation; no preapproval revenue curve.",
+      "source": "blue24",
+      "verification": "Primary issuer annual report checked",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Fabrazyme / Fabry",
+      "us_approval_year": 2003,
+      "group": "enzyme replacement",
+      "decision": "Retain for screening",
+      "reason": "First US ERT; earlier EU treatment matters.",
+      "source": "ert_review",
+      "verification": "screened; full launch-era DMT adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Aldurazyme / MPS I",
+      "us_approval_year": 2003,
+      "group": "enzyme replacement",
+      "decision": "Retain for screening",
+      "reason": "Prior transplantation complicates first-ever DMT status.",
+      "source": "ert_fda",
+      "verification": "screened; full launch-era DMT adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Naglazyme / MPS VI",
+      "us_approval_year": 2005,
+      "group": "enzyme replacement",
+      "decision": "Retain for screening",
+      "reason": "Prior transplantation needs adjudication.",
+      "source": "ert_fda",
+      "verification": "screened; full launch-era DMT adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Elaprase / MPS II",
+      "us_approval_year": 2006,
+      "group": "enzyme replacement",
+      "decision": "Retain for screening",
+      "reason": "Somatic benefit cannot stand in for CNS rescue.",
+      "source": "ert_fda",
+      "verification": "screened; full launch-era DMT adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Myozyme / Pompe",
+      "us_approval_year": 2006,
+      "group": "enzyme replacement",
+      "decision": "Retain for screening",
+      "reason": "Reconcile Lumizyme branding and age scope.",
+      "source": "ert_review",
+      "verification": "screened; full launch-era DMT adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Vimizim / MPS IVA",
+      "us_approval_year": 2014,
+      "group": "enzyme replacement",
+      "decision": "Retain for screening",
+      "reason": "Procedural ERT comparator; no forecast retrieved.",
+      "source": "ert_review",
+      "verification": "screened; full launch-era DMT adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Kanuma / LAL deficiency",
+      "us_approval_year": 2015,
+      "group": "enzyme replacement",
+      "decision": "Retain for screening",
+      "reason": "Only undated-horizon peak quote recovered.",
+      "source": "ert_review",
+      "verification": "screened; full launch-era DMT adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Xenpozyme / ASMD",
+      "us_approval_year": 2022,
+      "group": "enzyme replacement",
+      "decision": "Retain for screening",
+      "reason": "Non-CNS disease scope; no forecast retrieved.",
+      "source": "ert_review",
+      "verification": "screened; full launch-era DMT adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Lamzede / alpha-mannosidosis",
+      "us_approval_year": 2023,
+      "group": "enzyme replacement",
+      "decision": "Retain for screening",
+      "reason": "US approval later than EU; non-CNS scope.",
+      "source": "ert_review",
+      "verification": "screened; full launch-era DMT adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Mepsevii / MPS VII",
+      "us_approval_year": 2017,
+      "group": "enzyme replacement",
+      "decision": "Retain for screening",
+      "reason": "Tiny population; forecast unavailable.",
+      "source": "mep_approval",
+      "verification": "Primary approval release checked",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Luxturna / RPE65 retinal dystrophy",
+      "us_approval_year": 2017,
+      "group": "genetic sensory",
+      "decision": "Retain for screening",
+      "reason": "One-time surgery and viable-cell window differ from repeat ASO.",
+      "source": "lux_fda",
+      "verification": "FDA approval record checked",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Zokinvy / progeria and selected laminopathies",
+      "us_approval_year": 2020,
+      "group": "genetic systemic",
+      "decision": "Retain for screening",
+      "reason": "Multiple initial populations require scope matching.",
+      "source": "zok_fda",
+      "verification": "FDA original bulletin checked",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Nulibry / MoCD-A",
+      "us_approval_year": 2021,
+      "group": "metabolic neurological",
+      "decision": "Retain for screening",
+      "reason": "Very early treatment window; forecast unavailable.",
+      "source": "nul_fda",
+      "verification": "FDA approval report checked",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Oxlumo / PH1",
+      "us_approval_year": 2020,
+      "group": "RNA / metabolic",
+      "decision": "Ambiguous first-DMT cohort",
+      "reason": "Prior pyridoxine/transplantation; separate original label.",
+      "source": "ox_label",
+      "verification": "Current label checked; launch classification pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Skyclarys / Friedreich ataxia",
+      "us_approval_year": 2023,
+      "group": "FDA recent-approval screen",
+      "decision": "Retain for screening",
+      "reason": "At cutoff, 36-month sales history needs maturity check.",
+      "source": "fda_arc",
+      "verification": "FDA index screened; detailed label/first-status adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Joenja / APDS",
+      "us_approval_year": 2023,
+      "group": "FDA recent-approval screen",
+      "decision": "Retain for screening",
+      "reason": "Earlier off-label care needs adjudication.",
+      "source": "fda_arc",
+      "verification": "FDA index screened; detailed label/first-status adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Sohonos / FOP",
+      "us_approval_year": 2023,
+      "group": "FDA recent-approval screen",
+      "decision": "Retain for screening",
+      "reason": "Age, safety and launch maturity require review.",
+      "source": "fda_arc",
+      "verification": "FDA index screened; detailed label/first-status adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Veopoz / CHAPLE",
+      "us_approval_year": 2023,
+      "group": "FDA recent-approval screen",
+      "decision": "Retain for screening",
+      "reason": "Ultra-small population; launch immature.",
+      "source": "fda_arc",
+      "verification": "FDA index screened; detailed label/first-status adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Pyrukynd / PK deficiency",
+      "us_approval_year": 2022,
+      "group": "FDA recent-approval screen",
+      "decision": "Retain for screening",
+      "reason": "Prior disease-directed interventions require review.",
+      "source": "fda_arc",
+      "verification": "FDA index screened; detailed label/first-status adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Enjaymo / cold agglutinin disease",
+      "us_approval_year": 2022,
+      "group": "FDA recent-approval screen",
+      "decision": "Ambiguous first-DMT cohort",
+      "reason": "Earlier off-label disease-directed care.",
+      "source": "fda_arc",
+      "verification": "FDA index screened; detailed label/first-status adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Ztalmy / CDKL5-associated seizures",
+      "us_approval_year": 2022,
+      "group": "FDA recent-approval screen",
+      "decision": "Adjacent cohort",
+      "reason": "Seizure treatment is not proof of developmental modification.",
+      "source": "fda_arc",
+      "verification": "FDA index screened; detailed label/first-status adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Miplyffa / Niemann-Pick C",
+      "us_approval_year": 2024,
+      "group": "FDA recent-approval screen",
+      "decision": "Ambiguous first-DMT cohort",
+      "reason": "Prior miglustat; immature.",
+      "source": "fda_arc",
+      "verification": "FDA index screened; detailed label/first-status adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Aqneursa / Niemann-Pick C",
+      "us_approval_year": 2024,
+      "group": "FDA recent-approval screen",
+      "decision": "Exclude strict first entry",
+      "reason": "Earlier Miplyffa approval.",
+      "source": "fda_arc",
+      "verification": "FDA index screened; detailed label/first-status adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Xolremdi / WHIM",
+      "us_approval_year": 2024,
+      "group": "FDA recent-approval screen",
+      "decision": "Retain for screening",
+      "reason": "Immature commercial history.",
+      "source": "fda_arc",
+      "verification": "FDA index screened; detailed label/first-status adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Crenessity / CAH",
+      "us_approval_year": 2024,
+      "group": "FDA recent-approval screen",
+      "decision": "Exclude strict no-prior-DMT cohort",
+      "reason": "Prior glucocorticoids; immature.",
+      "source": "fda_arc",
+      "verification": "FDA index screened; detailed label/first-status adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Tryngolza / FCS",
+      "us_approval_year": 2024,
+      "group": "FDA recent-approval screen",
+      "decision": "Retain for screening",
+      "reason": "Diet and geography matter; immature.",
+      "source": "fda_arc",
+      "verification": "FDA index screened; detailed label/first-status adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Ctexli / CTX",
+      "us_approval_year": 2025,
+      "group": "FDA recent-approval screen",
+      "decision": "Ambiguous first-DMT cohort",
+      "reason": "Earlier off-label chenodiol; immature.",
+      "source": "fda_arc",
+      "verification": "FDA index screened; detailed label/first-status adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Forzinity / Barth syndrome",
+      "us_approval_year": 2025,
+      "group": "FDA recent-approval screen",
+      "decision": "Retain for screening",
+      "reason": "Accelerated evidence; immature.",
+      "source": "fda_arc",
+      "verification": "FDA index screened; detailed label/first-status adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Kygevvi / TK2 deficiency",
+      "us_approval_year": 2025,
+      "group": "FDA recent-approval screen",
+      "decision": "Retain for screening",
+      "reason": "Immature; earlier investigational treatment matters.",
+      "source": "fda_arc",
+      "verification": "FDA index screened; detailed label/first-status adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Qalsody / SOD1 ALS",
+      "us_approval_year": 2023,
+      "group": "FDA recent-approval screen",
+      "decision": "Modality comparator only",
+      "reason": "Prior ALS DMTs; accelerated evidence.",
+      "source": "fda_arc",
+      "verification": "FDA index screened; detailed label/first-status adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Attruby / ATTR cardiomyopathy",
+      "us_approval_year": 2024,
+      "group": "FDA recent-approval screen",
+      "decision": "Exclude strict first entry",
+      "reason": "Earlier approved disease-directed treatment.",
+      "source": "fda_arc",
+      "verification": "FDA index screened; detailed label/first-status adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Fabhalta / C3 glomerulopathy",
+      "us_approval_year": 2025,
+      "group": "FDA recent-approval screen",
+      "decision": "Scope-contaminated comparator",
+      "reason": "Product has other indications; immature.",
+      "source": "fda_arc",
+      "verification": "FDA index screened; detailed label/first-status adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Zanvastro / Alexander disease",
+      "us_approval_year": 2026,
+      "group": "outside mature cohort",
+      "decision": "Track only",
+      "reason": "2026 tracking only",
+      "source": "fda_arc",
+      "verification": "FDA index screened; no outcome calculation",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Zycubo / Menkes disease",
+      "us_approval_year": 2026,
+      "group": "outside mature cohort",
+      "decision": "Track only",
+      "reason": "2026 tracking only",
+      "source": "fda_arc",
+      "verification": "FDA index screened; no outcome calculation",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Avlayah / Hunter CNS disease",
+      "us_approval_year": 2026,
+      "group": "outside mature cohort",
+      "decision": "Track only",
+      "reason": "Manifestation-specific first status; 2026 tracking only",
+      "source": "fda_arc",
+      "verification": "FDA index screened; no outcome calculation",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Ceredase / Gaucher",
+      "us_approval_year": 1991,
+      "group": "ERT controls",
+      "decision": "Exclude primary / historical extension",
+      "reason": "Historical extension outside core window",
+      "source": "ert_review",
+      "verification": "screened; full launch-era DMT adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Cerezyme / Gaucher",
+      "us_approval_year": 1994,
+      "group": "ERT controls",
+      "decision": "Exclude primary / historical extension",
+      "reason": "Follow-on to Ceredase; do not count twice",
+      "source": "ert_review",
+      "verification": "screened; full launch-era DMT adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "VPRIV / Gaucher",
+      "us_approval_year": 2010,
+      "group": "ERT controls",
+      "decision": "Exclude primary / historical extension",
+      "reason": "Follow-on",
+      "source": "ert_review",
+      "verification": "screened; full launch-era DMT adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Elelyso / Gaucher",
+      "us_approval_year": 2012,
+      "group": "ERT controls",
+      "decision": "Exclude primary / historical extension",
+      "reason": "Follow-on",
+      "source": "ert_review",
+      "verification": "screened; full launch-era DMT adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Lumizyme / Pompe",
+      "us_approval_year": 2010,
+      "group": "ERT controls",
+      "decision": "Exclude primary / historical extension",
+      "reason": "Reconcile with Myozyme; not a separate independent first-DMT launch",
+      "source": "ert_review",
+      "verification": "screened; full launch-era DMT adjudication pending",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Crysvita / XLH",
+      "us_approval_year": 2018,
+      "group": "added from user prior-analysis deck",
+      "decision": "Mechanism comparator; strict first-DMT status unresolved",
+      "reason": "Prior conventional treatment and later TIO indication require adjudication/separation.",
+      "source": "prior_deck",
+      "verification": "deck screened; individual primary adjudication incomplete except regulatory timing checks noted in audit",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Vyjuvek / DEB",
+      "us_approval_year": 2023,
+      "group": "added from user prior-analysis deck",
+      "decision": "DMT candidate; early launch and scope flags",
+      "reason": "Original-label/territory and annual curve needed; higher current peak is a revision.",
+      "source": "prior_deck",
+      "verification": "deck screened; individual primary adjudication incomplete except regulatory timing checks noted in audit",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Givlaari / AHP",
+      "us_approval_year": 2019,
+      "group": "added from user prior-analysis deck",
+      "decision": "Mechanism comparator; first-DMT status unresolved",
+      "reason": "Earlier disease-directed care; no original preapproval annual model in deck.",
+      "source": "prior_deck",
+      "verification": "deck screened; individual primary adjudication incomplete except regulatory timing checks noted in audit",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Zolgensma / SMA",
+      "us_approval_year": 2019,
+      "group": "added from user prior-analysis deck",
+      "decision": "Fast-follower comparator only",
+      "reason": "Spinraza precedes it; distinguish original IV from IT expectations.",
+      "source": "prior_deck",
+      "verification": "deck screened; individual primary adjudication incomplete except regulatory timing checks noted in audit",
+      "strict_quantitative_inclusion": false
+    },
+    {
+      "pair": "Evrysdi / SMA",
+      "us_approval_year": 2020,
+      "group": "added from user prior-analysis deck",
+      "decision": "Fast-follower comparator only",
+      "reason": "Existing SMA DMTs; PoS/currency ambiguities in reproduced estimates.",
+      "source": "prior_deck",
+      "verification": "deck screened; individual primary adjudication incomplete except regulatory timing checks noted in audit",
+      "strict_quantitative_inclusion": false
+    }
+  ],
+  "analogue_matrix": [
+    [
+      "Spinraza",
+      "High: repeat intrathecal ASO, pediatric genetics",
+      "Motor-neuron preservation and measurable motor/survival effects differ from developmental rescue",
+      "Secondary dated analyst quote + audited sales; PoS unknown",
+      "Not classifiable as a three-year beat/miss"
+    ],
+    [
+      "Brineura",
+      "High: pediatric CNS, specialist delivery, narrow window",
+      "Reservoir infusion; progressive degeneration; much smaller pool",
+      "Primary sales/labels; preapproval forecast absent",
+      "Outcome unclassified"
+    ],
+    [
+      "Daybue",
+      "High: neurodevelopmental adoption, caregiver-observed benefit",
+      "Oral treatment; unclear launch-era DMT status; different tolerability",
+      "Identifiable preapproval peak quotes; no annual curve",
+      "Future peak years not reached"
+    ],
+    [
+      "Kalydeco",
+      "High for genotype, patient finding and label expansion",
+      "Oral therapy; organ-function response differs from CNS development",
+      "Primary sales; recovered forecast postapproval",
+      "Excluded quantitative control"
+    ],
+    [
+      "Strensiq",
+      "Medium-high: pediatric genetic diagnosis and chronic therapy",
+      "Somatic ERT, different endpoints and dosing economics",
+      "Secondary point estimate; geographic ambiguity",
+      "Apparent beat depends on unresolved scope"
+    ],
+    [
+      "Onpattro",
+      "Medium: RNA, specialist centers, geography and competition",
+      "Adult progressive disease; prior transplantation; IV delivery",
+      "Original Cortellis publication; PoS and indication mix unresolved",
+      "Apparent point miss, not strict sell-side result"
+    ],
+    [
+      "Skysona / Zynteglo",
+      "High for delivery constraints; low for routine dosing economics",
+      "Cell collection, conditioning and one-time treatment differ sharply",
+      "Primary product sales; no authentic preapproval curve",
+      "No forecast-error classification"
+    ]
+  ],
+  "needham_inputs": {
+    "source": "needham",
+    "pages": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      31
+    ],
+    "us_launch_year": 2032,
+    "row_launch_year": 2033,
+    "us_prevalence_2026_under18": 11000,
+    "population_growth": 0.005,
+    "diagnosis_rate_2026": 0.15,
+    "diagnosis_rate_2032": 0.18,
+    "diagnosis_rate_2040_onward": 0.5,
+    "peak_penetration_of_diagnosed": 0.5,
+    "adherence_persistence": 0.75,
+    "launch_annual_wac_usd": 575000,
+    "annual_wac_growth": 0.03,
+    "gross_to_net_discount": 0.15,
+    "row_to_us_sales_ratio": 0.25,
+    "pos": 0.25,
+    "wacc": 0.09,
+    "terminal_growth": 0,
+    "peak_sales_multiple": 7,
+    "diluted_shares_m": 98,
+    "net_cash_usdm": 135,
+    "dcf_ev_usdm": 514,
+    "multiple_ev_usdm": 745,
+    "blended_ev_usdm": 630,
+    "blended_equity_usdm": 765,
+    "printed_peak_sales_multiple_input_usdm": 1843,
+    "printed_peak_sales_multiple_year": 2043,
+    "status": "observed analyst assumptions, not independently validated forecasts"
+  },
+  "capitalization_bridge": {
+    "source": "camp_10q",
+    "date": "2026-09-30",
+    "common_shares": 62754200,
+    "prefunded_initial": 6003758,
+    "prefunded_second": 21925368,
+    "prefunded_exercise_price_usd": 0.0001,
+    "reference_stock_price_usd": 3.72,
+    "price_source": "November 5\u20136 supplied broker reports; not live November 9 quote",
+    "cash_usdm": 124.522,
+    "status": "observed inputs; derived equity value and equity-less-cash proxy, before other adjustments"
+  },
+  "protocol_deviations": [
+    "No complete FDA orphan approval export was reconciled. Ledger is a screened candidate set, not an exhaustive universe or denominator for selection adjustment.",
+    "No historical record satisfies the complete 36/60-month, risk-treatment, geography and vintage requirements. Strict quantitative sample remains empty; contextual point comparisons are separate.",
+    "Public quotations and one original commercial forecast publication substitute only as lower-tier contextual evidence, not as fully normalized broker models.",
+    "Current CAMP reports arrived during work and were added as a separate benchmark; they did not change historical cohort rules.",
+    "Machine-readable JSON replaces the preferred CSV because nested source, scope and exclusion fields are retained without flattening. Calculations are reproducible with standard Python.",
+    "Trial registry mirror was encountered but not accepted as an official verified registry. September 8-K controls trial-design facts pending official protocol reconciliation."
+  ],
+  "data_dictionary": {
+    "sales_usdm": "USD millions of recognized net product sales, unless record explicitly states otherwise; no inflation/FX conversion.",
+    "original_sales_usdm": "Published forecast value before any transformation; operator preserves > bounds.",
+    "conditional_sales_usdm": "Approval-conditional sales only when risk handling is documented. Null for unresolved historical records, never zero.",
+    "pos": "Disclosed scalar approval probability; null means unknown. Not inferred from discount rate or price target.",
+    "target_year": "Forecast calendar year; null denotes undated peak. It is not commercial-year index.",
+    "report_date": "Original note/publication date when recovered; null when only publication of a quotation is known.",
+    "geography": "Exact stated or unresolved territory; unknown must not be silently treated as worldwide.",
+    "scope": "Disease/label/age/genotype coverage and contamination notes.",
+    "strict_eligible": "Requires genuine preapproval vintage, identifiable revenue scope, recoverable conditional forecast and matched complete horizon.",
+    "status": "Observed = source transcription; derived = arithmetic; proxy = imperfect measure; assumed = hypothesis; unknown = unresolved.",
+    "source": "Key into sources; local originals use absolute path, web evidence uses direct URL.",
+    "verification": "Degree of clinical/regulatory screening, separate from forecast data quality.",
+    "decision": "Scientific cohort screening decision; quantitative data exclusion remains separate.",
+    "candidate_year": "US year where checked; review/index-seeded entries remain subject to individual approval adjudication.",
+    "prior_deck_audit": "Compiler-reported estimates and issues are separate from authenticated original broker records. Do not silently merge peak revisions into historical forecast-error results."
+  },
+  "prior_deck_audit_file": "data/prior_deck_audit.json",
+  "update_log": [
+    {
+      "date": "2026-11-09",
+      "change": "Integrated prior 16-page deck; added five previously unscreened products; extracted 27 individual estimate leads and 16 audit issues; added two exploratory target-year checks. Original first-pass records retained unchanged in data/archive."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+[
+  {
+    "original_path": "/Users/kwu/Downloads/2026-09-28-CAMP.OQ-Leerink Partners-Tuning In to the FIH Study Design-124590577.pdf",
+    "repo_path": "sources/user-provided/sellside/2026-09-28-CAMP.OQ-Leerink Partners-Tuning In to the FIH Study Design-124590577.pdf",
+    "sha256": "aa3a873484c380bcb0cf3540bd407113504581c007a868c36c7bfc3198d02b1d",
+    "pages": 17,
+    "bytes": 865184,
+    "provenance": "user supplied; unchanged original"
+  },
+  {
+    "original_path": "/Users/kwu/Downloads/2026-09-28-CAMP.OQ-Piper Sandler Compan-Phase III ASCEND Study of CMP-002 for SYNGAP1-Related Disor...-124604109.pdf",
+    "repo_path": "sources/user-provided/sellside/2026-09-28-CAMP.OQ-Piper Sandler Compan-Phase III ASCEND Study of CMP-002 for SYNGAP1-Related Disor...-124604109.pdf",
+    "sha256": "eb8e01378b08cb10d1bb216f0a5bd2df75d9ce288832d91198d804522c97dad8",
+    "pages": 4,
+    "bytes": 349884,
+    "provenance": "user supplied; unchanged original"
+  },
+  {
+    "original_path": "/Users/kwu/Downloads/2026-10-12-CAMP.OQ-Leerink Partners-3Q26 Emerging Rare Disease Earnings Preview and Upcoming Cat...-124872499.pdf",
+    "repo_path": "sources/user-provided/sellside/2026-10-12-CAMP.OQ-Leerink Partners-3Q26 Emerging Rare Disease Earnings Preview and Upcoming Cat...-124872499.pdf",
+    "sha256": "e5972cd9283618434c6ef3c79a89e79b6213237ce3530c87170182a2912ad593",
+    "pages": 26,
+    "bytes": 652450,
+    "provenance": "user supplied; unchanged original"
+  },
+  {
+    "original_path": "/Users/kwu/Downloads/2026-10-15-CAMP.OQ-Needham  Company In-Summit Push Begins in SYNGAP1 - Initiating Coverage with a B...-124964472.pdf",
+    "repo_path": "sources/user-provided/sellside/2026-10-15-CAMP.OQ-Needham  Company In-Summit Push Begins in SYNGAP1 - Initiating Coverage with a B...-124964472.pdf",
+    "sha256": "035fea6fced34cd2e4db342cd11e7a191ba2153803f183ce823bd67f51439dc4",
+    "pages": 35,
+    "bytes": 2341759,
+    "provenance": "user supplied; unchanged original"
+  },
+  {
+    "original_path": "/Users/kwu/Downloads/2026-10-27-CAMP.OQ-Oppenheimer  Co., I-Setting Up CAMP EU CTA Approval Highlights Continuing Execu...-125191838.pdf",
+    "repo_path": "sources/user-provided/sellside/2026-10-27-CAMP.OQ-Oppenheimer  Co., I-Setting Up CAMP EU CTA Approval Highlights Continuing Execu...-125191838.pdf",
+    "sha256": "75dd233f73a6000d982736946d7cb7ab0f009518b9b7620960dad38a3a478c98",
+    "pages": 6,
+    "bytes": 1249433,
+    "provenance": "user supplied; unchanged original"
+  },
+  {
+    "original_path": "/Users/kwu/Downloads/2026-11-05-CAMP.OQ-JPMorgan-CAMP4 Quick Take - 3Q26 Earnings - CMP-002 Progressing On Tr...-125440903.pdf",
+    "repo_path": "sources/user-provided/sellside/2026-11-05-CAMP.OQ-JPMorgan-CAMP4 Quick Take - 3Q26 Earnings - CMP-002 Progressing On Tr...-125440903.pdf",
+    "sha256": "10959845bf368778cf4f579cf4534958cc8a3e78b7b526dea89dd6dfbdbb029f",
+    "pages": 7,
+    "bytes": 311976,
+    "provenance": "user supplied; unchanged original"
+  },
+  {
+    "original_path": "/Users/kwu/Downloads/2026-11-05-CAMP.OQ-William Blair  Comp-Third-Quarter Earnings; ASCEND Set for Year-End Dosing With ...-125444289.pdf",
+    "repo_path": "sources/user-provided/sellside/2026-11-05-CAMP.OQ-William Blair  Comp-Third-Quarter Earnings; ASCEND Set for Year-End Dosing With ...-125444289.pdf",
+    "sha256": "42208eef1ac06c716b039f26feeba40aef2237ab46368daba1fdff15b6321f32",
+    "pages": 7,
+    "bytes": 448620,
+    "provenance": "user supplied; unchanged original"
+  },
+  {
+    "original_path": "/Users/kwu/Downloads/2026-11-06-CAMP.OQ-Wedbush Securities I-3Q26 Good Progress Towards SYNGAP1 First Patient Dosing By ...-125466705.pdf",
+    "repo_path": "sources/user-provided/sellside/2026-11-06-CAMP.OQ-Wedbush Securities I-3Q26 Good Progress Towards SYNGAP1 First Patient Dosing By ...-125466705.pdf",
+    "sha256": "05761890066e3348b3abd764ce47c43fe7e29fe2500df94967df9f37460c870e",
+    "pages": 6,
+    "bytes": 633591,
+    "provenance": "user supplied; unchanged original"
+  },
+  {
+    "original_path": "/Users/kwu/Downloads/1st Entry Rare Tx - Historical Analyst Estimates.pdf",
+    "repo_path": "sources/user-provided/prior-analysis/1st Entry Rare Tx - Historical Analyst Estimates.pdf",
+    "sha256": "7cf11616c271b1f9bdfdb18253f1a7adf2badfc98c5610ebc3fdffeadd00e49f",
+    "pages": 16,
+    "bytes": 1401781,
+    "provenance": "user supplied; unchanged original; author and publication date not stated"
+  },
+  {
+    "original_path": "/Users/kwu/.codex/attachments/74a9915b-1165-4f07-a72e-70f6be6f9518/Pasted text.txt",
+    "repo_path": "sources/user-provided/task-briefs/original_request_1.txt",
+    "sha256": "5e5e48de2563452f4c75418b8e9dc7a3e609199d6d9e0e91182f0ae778d74ec9",
+    "bytes": 22534,
+    "provenance": "user supplied task context"
+  },
+  {
+    "original_path": "/Users/kwu/.codex/attachments/c9df16dc-b47c-4143-b77d-67f2cfac8fe3/Pasted text.txt",
+    "repo_path": "sources/user-provided/task-briefs/original_request_2.txt",
+    "sha256": "616b2df04e0d2748e7499ef7c174b2038a2cf586e583f4b8bead28b9ee45e35a",
+    "bytes": 21311,
+    "provenance": "user supplied task context"
+  }
+]

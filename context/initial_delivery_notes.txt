@@ -1,0 +1,15 @@
+CMP-002 research package — 9 November 2026
+
+Start with CMP002_research_brief.html. It includes the eight-report CAMP Street baseline, historical research findings, analogue matrix, case studies, candidate/exclusion ledger, model-transferability and investor-claims tables, missing-evidence specification, and linked sources.
+
+research_evidence.json contains the auditable records and data dictionary. It distinguishes observed forecasts, observed actual sales, analyst assumptions, unresolved fields and scientific/data exclusions. It uses null for missing values. The screened candidate set is NOT an exhaustive approval census.
+
+study_protocol.txt records the rules frozen before case-error calculation. Subsequent deviations appear in the report and evidence JSON.
+
+reproduce_calculations.py reproduces the arithmetic using Python 3 without external dependencies. Running it writes calculation_results.json. It does not compute a pooled bias from incompatible records.
+
+Principal conclusion: the recovered evidence does not establish systematic preapproval underforecasting of approval-conditional rare-disease DMT sales. Strict matched 36- and 60-month samples are empty. Public point examples and general launch studies remain contextual. Original historical annual models, documented PoS treatment, matched geography and label scope are the binding missing inputs.
+
+The supplied CAMP reports are a separate, current baseline. Needham's conditional curve is usable as an analyst benchmark, not as an independently validated forecast. Model reconciliation flags and pre-funded warrant capitalization are preserved. No full CAMP valuation, reverse DCF or independent commercial forecast has been performed.
+
+No paid data, bulk scraping, large OCR, outreach or publishing was undertaken. Local source PDFs remain in the user's Downloads folder; the report identifies exact filenames and page references without duplicating the PDFs.

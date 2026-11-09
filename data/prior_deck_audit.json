@@ -1,0 +1,1035 @@
+{
+  "as_of": "2026-11-09",
+  "source": "prior_deck",
+  "deck_publication_date": null,
+  "review_scope": "16 pages; text plus visual review of all substantive appendix tables",
+  "deck_summary": [
+    {
+      "product": "Strensiq",
+      "indication": "HPP",
+      "launch_year_as_deck": 2015,
+      "prelaunch_peak_range_usdm_as_deck": [
+        500,
+        1000
+      ],
+      "vintage_as_deck": "2012\u20132014",
+      "sales_2025_usdm_as_deck_rounded": 1700,
+      "current_peak_range_usdm_as_deck": [
+        2000,
+        2000
+      ],
+      "current_peak_year_as_deck": 2027,
+      "page": 4,
+      "source": "prior_deck",
+      "compiler_risk_statement": "not probability adjusted",
+      "risk_statement_verified_in_originals": false,
+      "audited_interpretation": "realized sales above displayed range",
+      "qualification": "P.7 also lists BofA $1.6bn dated September 30, 2014; displayed initial range is incomplete or uses unstated selection rules.",
+      "strict_eligible": false
+    },
+    {
+      "product": "Crysvita",
+      "indication": "XLH",
+      "launch_year_as_deck": 2018,
+      "prelaunch_peak_range_usdm_as_deck": [
+        1200,
+        1800
+      ],
+      "vintage_as_deck": "2016\u20132018",
+      "sales_2025_usdm_as_deck_rounded": 1600,
+      "current_peak_range_usdm_as_deck": [
+        2000,
+        3000
+      ],
+      "current_peak_year_as_deck": 2032,
+      "page": 4,
+      "source": "prior_deck",
+      "compiler_risk_statement": "not probability adjusted",
+      "risk_statement_verified_in_originals": false,
+      "audited_interpretation": "upward revision, not realized out-of-range beat",
+      "qualification": "Later TIO indication admitted; 2025 actual lies inside old range. Worldwide product economics require partner reconciliation.",
+      "strict_eligible": false
+    },
+    {
+      "product": "Vyjuvek",
+      "indication": "DEB",
+      "launch_year_as_deck": 2023,
+      "prelaunch_peak_range_usdm_as_deck": [
+        750,
+        1000
+      ],
+      "vintage_as_deck": "2023",
+      "sales_2025_usdm_as_deck_rounded": 400,
+      "current_peak_range_usdm_as_deck": [
+        1700,
+        2000
+      ],
+      "current_peak_year_as_deck": 2033,
+      "page": 4,
+      "source": "prior_deck",
+      "compiler_risk_statement": "not probability adjusted",
+      "risk_statement_verified_in_originals": false,
+      "audited_interpretation": "upward revision, not realized peak beat",
+      "qualification": "Territorial scope and exact preapproval note dates unknown; within-disease age expansion also flagged.",
+      "strict_eligible": false
+    },
+    {
+      "product": "Daybue",
+      "indication": "Rett",
+      "launch_year_as_deck": 2023,
+      "prelaunch_peak_range_usdm_as_deck": [
+        400,
+        800
+      ],
+      "vintage_as_deck": "2022\u20132023",
+      "sales_2025_usdm_as_deck_rounded": 400,
+      "current_peak_range_usdm_as_deck": [
+        500,
+        900
+      ],
+      "current_peak_year_as_deck": 2032,
+      "page": 4,
+      "source": "prior_deck",
+      "compiler_risk_statement": "not probability adjusted",
+      "risk_statement_verified_in_originals": false,
+      "audited_interpretation": "within displayed range",
+      "qualification": "Rounded 2025 product sales; future peaks not observed. No appendix of underlying Daybue forecasts.",
+      "strict_eligible": false
+    },
+    {
+      "product": "Givlaari",
+      "indication": "AHP",
+      "launch_year_as_deck": 2019,
+      "prelaunch_peak_range_usdm_as_deck": [
+        500,
+        1500
+      ],
+      "vintage_as_deck": "2017\u20132019",
+      "sales_2025_usdm_as_deck_rounded": 300,
+      "current_peak_range_usdm_as_deck": [
+        600,
+        600
+      ],
+      "current_peak_year_as_deck": 2033,
+      "page": 4,
+      "source": "prior_deck",
+      "compiler_risk_statement": "not probability adjusted",
+      "risk_statement_verified_in_originals": false,
+      "audited_interpretation": "downward revision relative to high estimates",
+      "qualification": "New $600m estimate is still inside old range. P.11 gives later mechanism commentary, not original sales forecasts.",
+      "strict_eligible": false
+    },
+    {
+      "product": "Skyclarys",
+      "indication": "Friedreich ataxia",
+      "launch_year_as_deck": 2023,
+      "prelaunch_peak_range_usdm_as_deck": [
+        1400,
+        2200
+      ],
+      "vintage_as_deck": "2022",
+      "sales_2025_usdm_as_deck_rounded": 500,
+      "current_peak_range_usdm_as_deck": [
+        1000,
+        1500
+      ],
+      "current_peak_year_as_deck": 2033,
+      "page": 4,
+      "source": "prior_deck",
+      "compiler_risk_statement": "not probability adjusted",
+      "risk_statement_verified_in_originals": false,
+      "audited_interpretation": "downward revision with overlapping ranges",
+      "qualification": "Future peak not observed; alarming persistence anecdotes require cohort/denominator checks.",
+      "strict_eligible": false
+    },
+    {
+      "product": "Spinraza",
+      "indication": "SMA",
+      "launch_year_as_deck": 2016,
+      "prelaunch_peak_range_usdm_as_deck": [
+        1600,
+        3000
+      ],
+      "vintage_as_deck": "2016 as labeled on p.5",
+      "sales_2025_usdm_as_deck_rounded": 1500,
+      "current_peak_range_usdm_as_deck": [
+        2100,
+        2100
+      ],
+      "current_peak_year_as_deck": 2019,
+      "page": 5,
+      "source": "prior_deck",
+      "compiler_risk_statement": "not probability adjusted",
+      "risk_statement_verified_in_originals": false,
+      "audited_interpretation": "observed historical maximum inside displayed range",
+      "qualification": "Lower $1.6bn entry shown in appendix is September 2017, after approval; 2019 value is actual, not current forecast.",
+      "strict_eligible": false
+    },
+    {
+      "product": "Zolgensma",
+      "indication": "SMA",
+      "launch_year_as_deck": 2019,
+      "prelaunch_peak_range_usdm_as_deck": [
+        1400,
+        2800
+      ],
+      "vintage_as_deck": "2019 as labeled on p.5",
+      "sales_2025_usdm_as_deck_rounded": 1200,
+      "current_peak_range_usdm_as_deck": [
+        1600,
+        1600
+      ],
+      "current_peak_year_as_deck": 2033,
+      "page": 5,
+      "source": "prior_deck",
+      "compiler_risk_statement": "not probability adjusted",
+      "risk_statement_verified_in_originals": false,
+      "audited_interpretation": "future revision, fast-follower comparator",
+      "qualification": "Upper $2.8bn appendix entry is August 2019 after approval. IV/IT combined forecasts and excluded $5bn entry complicate scope.",
+      "strict_eligible": false
+    },
+    {
+      "product": "Evrysdi",
+      "indication": "SMA",
+      "launch_year_as_deck": 2020,
+      "prelaunch_peak_range_usdm_as_deck": [
+        2200,
+        3800
+      ],
+      "vintage_as_deck": "2020",
+      "sales_2025_usdm_as_deck_rounded": 2100,
+      "current_peak_range_usdm_as_deck": [
+        3200,
+        3200
+      ],
+      "current_peak_year_as_deck": 2032,
+      "page": 5,
+      "source": "prior_deck",
+      "compiler_risk_statement": "not probability adjusted",
+      "risk_statement_verified_in_originals": false,
+      "audited_interpretation": "within displayed range, fast-follower comparator",
+      "qualification": "Appendix mentions 90% approval probability, mixed currencies and postapproval entries; original models required.",
+      "strict_eligible": false
+    }
+  ],
+  "recovered_estimate_leads": [
+    {
+      "id": "PD1",
+      "product": "Strensiq",
+      "institution": "JPMorgan",
+      "date_as_deck": "2012-04-16",
+      "citation_date_as_deck": "2012-04-16",
+      "sales_usdm_as_deck": 625,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": null,
+      "page": 7,
+      "approval_date": "2015-10-23",
+      "days_before_approval": 1285,
+      "timing_audit": "preapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "Assumed pediatric filing in 2014; scope needs original model."
+    },
+    {
+      "id": "PD2",
+      "product": "Strensiq",
+      "institution": "Credit Suisse",
+      "date_as_deck": "2014-09-02",
+      "citation_date_as_deck": "2014-09-02",
+      "sales_usdm_as_deck": 500,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": 2020,
+      "page": 7,
+      "approval_date": "2015-10-23",
+      "days_before_approval": 416,
+      "timing_audit": "preapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "Forecast assumes 2015 launch; worldwide scope inferred from main deck table, not authenticated in underlying note."
+    },
+    {
+      "id": "PD3",
+      "product": "Strensiq",
+      "institution": "BofA",
+      "date_as_deck": "2014-09-30",
+      "citation_date_as_deck": "2014-09-30",
+      "sales_usdm_as_deck": 1600,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": null,
+      "page": 7,
+      "approval_date": "2015-10-23",
+      "days_before_approval": 388,
+      "timing_audit": "preapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "P.7 places under a 2015\u20132016 heading despite 2014 citation; outside p.4 displayed initial range."
+    },
+    {
+      "id": "PD4",
+      "product": "Strensiq",
+      "institution": "Morgan Stanley",
+      "date_as_deck": "2013-10-25",
+      "citation_date_as_deck": "2013-10-25",
+      "sales_usdm_as_deck": 750,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": null,
+      "page": 7,
+      "approval_date": "2015-10-23",
+      "days_before_approval": 728,
+      "timing_audit": "preapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": ""
+    },
+    {
+      "id": "PD5",
+      "product": "Strensiq",
+      "institution": "Morgan Stanley",
+      "date_as_deck": "2015-04-23",
+      "citation_date_as_deck": "2015-04-23",
+      "sales_usdm_as_deck": 1200,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": null,
+      "page": 7,
+      "approval_date": "2015-10-23",
+      "days_before_approval": 183,
+      "timing_audit": "preapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": ""
+    },
+    {
+      "id": "PD6",
+      "product": "Strensiq",
+      "institution": "Credit Suisse",
+      "date_as_deck": "2016-01-19",
+      "citation_date_as_deck": "2016-01-19",
+      "sales_usdm_as_deck": 1200,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": 2025,
+      "page": 8,
+      "approval_date": "2015-10-23",
+      "days_before_approval": -88,
+      "timing_audit": "postapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "reproduced model table",
+      "strict_eligible": false,
+      "notes": "Reproduced assumption table; pediatric-only modeled population despite broader label; $500m US/$700m ex-US. Postapproval."
+    },
+    {
+      "id": "PD7",
+      "product": "Strensiq",
+      "institution": "Credit Suisse",
+      "date_as_deck": "2018-01-17",
+      "citation_date_as_deck": "2018-01-17",
+      "sales_usdm_as_deck": 1300,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": 2028,
+      "page": 7,
+      "approval_date": "2015-10-23",
+      "days_before_approval": -817,
+      "timing_audit": "postapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "Postapproval revision."
+    },
+    {
+      "id": "PD8",
+      "product": "Spinraza",
+      "institution": "Credit Suisse",
+      "date_as_deck": "2016-01-19",
+      "citation_date_as_deck": "2016-01-19",
+      "sales_usdm_as_deck": 3000,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": null,
+      "page": 14,
+      "approval_date": "2016-12-23",
+      "days_before_approval": 339,
+      "timing_audit": "preapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "A promising primary-vintage original-report retrieval lead; no annual curve reproduced."
+    },
+    {
+      "id": "PD9",
+      "product": "Spinraza",
+      "institution": "JPMorgan",
+      "date_as_deck": "2016-12-27",
+      "citation_date_as_deck": "2016-12-27",
+      "sales_usdm_as_deck": 3000,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": null,
+      "page": 14,
+      "approval_date": "2016-12-23",
+      "days_before_approval": -4,
+      "timing_audit": "postapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "Four days after FDA approval."
+    },
+    {
+      "id": "PD10",
+      "product": "Spinraza",
+      "institution": "Credit Suisse",
+      "date_as_deck": "2017-02-03",
+      "citation_date_as_deck": "2017-02-03",
+      "sales_usdm_as_deck": 2500,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": null,
+      "page": 14,
+      "approval_date": "2016-12-23",
+      "days_before_approval": -42,
+      "timing_audit": "postapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "Postapproval; summary compares peak with a different-year consensus value."
+    },
+    {
+      "id": "PD11",
+      "product": "Spinraza",
+      "institution": "RBC",
+      "date_as_deck": "2017-09-14",
+      "citation_date_as_deck": "2017-09-14",
+      "sales_usdm_as_deck": 1600,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": null,
+      "page": 14,
+      "approval_date": "2016-12-23",
+      "days_before_approval": -265,
+      "timing_audit": "postapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "Postapproval entry appears to supply the lower end of the p.5 pre-launch range."
+    },
+    {
+      "id": "PD12",
+      "product": "Spinraza",
+      "institution": "BofA",
+      "date_as_deck": "2017-10-05",
+      "citation_date_as_deck": "2017-10-05",
+      "sales_usdm_as_deck": 1900,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": null,
+      "page": 14,
+      "approval_date": "2016-12-23",
+      "days_before_approval": -286,
+      "timing_audit": "postapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": ""
+    },
+    {
+      "id": "PD13",
+      "product": "Spinraza",
+      "institution": "JPMorgan",
+      "date_as_deck": "2017-11-09",
+      "citation_date_as_deck": "2017-11-09",
+      "sales_usdm_as_deck": 3000,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": null,
+      "page": 14,
+      "approval_date": "2016-12-23",
+      "days_before_approval": -321,
+      "timing_audit": "postapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": ""
+    },
+    {
+      "id": "PD14",
+      "product": "Spinraza",
+      "institution": "Credit Suisse",
+      "date_as_deck": "2017-12-20",
+      "citation_date_as_deck": "2017-12-20",
+      "sales_usdm_as_deck": 3200,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": 2025,
+      "page": 14,
+      "approval_date": "2016-12-23",
+      "days_before_approval": -362,
+      "timing_audit": "postapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": ""
+    },
+    {
+      "id": "PD15",
+      "product": "Zolgensma",
+      "institution": "BofA",
+      "date_as_deck": "2018-04",
+      "citation_date_as_deck": "2018-04",
+      "sales_usdm_as_deck": 5000,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": null,
+      "page": 15,
+      "approval_date": "2019-05-24",
+      "days_before_approval": null,
+      "timing_audit": "date precision insufficient; see notes",
+      "risk_treatment": "explicitly described as unrisk-adjusted in deck",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "Marked outlier without an explicit inclusion rule; no original source chip visible."
+    },
+    {
+      "id": "PD16",
+      "product": "Zolgensma",
+      "institution": "Jefferies",
+      "date_as_deck": "2019-04-24",
+      "citation_date_as_deck": "2019-04-24",
+      "sales_usdm_as_deck": 2600,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": 2024,
+      "page": 15,
+      "approval_date": "2019-05-24",
+      "days_before_approval": 30,
+      "timing_audit": "preapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "Worldwide peak by 2024 per deck; original route/label coverage needs checking."
+    },
+    {
+      "id": "PD17",
+      "product": "Zolgensma",
+      "institution": "Morgan Stanley",
+      "date_as_deck": "2019-04-10",
+      "citation_date_as_deck": "2019-04-10",
+      "sales_usdm_as_deck": 1400,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": null,
+      "page": 15,
+      "approval_date": "2019-05-24",
+      "days_before_approval": 44,
+      "timing_audit": "preapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": ""
+    },
+    {
+      "id": "PD18",
+      "product": "Zolgensma",
+      "institution": "Jefferies",
+      "date_as_deck": "2019-08-30",
+      "citation_date_as_deck": "2019-08-30",
+      "sales_usdm_as_deck": 2800,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": null,
+      "page": 15,
+      "approval_date": "2019-05-24",
+      "days_before_approval": -98,
+      "timing_audit": "postapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "Postapproval upward revision."
+    },
+    {
+      "id": "PD19",
+      "product": "Zolgensma",
+      "institution": "BofA",
+      "date_as_deck": "2019-09-13",
+      "citation_date_as_deck": "2019-09-13",
+      "sales_usdm_as_deck": 2500,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": 2024,
+      "page": 15,
+      "approval_date": "2019-05-24",
+      "days_before_approval": -112,
+      "timing_audit": "postapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "Combines $900m IV and $1.6bn IT; not pure original IV product."
+    },
+    {
+      "id": "PD20",
+      "product": "Zolgensma",
+      "institution": "BofA",
+      "date_as_deck": "2020-03-24",
+      "citation_date_as_deck": "2020-03-24",
+      "sales_usdm_as_deck": 2100,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": null,
+      "page": 15,
+      "approval_date": "2019-05-24",
+      "days_before_approval": -305,
+      "timing_audit": "postapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "Combined IV/IT formulation forecast; postapproval."
+    },
+    {
+      "id": "PD21",
+      "product": "Zolgensma",
+      "institution": "Deutsche Bank",
+      "date_as_deck": "2021-01-14",
+      "citation_date_as_deck": "2021-01-14",
+      "sales_usdm_as_deck": 1700,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": 2025,
+      "page": 15,
+      "approval_date": "2019-05-24",
+      "days_before_approval": -601,
+      "timing_audit": "postapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": ""
+    },
+    {
+      "id": "PD22",
+      "product": "Evrysdi",
+      "institution": "BofA",
+      "date_as_deck": "2020-01-21",
+      "citation_date_as_deck": "2020-01-21",
+      "sales_usdm_as_deck": 2800,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": 2027,
+      "page": 16,
+      "approval_date": "2020-08-07",
+      "days_before_approval": 199,
+      "timing_audit": "preapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "35% prevalent-patient penetration per deck."
+    },
+    {
+      "id": "PD23",
+      "product": "Evrysdi",
+      "institution": "BofA",
+      "date_as_deck": "2020-03",
+      "citation_date_as_deck": "2019-09-13",
+      "sales_usdm_as_deck": 2900,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": 2027,
+      "page": 16,
+      "approval_date": "2020-08-07",
+      "days_before_approval": null,
+      "timing_audit": "date precision insufficient; see notes",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "Estimate date and source chip conflict."
+    },
+    {
+      "id": "PD24",
+      "product": "Evrysdi",
+      "institution": "Bernstein",
+      "date_as_deck": "2020-07-22",
+      "citation_date_as_deck": "2020-07-22",
+      "sales_usdm_as_deck": 2170,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": null,
+      "page": 16,
+      "approval_date": "2020-08-07",
+      "days_before_approval": 16,
+      "timing_audit": "preapproval",
+      "risk_treatment": "ambiguous: 90% PoS mentioned in appendix despite global unadjusted statement",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "Described as CHF2bn at 90% probability; transformation and FX date absent. Do not divide by 0.9 without original."
+    },
+    {
+      "id": "PD25",
+      "product": "Evrysdi",
+      "institution": "Credit Suisse",
+      "date_as_deck": "2020-07-20",
+      "citation_date_as_deck": "2020-07-20",
+      "sales_usdm_as_deck": 3800,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": 2034,
+      "page": 16,
+      "approval_date": "2020-08-07",
+      "days_before_approval": 18,
+      "timing_audit": "preapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "Displayed estimate ~$3.8bn; prose says $3.5bn before royalty monetization. Unit/revenue-owner reconciliation required."
+    },
+    {
+      "id": "PD26",
+      "product": "Evrysdi",
+      "institution": "Credit Suisse",
+      "date_as_deck": "2020-08-10",
+      "citation_date_as_deck": "2020-08-10",
+      "sales_usdm_as_deck": 2800,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": null,
+      "page": 16,
+      "approval_date": "2020-08-07",
+      "days_before_approval": -3,
+      "timing_audit": "postapproval",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "After August 7 approval; annual net price $280k mentioned."
+    },
+    {
+      "id": "PD27",
+      "product": "Evrysdi",
+      "institution": "TD Cowen",
+      "date_as_deck": "2021-02",
+      "citation_date_as_deck": "2021-02",
+      "sales_usdm_as_deck": 3200,
+      "currency_of_displayed_value": "USD",
+      "target_year_as_deck": null,
+      "page": 16,
+      "approval_date": "2020-08-07",
+      "days_before_approval": null,
+      "timing_audit": "date precision insufficient; see notes",
+      "risk_treatment": "compiler declares unadjusted; original not checked",
+      "conditional_sales_usdm": null,
+      "source": "prior_deck",
+      "source_quality": "compiler/AlphaSense synthesis; underlying report not supplied",
+      "strict_eligible": false,
+      "notes": "Postapproval; day not visible."
+    }
+  ],
+  "quality_issues": [
+    {
+      "id": "A01",
+      "severity": "high",
+      "title": "Forecast versus forecast is not forecast versus actual",
+      "pages": [
+        4,
+        5
+      ],
+      "observation": "Crysvita, Vyjuvek, Givlaari and Skyclarys directions are primarily old-versus-current peak comparisons.",
+      "treatment": "Split realized error, forecast revisions and operational lessons; do not pool them into one beat rate."
+    },
+    {
+      "id": "A02",
+      "severity": "high",
+      "title": "Preapproval ranges contain postapproval estimates",
+      "pages": [
+        5,
+        14,
+        15,
+        16
+      ],
+      "observation": "Spinraza $1.6bn is dated September 2017; Zolgensma $2.8bn is August 2019; Evrysdi includes August 10, 2020.",
+      "treatment": "Rebuild from dated originals before respective approval dates."
+    },
+    {
+      "id": "A03",
+      "severity": "high",
+      "title": "PoS handling is not fully established",
+      "pages": [
+        4,
+        5,
+        16
+      ],
+      "observation": "Deck says unadjusted, but Bernstein Evrysdi row mentions 90% probability.",
+      "treatment": "Retain compiler declaration as evidence; recover exact location of probability in model; do not automatically divide."
+    },
+    {
+      "id": "A04",
+      "severity": "high",
+      "title": "Strensiq initial range omits a cited larger forecast",
+      "pages": [
+        4,
+        7
+      ],
+      "observation": "P.4 gives $0.5\u20131bn for 2012\u20132014; p.7 cites BofA September 30, 2014 at $1.6bn.",
+      "treatment": "Document vintage and selection rules; preserve all eligible estimates before aggregation."
+    },
+    {
+      "id": "A05",
+      "severity": "high",
+      "title": "Later disease indication retained",
+      "pages": [
+        2,
+        4,
+        9
+      ],
+      "observation": "Crysvita TIO is included and described as marginal without a numerical allocation.",
+      "treatment": "Exclude mixed XLH/TIO sales from strict sample until separated or bounded; label age expansion separately."
+    },
+    {
+      "id": "A06",
+      "severity": "high",
+      "title": "Geography shifts may change the opportunity rather than reveal error",
+      "pages": [
+        4,
+        9,
+        10
+      ],
+      "observation": "LATAM/EU expansion is called upside without the original geographic scope.",
+      "treatment": "US-only forecasts must be compared with US actuals; add territories only in a separately defined analysis."
+    },
+    {
+      "id": "A07",
+      "severity": "medium",
+      "title": "Population denominators change",
+      "pages": [
+        9
+      ],
+      "observation": "Crysvita table compares 9,000 US adults with 36,000 global adults.",
+      "treatment": "Do not interpret this as a fourfold epidemiology revision."
+    },
+    {
+      "id": "A08",
+      "severity": "high",
+      "title": "SMA route and product scope are mixed",
+      "pages": [
+        5,
+        15
+      ],
+      "observation": "2019 Zolgensma is labeled IT, but approval was IV; some estimates explicitly combine IV/IT.",
+      "treatment": "Separate original Zolgensma from intrathecal franchise expectations; retain fast followers outside first-DMT cohort."
+    },
+    {
+      "id": "A09",
+      "severity": "medium",
+      "title": "SMA revenue-owner reconciliation needed",
+      "pages": [
+        13
+      ],
+      "observation": "Evaluate table has Roche and Chugai Evrysdi rows; 2025 total appears to include both.",
+      "treatment": "Verify end-market conventions before summing. Also distinguish 2025 Zolgensma Group from original IV sales."
+    },
+    {
+      "id": "A10",
+      "severity": "high",
+      "title": "Skyclarys persistence anecdotes lack a generalizable denominator",
+      "pages": [
+        12
+      ],
+      "observation": "48% at six months and up to 75% discontinuation in some practices are cited from surveys/expert summaries.",
+      "treatment": "Recover population, follow-up, dose-reduction definitions and pharmacy coverage; compare with original observational cohorts."
+    },
+    {
+      "id": "A11",
+      "severity": "medium",
+      "title": "Market-size accuracy is not demonstrated by summing product peaks",
+      "pages": [
+        5,
+        13
+      ],
+      "observation": "Forecasts were made in different years with different competitor knowledge.",
+      "treatment": "Use contemporaneous, same-horizon total-SMA forecasts before making a market-accuracy claim."
+    },
+    {
+      "id": "A12",
+      "severity": "medium",
+      "title": "Strensiq age-at-treatment and age-at-onset differ",
+      "pages": [
+        7,
+        8
+      ],
+      "observation": "Adults with pediatric-onset HPP are not equivalent to adult-onset disease; the reproduced model is January 2016.",
+      "treatment": "Use the table as postapproval mechanism evidence, not a preapproval forecast or proof of adult efficacy for CMP-002."
+    },
+    {
+      "id": "A13",
+      "severity": "medium",
+      "title": "Date, currency and value inconsistencies",
+      "pages": [
+        16
+      ],
+      "observation": "March 2020 row cites September 2019; $3.8bn row describes $3.5bn; CHF-to-USD translation is not specified.",
+      "treatment": "Preserve raw entries, quarantine transformations and obtain originals."
+    },
+    {
+      "id": "A14",
+      "severity": "medium",
+      "title": "Universal price-conservatism conclusion is unsupported",
+      "pages": [
+        3,
+        4,
+        9
+      ],
+      "observation": "Daybue and Crysvita descriptions include material pricing surprises; price and adult mix interact.",
+      "treatment": "Decompose net price, body weight, utilization and patient mix within each case."
+    },
+    {
+      "id": "A15",
+      "severity": "medium",
+      "title": "No complete cohort or annual curves",
+      "pages": [
+        2,
+        4,
+        5
+      ],
+      "observation": "Selected products and peak ranges cannot identify a systematic signed three-year error.",
+      "treatment": "Keep the original strict endpoint; add a labeled exploratory single-year comparison track."
+    },
+    {
+      "id": "A16",
+      "severity": "medium",
+      "title": "Causal attribution exceeds the reproduced evidence",
+      "pages": [
+        7,
+        9,
+        10,
+        11,
+        12
+      ],
+      "observation": "Many mechanisms are later syntheses/expert reports, with no quantitative patient-price-revenue bridge.",
+      "treatment": "Treat as hypotheses; seek contemporaneous forecasts and independent patient, access and utilization records."
+    }
+  ],
+  "exploratory_matched_year_checks": [
+    {
+      "id": "C1",
+      "product": "Strensiq",
+      "forecast_record": "PD2",
+      "target_year": 2020,
+      "forecast_usdm": 500,
+      "actual_usdm": 731.8,
+      "error_fraction": 0.4636,
+      "actual_source": "alexion2020",
+      "status": "exploratory secondary-source single-year comparison",
+      "caveats": [
+        "Forecast reported by deck, not authenticated original",
+        "Worldwide scope inferred from deck heading",
+        "Compiler declares unadjusted; original model risk treatment unverified",
+        "Not first 36-month cumulative outcome"
+      ]
+    },
+    {
+      "id": "C2",
+      "product": "Zolgensma",
+      "forecast_record": "PD16",
+      "target_year": 2024,
+      "forecast_usdm": 2600,
+      "actual_usdm": 1214,
+      "error_fraction": -0.533076923076923,
+      "actual_source": "novartis2024",
+      "status": "exploratory fast-follower single-year comparison",
+      "caveats": [
+        "Underlying Jefferies report not supplied",
+        "IV versus future IT scope needs reconciliation",
+        "Not first DMT",
+        "Not first 36-month cumulative outcome"
+      ]
+    }
+  ],
+  "sources": {
+    "prior_deck": {
+      "title": "Prior first-entry rare-disease analyst-estimate analysis",
+      "repo_path": "sources/user-provided/prior-analysis/1st Entry Rare Tx - Historical Analyst Estimates.pdf",
+      "pages": 16,
+      "type": "user-supplied synthesis with reproduced source excerpts",
+      "date": null,
+      "accessed": "2026-11-09",
+      "access_note": "Read all substantive pages, including image-based appendix. Underlying AlphaSense links are not clickable in the PDF. Most appendix material is a synthesis; p.8 reproduces a Credit Suisse model-assumption table."
+    },
+    "alexion2020": {
+      "title": "Alexion 2020 Form 10-K, p.92 / Note 18 F-66",
+      "url": "https://www.sec.gov/Archives/edgar/data/899866/000089986621000014/alxn-20201231.htm",
+      "type": "primary audited filing",
+      "accessed": "2026-11-09"
+    },
+    "novartis2024": {
+      "title": "Novartis FY2024 results, top-20 brands table",
+      "url": "https://www.novartis.com/news/media-releases/novartis-continues-strong-momentum-sales-growth-margin-expansion-reaches-key-innovation-milestones-2024",
+      "type": "primary company results",
+      "accessed": "2026-11-09"
+    },
+    "strensiq_original_label": {
+      "title": "FDA original Strensiq orphan approval record",
+      "url": "https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=266608",
+      "type": "primary regulatory record",
+      "accessed": "2026-11-09"
+    },
+    "zolgensma_original": {
+      "title": "FDA Purple Book Zolgensma record",
+      "url": "https://www.accessdata.fda.gov/scripts/purplebooksearch/index.cfm?blaNo=125694&event=productdetails",
+      "type": "primary regulatory record",
+      "accessed": "2026-11-09"
+    },
+    "evrysdi_original": {
+      "title": "FDA Evrysdi approval, August 7, 2020",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-oral-treatment-spinal-muscular-atrophy",
+      "type": "primary regulatory record",
+      "accessed": "2026-11-09"
+    },
+    "omav_safety": {
+      "title": "Safety Monitoring of Omaveloxolone in Friedreich Ataxia: Results from One Year of Clinical Treatment",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12089633/",
+      "type": "original observational clinical research",
+      "accessed": "2026-11-09",
+      "access_note": "Indexed Table 2 and dosing text recovered; direct PMC/Europe PMC page access challenged. No population-wide persistence inference."
+    },
+    "novartis2025": {
+      "title": "Novartis FY2025 financial report, p.8",
+      "url": "https://www.novartis.com/sites/novartis_com/files/q4-2025-interim-financial-report-en.pdf",
+      "type": "primary company results",
+      "accessed": "2026-11-09",
+      "access_note": "Reports Zolgensma Group and discusses intrathecal Itvisma. Do not assume 2025 group revenue is pure original IV-product sales."
+    }
+  },
+  "strict_cumulative_36m_n": 0,
+  "strict_cumulative_60m_n": 0,
+  "interpretation": "Additional records materially improve the retrieval roadmap and mechanism evidence, but do not establish systematic underforecasting. Conditional status is declared by the compiler, not uniformly authenticated."
+}

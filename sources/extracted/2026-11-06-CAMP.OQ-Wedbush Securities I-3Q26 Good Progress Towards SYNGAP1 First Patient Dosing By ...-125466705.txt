@@ -1,0 +1,400 @@
+
+=== PDF PAGE 1 ===
+                                                                                    
+                                                                                    
+                                                                      Company Report
+                                                                                    
+                                                                                    
+                                                                                    
+                            CAMP4    Therapeutics    Corporation                    
+     November 6, 2026                                                               
+                             (CAMP)                                                 
+      Rating:                                                                       
+      OUTPERFORM                                                                    
+      Price:                3Q26: Good Progress Towards SYNGAP1 First Patient Dosing
+      $3.72                 By YE26                                                 
+      12-Month Price Target:                                                        
+      $8.00                                                                         
+                            The Wedbush View                                        
+     Analysts                                                                       
+     Yun Zhong, Ph.D.       The 3Q26 update reported regulatory clearance in more geographic regions for
+     (917) 608-0166         the planned global ASCEND Ph1/2 study of CMP-002 in SYNGAP1-related disorder.
+     yun.zhong@wedbush.com                                                          
+                            CAMP4 reported initiation of clinical trial activities across multiple study sites, and
+                            first patient dosing remains on track for YE26. Discussion at the recent virtual
+                            Analyst Day highlighted the randomized, double-blind, controlled study to be
+     Company Information                                                            
+     Market Cap (M)   $337  "signal-seeking" without commitment to any preselected endpoints (note), and
+     Enterprise Value (M) $213 CAMP4 expects to report top-line data in 1H28. CAMP4 ended 3Q26 with total
+     Shares Outst (M) 90.7                                                          
+                            cash of $124.5M after receiving $50.1M in gross proceeds from closing the second
+     52-Week Range $2.90 - $7.75                                                    
+                            tranche of a previously announced private placement. Management guides for
+     Cash/sh          $1.37                                                         
+     Net Debt (M)   $(124.52) a runway through YE28, which we believe could allow for the newly announced
+                            SHANK3 program for the treatment of Phelan-McDermid syndrome to potentially
+      REV (M)         in $                                                          
+                            enter the clinic as well following candidate identification in 2027. Overall, we
+      FYE Dec 2024A 2025A 2026E                                                     
+                            believe that CAMP4 is making good progress in building a pipeline that should
+      Q1 Mar 0.0A 0.9A 1.3A                                                         
+      Q2 Jun 0.0A 1.5A 1.8A support promising long-term growth potential of the company's proprietary RNA-
+      Q3 Sep 0.0A 0.8A 1.9A based technology platform.                              
+      Previous        1.0E                                                          
+      Q4 Dec 0.7A 0.3A 1.8E ASCEND Will Include Comprehensive Efficacy Measures. The study will
+      Previous        1.0E  evaluate three undisclosed doses, all within the therapeutic range according to
+      Year*  0.7A 3.5A 6.8E management, and patients will be required to have refractory epilepsy, defined
+      Previous        5.1E                                                          
+                            as daily seizures despite ≥1 ongoing anti-seizure medication (ASM), with stable
+      EPS             in $                                                          
+                            ASM regimen at baseline, and prior trial of ≥2 ASMs, for study enrollment. For
+      FYE Dec 2024A 2025A 2026E                                                     
+                            efficacy evaluation, ASCEND will include 24-hour video EEG to measure both
+      Q1 Mar (26.57)A (0.62)A (0.32)A                                               
+      Q2 Jun  - (0.62)A (0.58)A seizure reduction and sleep improvement, and five validated scales will also be
+      Q3 Sep (24.19)A (0.55)A (0.37)A included to measure potential improvement in communication, motor function,
+      Previous       (0.18)E                                                        
+                            behavior, and development. We note that such outcome measures are often used
+      Q4 Dec (0.77)A (0.75)A (0.16)E                                                
+                            as primary endpoints in related disorders (e.g., Bayley-4, Vineland-3, and ORCA in
+      Previous       (0.17)E                                                        
+                            Angelman Syndrome, ABC-2 in autism spectrum disorder, and GMFM in cerebral
+      Year* (11.04)A (2.65)A (1.34)E                                                
+      Previous      (1.14)E palsy, spinal muscular atrophy [SMA], and Down syndrome), so the outcomes from
+      P/E    NM   NM  NM    ASCEND should provide a rather comprehensive assessment of CMP-002 and show
+                            CMP-002's clinical benefit across various disease domains.
+      Pricing data provided by Thomson Reuters.                                     
+      *Numbers may not add up due to rounding.                                      
+                            Wedbush Securities does and seeks to do business with companies covered in its research
+                            reports. Thus, investors should be aware that the firm may have a conflict of interest that
+                            could affect the objectivity of this report. Investors should consider this report as only a single
+                            factor in making their investment decision. Please see pages 3–5 of this report for
+                            analyst certification and important disclosure information.
+                                     www.wedbush.com                                
+                                                                      Page 1        
+
+=== PDF PAGE 2 ===
+54578_b135090d-7b67-4c5a-afd0-9b2575fc9e3f.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  www.wedbush.com
+                                                                                                           Page 2
+
+=== PDF PAGE 3 ===
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+     Valuation                                                                      
+     We use a discounted earnings model, a clinical NPV model (25xPE & 25% discount rate for both) and a DCF model (12% WACC & 0%
+     perpetual growth rate) to reach our $8 PT on CAMP shares                       
+     Company Description                                                            
+     CAMP4 Therapeutics Corp. is developing regulatory RNA-based therapeutics for metabolic and CNS disorders. Lead candidate CMP-
+     CPS-01 in Ph1 is for urea cycle disorders and preclinical-stage candidate CMP-SYNGAP-01 in for SYNGAP1-related disorders.
+                                                                                    
+     Risks to the Attainment of Our Price Target and Rating:                        
+     CAMP4 Therapeutics Corporation is a clinical stage biotechnology company. It faces all the standard risks for this industry, including
+     unexpected outcomes from clinical readouts, regulatory uncertainty, competition risks, commercial risks, manufacturing risks, and
+     financial risks.                                                               
+                                                                                    
+     Analyst Certification                                                          
+     I, Yun Zhong, certify that the views expressed in this report accurately reflect my personal opinion and that I have not and will not,
+     directly or indirectly, receive compensation or other payments in connection with my specific recommendations or views contained
+     in this report.                                                                
+     Mentioned Companies                                                            
+                                                                                    
+     Investment Rating System:                                                      
+     OUTPERFORM: Expect the total return of the stock to outperform relative to the median total return of the analyst's (or the analyst's
+     team) coverage universe over the next 6-12 months.                             
+     NEUTRAL: Expect the total return of the stock to perform in-line with the median total return of the analyst's (or the analyst's team)
+     coverage universe over the next 6-12 months.                                   
+                                                                                    
+     UNDERPERFORM: Expect the total return of the stock to underperform relative to the median total return of the analyst's (or the
+     analyst's team) coverage universe of the next 6-12 months.                     
+     The Investment Ratings are based on the expected performance of a stock (based on anticipated total return to price target) relative
+     to the other stocks in the analyst's coverage universe (or the analyst's team coverage).*
+                                                                                    
+      Rating distribution            Investment Banking Relationships               
+      (as of November 6, 2026)       (as of November 6, 2026)                       
+      OUTPERFORM: 71.98%             OUTPERFORM: 10.81%                             
+      NEUTRAL: 25.68%                NEUTRAL: 7.58%                                 
+      UNDERPERFORM: 2.33%            UNDERPERFORM: 0.00%                            
+                                                                                    
+     The Distribution of Ratings is required by FINRA rules; however, WS' stock ratings of Outperform, Neutral, and Underperform most
+     closely conform to Buy, Hold, and Sell, respectively. Please note, however, the definitions are not the same as WS' stock ratings are
+     on a relative basis.                                                           
+     The analysts responsible for preparing research reports do not receive compensation based on specific investment banking activity.
+     The analysts receive compensation that is based upon various factors including WS' total revenues, a portion of which are generated
+     by WS' investment banking activities.                                          
+                                                                                    
+     Company Specific Disclosures                                                   
+     This information is subject to change at any time.                             
+                                                                                    
+     This research is provided for educational and informational purposes only and is not intended to be relied upon as a forecast,
+     research, or investment advice, and is not a recommendation, offer, or solicitation to buy or sell any securities or to adopt any
+     investment strategy. Investing involves risk, including the risk of loss of principal. Your investments may decline in value due to both
+     real and perceived general market, economic, and industry conditions. Diversification does not ensure profits or protect against loss.
+     This research was prepared without regard to specific investment objectives, strategies, tax status, investment horizon, financial
+     situation or needs of any investor. Wedbush Securities, Inc. (“WSI”) encourages recipients of this report to read all relevant offering
+     documents (e.g., prospectus) pertaining to any investment concerned, including without limitation, information relevant to its
+                                                                                    
+                                     www.wedbush.com                                
+                                                                             Page 3 
+
+=== PDF PAGE 4 ===
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+     investment objectives, risks, and costs before making an investment decision and when deemed necessary, to seek the advice of a
+     legal, tax, and/or accounting professional.                                    
+     Past performance is no guarantee of future results. Reliance upon information in this research is at the sole discretion of the reader.
+     All information in this research is believed to be reliable as of the date on which this research was issued and has been obtained from
+     public sources believed to be reliable. No representation or warranty, either express or implied, is provided in relation to the accuracy
+     or completeness of the information contained herein. The opinions expressed are as of the date written and are subject to change
+     without notice. In addition, this research may contain certain statements deemed to be “forward-looking” statements. All statements,
+     other than historical facts, contained within this document that address activities, events or developments that this research report
+     expects, believes, or anticipates will or may occur in the future are forward-looking statements. These statements are based on certain
+     assumptions and analyses made by WSI in light of its experience and perception of historical trends, current conditions, expected
+     future developments and other factors it believes are appropriate in the circumstances. Such statements are subject to assumptions,
+     risks, uncertainties, many of which are beyond WSI’s control. Please note that any such statements are not guarantees of any future
+     performance and that actual results or developments may differ materially from those projected in the forward-looking statements.
+                                                                                    
+     Prepared by Wedbush Securities, Inc., a member of FINRA and SIPC.              
+     1. WS makes a market in the securities of CAMP4 Therapeutics Corporation.      
+                                                                                    
+     Price Charts                                                                   
+                                                                                    
+                          CAMP4 Therapeutics Corporation Rating History as of 11-05-2026
+                                     powered by: BlueMatrix                         
+         I:OP:$8.00                                                                 
+         05/27/2025                                                                 
+       12                                                                           
+       10                                                                           
+       8                                                                            
+       6                                                                            
+                                                                                    
+       4                                                                            
+       2                                                                            
+                                                                                    
+       0                                                                            
+          Jan 24 Apr 24 Jul 24 Oct 24 Jan 25 Apr 25 Jul 25 Oct 25 Jan 26 Apr 26 Jul 26 Oct 26
+                                   Closing Price Price Target                       
+                                                                                    
+                            Outperform (OP); Neutral (N); Underperform (UP); Not Rated (NR)
+                                                                                    
+     Wedbush disclosure price charts are updated within the first fifteen days of each new calendar quarter per FINRA regulations. Price
+     charts for companies initiated upon in the current quarter, and rating and target price changes occurring in the current quarter, will not
+     be displayed until the following quarter. Additional information on recommended securities is available on request.
+     Disclosure information regarding historical ratings and price targets is available: Research Disclosures
+                                                                                    
+     Applicable disclosure information is also available upon request by contacting the Research Department at (212) 833-1375, by email to
+     leslie.lippai@wedbush.com. You may also submit a written request to the following: Wedbush Securities, Attn: Research Department,
+     142 W 57th Street, New York, NY 10019.                                         
+                                                                                    
+                                    OTHER DISCLOSURES                               
+     The information herein is based on sources that we consider reliable, but its accuracy is not guaranteed. The information contained
+     herein is not a representation by this corporation, nor is any recommendation made herein based on any privileged information. This
+     information is not intended to be nor should it be relied upon as a complete record or analysis: neither is it an offer nor a solicitation
+     of an offer to sell or buy any security mentioned herein. This firm, Wedbush Securities, its officers, employees, and members of their
+     families, or any one or more of them, and its discretionary and advisory accounts, may have a position in any security discussed herein
+                                                                                    
+                                                                                    
+                                     www.wedbush.com                                
+                                                                             Page 4 
+
+=== PDF PAGE 5 ===
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+     or in related securities and may make, from time to time, purchases or sales thereof in the open market or otherwise. The information
+     and expressions of opinion contained herein are subject to change without further notice. The herein mentioned securities may be
+     sold to or bought from customers on a principal basis by this firm. Additional information with respect to the information contained
+     herein may be obtained upon request.                                           
+     Wedbush Securities does and seeks to do business with companies covered in its research reports. Thus, investors should be aware
+     that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider this report as only
+     a single factor in making their investment decision.                           
+     Retail Investors                                                               
+     The information provided is for general informational purposes only and should not be considered an individual recommendation
+     or personalized investment advice. The companies/investments mentioned may not be suitable for everyone. Each investor needs
+     to review their own respective situation(s) before making any investment decisions. All expressions of opinion are subject to change
+     without notice due to shifting market(s), economic or political conditions. Investment involves risks including the risk of principal. Past
+     performance is no guarantee of future results and the opinions presented cannot be viewed as an indicator of future performance.
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                     www.wedbush.com                                
+                                                                             Page 5 
+
+=== PDF PAGE 6 ===
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                      EQUITYsRESEARCH                               
+                                                                                    
+                     HEALTHCARE                        TECHcsMEDIAsasENTERTAINMENT  
+     Biotechnology                         DisruptivesTechnologys-sNuclearsEnergy   
+     DavidsNierengartencsPhpDp pfofpstsfhsest davidpnierengartenawedbushpcom SethsBashamcsCFA ptotpsntehnnff sethpbashamawedbushpcom
+     Biotechnology                         EnterprisesSofwaresasDisruptivesTechnology
+     RobertsDriscollcsPhpDp pfofpstsfhsest robertpdriscollawedbushpcom StevensWahrhafig ptotpsntohszfn stevenpwahrhafigawedbushpcom
+     Biotechnology                         HardwaresSemiconductors                  
+     LaurasChicocsPhpDp ptotpsssehnese laurapchicoawedbushpcom MattsBryson psospssnfhstzt matthewpbrysonawedbushpcom
+     Biotechnology                         Internet                                 
+     YunsZhongcsPhpDp ptotpsstehsfzn yunpzhongawedbushpcom YgalsArounian pntnpstfnhoste ygalparounianawedbushpcom
+     Biotechnology                         MediasasEntertainment                    
+     MartinsFancsPhpDp ptotpsseehtfzf martinpfanawedbushpcom AliciasReese ptotpsntehnnts aliciapreeseawedbushpcom
+                                           MediasasEntertainment                    
+                                           MattsMcCartney  ptotpsstehsfzt mattpmccartneyawedbushpcom
+                                                         FINANCIALsINSTITUTIONS     
+                                           SpecialtysFinance                        
+                                           HenrysCofeycsCFA p(cid:1096)(cid:1088)(cid:1094)(cid:1176) (cid:1089)(cid:1094)(cid:1092)(cid:1162)(cid:1090)(cid:1089)(cid:1090)(cid:1091) henrypcofeyawedbushpcom
+                                    RESEARCHsMANAGEMENT                             
+                    SethsBashamcsCFA                       (cid:11)(cid:42)(cid:46)(cid:32)(cid:43)(cid:35) *(cid:42)(cid:45)(cid:45)(cid:48)(cid:46)(cid:42)
+                    DirectorsofsResearch                 MD, Head of Global Equities
+                  sethpbashamawedbushpcom                Joe.Borruso@Wedbush.com    
+                     ptotpsntehnnff                        (646) 604-4232           
+                                   COMMODITIESsasAGRICULTURE                        
+                                         AlsKluis                                   
+                                      KluissCommoditysAdvisors                      
+                                    infoakluiscommodityadvisorspcom                 
+                                        peeepstffhteff                              
+                                      CORPORATEsACCESS                              
+            SophiasDao         RileysHite        MarinasMilner   ChristinassvonsRiesenfelder
+          sophiapdaoawedbushpcom rileyphiteaWedbushpcom marinapmilnerawedbushpcom ChristinapvonRiesenfelderawedbushpcom
+            ptotpsseehftez    pntnpseonhnoos     pntnpsffnhzttz     pnospsntohotft  
+                                        TRADING                                     
+     Healthcare                            FinancialscsREITSsandsConsumer           
+     MichaelsBower   psfspssfehfest michaelpbowerawedbushpcom WestonsBoone psfspsesshfnft westonpbooneawedbushpcom
+                                      WEDBUSHsOFFICES                               
+           Chicago       SansFrancisco   Pasadena      NewsYork        Boston       
+      ofosWpsJacksonsBoulevardcsSuitesosozAs fsEmbarcaderosCenters ttfsSpsLakesAvepcsPenthouse oftsWsfsthsStreet ttfsFranklinsStreetcststhsFloors
+          ChicagocsILsszszf SansFranciscocsCAsnfozt PasadenacsCAsnoozo NewsYorkcsNYsozzon BostoncsMAsztooz
+          ptotpsseshontz pfofpstsfhseot ptotpsseehezzz ptotpsntehnntz ptotpsseehezzz
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    

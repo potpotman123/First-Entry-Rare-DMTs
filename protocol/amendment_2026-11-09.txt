@@ -1,0 +1,18 @@
+PROTOCOL AMENDMENT — 9 November 2026
+
+Trigger: user supplied a 16-page prior analysis, "1st Entry Rare Tx - Historical Analyst Estimates.pdf", after the initial public-source desk study.
+
+The original primary estimand, cohort definitions, forecast vintages and 36-/60-month endpoints remain unchanged. Peak estimates are not converted into annual curves. No later disease indications enter the primary analysis.
+
+Add three explicitly distinct evidence tracks:
+1. Realized single-year target comparison: a dated historical forecast for a specified calendar year against recognized net sales in that year, with unresolved geography/PoS/product scope flagged. This is exploratory and not the cumulative primary endpoint.
+2. Forecast revisions: historical peak expectations versus later expectations. These can describe changed beliefs but are not realized forecast errors.
+3. Mechanism evidence: reproduced model assumptions, diagnosis, age scope, treatment utilization, geography and competition. Separate contemporaneous evidence from later explanatory accounts.
+
+The deck explicitly says its estimates are not probability adjusted. Preserve this as a compiler declaration; do not disregard it, but do not label it original-model verification. At least one appendix record mentions 90% approval probability, so model-level confirmation remains necessary. No scalar correction is applied without the underlying equation.
+
+Individual estimate selection must be rebuilt because some ranges include postapproval notes and at least one larger preapproval estimate is omitted from the displayed range. Retain these inconsistencies in the audit; do not silently repair source data.
+
+New candidate additions (relevance screen, not outcome-based statistical enrollment): Crysvita/XLH, Vyjuvek/DEB, Givlaari/AHP, Zolgensma/SMA and Evrysdi/SMA. The latter two are fast-follower comparisons. Original first-DMT adjudication and original-label sales separation remain required.
+
+This amendment follows observation of the supplied deck. It is an explicit exploratory extension, not a retrospective claim of preregistration. No pooled beat rate or bias coefficient will be computed from mixed evidence tracks.

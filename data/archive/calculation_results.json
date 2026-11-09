@@ -1,0 +1,79 @@
+{
+  "as_of": "2026-11-09",
+  "strict_primary_drug_indication_n": 0,
+  "strict_36_month_bias": null,
+  "strict_60_month_bias": null,
+  "reason_for_null": "No fully matched risk-normalized annual curves; no pooling of contextual point comparisons.",
+  "contextual_point_comparisons": {
+    "spinraza_2022": {
+      "actual_usdm": 1793.5,
+      "forecast_as_reported_usdm": 5000,
+      "error_fraction": -0.6413,
+      "error_operator": "<",
+      "normalization": "NONE: historical PoS unresolved; not a strict result",
+      "forecast_id": "F1",
+      "actual_geography_used": "worldwide",
+      "interpretation": "Contextual arithmetic only; see scope and exclusion flags in source dataset."
+    },
+    "strensiq_if_forecast_worldwide": {
+      "actual_usdm": 475.1,
+      "forecast_as_reported_usdm": 355,
+      "error_fraction": 0.3383098591549296,
+      "error_operator": "=",
+      "normalization": "NONE: historical PoS unresolved; not a strict result",
+      "forecast_id": "F2",
+      "actual_geography_used": "worldwide",
+      "interpretation": "Contextual arithmetic only; see scope and exclusion flags in source dataset."
+    },
+    "strensiq_if_forecast_US": {
+      "actual_usdm": 374.3,
+      "forecast_as_reported_usdm": 355,
+      "error_fraction": 0.05436619718309865,
+      "error_operator": "=",
+      "normalization": "NONE: historical PoS unresolved; not a strict result",
+      "forecast_id": "F2",
+      "actual_geography_used": "US",
+      "interpretation": "Contextual arithmetic only; see scope and exclusion flags in source dataset."
+    },
+    "onpattro_2022": {
+      "actual_usdm": 558,
+      "forecast_as_reported_usdm": 1212,
+      "error_fraction": -0.5396039603960396,
+      "error_operator": "=",
+      "normalization": "NONE: historical PoS unresolved; not a strict result",
+      "forecast_id": "F5_2022",
+      "actual_geography_used": "worldwide",
+      "interpretation": "Contextual arithmetic only; see scope and exclusion flags in source dataset."
+    }
+  },
+  "calendar_year_sums_not_first_36_months": {
+    "brineura_2017_2019_usdm": 120.5,
+    "daybue_2023_2025_usdm": 916.9999999999999
+  },
+  "capitalization_check": {
+    "economic_shares_before_options_and_future_financing": 90683326,
+    "reference_price_usd": 3.72,
+    "equity_value_usdm": 337.34197272,
+    "equity_less_cash_proxy_usdm": 212.81997272,
+    "not_a_live_quote_or_complete_EV": true
+  },
+  "needham_checks": {
+    "launch_revenue_per_modeled_patient_usd": 366562.5,
+    "peak_2046_wac_derived_usd": 869739.0917916894,
+    "peak_US_derived_from_rounded_population_usdm": 1684.722671885768,
+    "peak_WW_derived_usdm": 2105.90333985721,
+    "multiple_method_EV_from_printed_inputs_usdm": 745.2687633575731,
+    "blended_equity_from_printed_legs_usdm": 764.5,
+    "blended_equity_per_share_from_printed_legs_usd": 7.801020408163265,
+    "cash_per_share_from_printed_inputs_usd": 1.3775510204081634,
+    "drug_per_share_from_printed_inputs_usd": 6.428571428571429,
+    "conditional_WW_2032_2034_calendar_sum_usdm": 444,
+    "reproduced_VA_2032_2034_calendar_sum_usdm": 1078,
+    "VA_comparison_note": "As-printed chart sums only; consensus risk treatment and composition unknown; not a validated conditional comparison.",
+    "printed_peak_multiple_input_usdm": 1843,
+    "printed_multiple_year": 2043,
+    "printed_curve_2043_usdm": 1899,
+    "printed_curve_peak_2046_usdm": 2106,
+    "unresolved_discrepancies_preserved": true
+  }
+}
