@@ -1,0 +1,3 @@
+PUBLICATION AUTHORIZATION — 9 November 2026
+
+GitHub reported PUBLIC visibility for potpotman123/First-Entry-Rare-DMTs. The user explicitly answered: "Keep it public and save everything, including the sell-side context". This supersedes the earlier private-only instruction and resolves the upload hold. Preserve PUBLIC visibility. Authorized scope includes the independent research, data, source documents, supplied sell-side material and context. Publication is recorded in the repository commit history.

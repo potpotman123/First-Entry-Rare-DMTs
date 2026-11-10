@@ -1,0 +1,280 @@
+The 18% increase to $424.3 million for 2007 in sales of Fabrazyme, as compared to 2006, is primarily attributable to increased patient identification worldwide as Fabrazyme is introduced into new markets. We established a 3% price increase in the United States for Fabrazyme in November 2007 which did not have a significant impact on Fabrazyme revenue in 2007 as compared to 2006. The strengthening of foreign currencies, primarily the Euro and British pound sterling, against the U.S. dollar positively impacted Fabrazyme revenue by $13.0 million in 2007, as compared to 2006. (https://www.sec.gov/Archives/edgar/vprr/0804/08043451.pdf)
+citeturn61search12 [wordlim: 200] Crawled: 2 months ago; The 9% increase in the Euro against the U.S. dollar in 2007, as compared to 2006, positively impacted Myozyme revenue by $4.3 million. ... Effective January 1, 2008, we, BioMarin and BioMarin/Genzyme LLC restructured our relationship regarding the manufacturing, marketing and sale of Aldurazyme and entered into several restructuring agreements.
+In December 2007 we received FDA approval for the use on Thyrogen in thyroid cancer remnant ablation procedures.
+
+Sales of Myozyme were $200.7 million in 2007, as compared to $59.2 million in 2006. We launched Myozyme in the United States in May 2006, in Europe a month later and in Canada in September 2006. We are introducing Myozyme on a country-by-country basis in the European Union, as pricing and reimbursement approvals are obtained. Myozyme has received orphan drug designation in the United States, which provides seven years of market exclusivity, and in the European Union, which provides ten years of market exclusivity. In April 2007, Myozyme was approved for commercial sale in Japan and in June 2007 we launched the product after we received reimbursement approval. We expect to file for approval in several additional countries in 2008. The 9% increase in the Euro against the U.S. dollar in 2007, as compared to 2006, positively impacted Myozyme revenue by $4.3 million.
+
+We currently manufacture Myozyme in the United States and have begun Myozyme fill-finish at our facility in Waterford, Ireland. In addition, in October 2007, we submitted an application to the FDA seeking approval of a larger-scale (2000 liters) manufacturing process, based in Allston, Massachusetts, to enable us to meet the expected demand for Myozyme in the U.S. market going forward. We currently anticipate a decision from the FDA on the application for our larger-scale manufacturing process in the first half of 2008. In the meantime, we are continuing our efforts to optimize supply for the U.S. market, including temporarily transitioning some patients to a clinical access program. This has had an adverse effect on our Myozyme revenue and will continue to have an adverse effect until we receive FDA approval. In 2008, we are planning to produce validation lots of Myozyme at the 4000 liters scale in our protein manufacturing facility in Geel, Belgium, with approval anticipated in 2009.
+
+Effective January 1, 2008, we, BioMarin and BioMarin/Genzyme LLC restructured our relationship regarding the manufacturing, marketing and sale of Aldurazyme and entered into several restructuring agreements. BioMarin will continue to manufacture Aldurazyme. We will continue to purchase Aldurazyme exclusively from BioMarin and globally market and sell the product. Effective January 1, 2008, instead of sharing all costs and profits of Aldurazyme equally, we will record all sales of Aldurazyme and will pay BioMarin a tiered payment ranging from approximately 39.5% to 50% of worldwide net product sales of Aldurazyme.
+
+Transplant
+
+Transplant product revenue increased 12% to $174.8 million for 2007, as compared to 2006. The increase is primarily due to a $18.0 million increase in sales of Thymoglobulin as a result of its increased utilization in transplant procedures worldwide.
+
+In the second quarter of 2007, we began experiencing certain manufacturing challenges with respect to the production of Thymoglobulin resulting in stability issues. We have worked closely with the FDA in addressing these challenges, and have implemented certain process changes at our
+
+F-21--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/732485/000104746909002134/a2190533zex-13.htm)
+citeturn61search0 [wordlim: 200] Published: 17.7 years ago; Crawled: last month; The 9% increase in the Euro against the U.S. dollar in 2007, as compared to 2006, positively impacted Myozyme revenue by $4.3 million. ... All stock option grants have an exercise price equal to the fair market value of Genzyme Stock on the date of grant and generally have a 10-year term and vest in increments, generally over four years from the date of grant, although we may grant options with different vesting terms from time to time.
+* * *
+
+(2)
+    Includes charges of:
+
+•
+    $12.6 million recorded in December 2008 for the write-off of inventory associated with terminated production runs of Myozyme at our Belgium facility; and
+•
+    $20.9 million recorded in 2007 to write off Thymoglobulin inventory which did not meet our specifications for saleable product.
+(3)
+    Includes a charge of $64.0 million recorded in 2007 to settle the litigation related to the consolidation of our former tracking stocks.
+(4)
+    Includes charges of:
+
+•
+    $16.0 million recorded in December 2008 for the license or purchase of certain intellectual property and technology relating to transactions with two third parties;
+•
+    $130.0 million recorded in October 2008 for amounts accrued or paid to Osiris Therapeutics, Inc., or Osiris, as an upfront, nonrefundable license fee;
+•
+    $100.0 million recorded in July 2008 as a nonrefundable upfront license fee payment to PTC Therapeutics, Inc., or PTC;
+
+F-3
+
+* * *
+
+GENZYME CORPORATION AND SUBSIDIARIES
+ 
+ |    | 2008  |    | 2007  |    | 2006  |    | 08/07
+Increase/
+(Decrease)
+% Change  |    | 07/06
+Increase/
+(Decrease)
+% Change  |  
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ 
+ |    | (Amounts in thousands)
+ |    |  
+ |    |  
+ |  
+--- | --- | --- | --- | --- | --- | --- | ---
+Genetic Diseases:  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  
+   | Cerezyme  |    | $  | 1,238,977  |    | $  | 1,133,153  |    | $  | 1,007,036  |    |    | 9  | %  |    | 13  | %
+   | Fabrazyme  |    |    | 494,260  |    |    | 424,284  |    |    | 359,274  |    |    | 16  | %  |    | 18  | %
+   | Myozyme  |    |    | 296,176  |    |    | 200,728  |    |    | 59,238  |    |    | 48  | %  |    | >100  | %
+   | Aldurazyme  |    |    | 151,321  |    |    | —  |    |    | —  |    |    | N/A  |    |    | N/A  |  
+   | Other Genetic Diseases  |    |    | 45,595  |    |    | 8,314  |    |    | 410  |    |    | >100  | %  |    | >100  | %
+•
+    a 25% increase in sales of diagnostic products to $156.9 million, due to increased demand and to the acquisition of certain diagnostic assets from DCL in December 2007; and
+•
+    a 17% increase in sales of WelChol to $67.7 million, due to bulk sales and royalties earned as a result of increased demand from our U.S. marketing partner, Sankyo Pharma, Inc., or Sankyo.
+
+2007 As Compared to 2006
+
+Genetic Diseases
+
+        Genetic Diseases product revenue increased 24% to $1.8 billion for 2007, as compared to 2006, due to continued growth in sales of Cerezyme, Fabrazyme and to the launch of Myozyme in the European Union, the United States and Canada in 2006.
+
+        The 13% growth in sales of Cerezyme to $1.1 billion for 2007, as compared to 2006, is attributable to our continued identification of new Gaucher disease patients, particularly in international markets. Through October 2007, our price for Cerezyme remained consistent from period to period. Effective November 1, 2007, we implemented a 3% price increase in the United States for Cerezyme. The strengthening of foreign currencies, primarily the Euro and British pound sterling, against the U.S. dollar positively impacted Cerezyme revenue by $38.5 million in 2007, as compared to 2006.
+
+        The 18% increase to $424.3 million for 2007 in sales of Fabrazyme, as compared to 2006, is primarily attributable to increased patient identification worldwide as Fabrazyme is introduced into new markets. We established a 3% price increase in the United States for Fabrazyme in November 2007 which did not have a significant impact on Fabrazyme revenue in 2007 as compared to 2006. The strengthening of foreign currencies, primarily the Euro and British pound sterling, against the U.S. dollar positively impacted Fabrazyme revenue by $13.0 million in 2007, as compared to 2006.
+
+F-24
+
+* * *
+
+        Sales of Myozyme were $200.7 million in 2007, as compared to $59.2 million in 2006. We launched Myozyme in the United States and Europe in April 2006 and in Canada in September 2006. In April 2007, Myozyme was approved for commercial sale in Japan and in June 2007 we launched the product after we received reimbursement approval. The 9% increase in the Euro against the U.S. dollar in 2007, as compared to 2006, positively impacted Myozyme revenue by $4.3 million.
+
+Cardiometabolic and Renal
+
+        Sales of Renagel, including sales of bulk sevelamer, increased 17% to $602.7 million for 2007, as compared to 2006. Renagel price increases in the United States in December 2006 and April 2007 accounted for $36.4 million of the additional revenue, while increased end-user demand worldwide accounted for $51.2 million of additional revenue. The strengthening of foreign currencies, primarily the Euro and British pound sterling, against the U.S. dollar in 2007, as compared to 2006, positively impacted Renagel revenue by $16.7 million.
+
+        Sales of Hectorol increased 24% to $115.7 million for 2007, as compared to $93.4 million for 2006, primarily due to price increases for the 0.5 and 2.5 microgram tablets in July and December 2006 and a price increase for Hectorol IV in April 2006, as well as higher end-user demand.
+
+        Sales of Thyrogen increased 21% to $113.6 million for 2007, as compared to 2006. A Thyrogen price increase of approximately 10% in the United States in April 2007 accounted for $4.3 million of the additional revenue while worldwide volume growth impacted sales by $15.6 million. The strengthening of foreign currencies, primarily the Euro and British pound sterling, against the U.S. dollar positively impacted Thyrogen revenue by $3.2 million in 2007, as compared to 2006.
+
+Biosurgery
+
+        Biosurgery product revenue increased 10% to $381.4 million in 2007, as compared to 2006. Seprafilm revenue increased $20.2 million in 2007, as compared to 2006, primarily due to greater penetration into the United States, Japanese and European markets.
+
+        Synvisc sales increased $8.5 million in 2007, as compared to 2006, primarily due to a $5.4 million increase in U.S. volume.
+
+--------------------------------------------------------------------------------
+Exhibit 2095 - T2175 Excerpts from Genzyme Exhibit 13 to Form 10-K (2008).pdf (https://ptacts.uspto.gov/ptacts/public-informations/petitions/1460436/download-documents?artifactId=lzpnSx6w8HjFho-4PiGPjdoBDt0UzbgP6YohxPrROWoBFStvd_D_y-Q)
+citeturn61search13 [wordlim: 200] Published: 12.4 years ago;         Sales of Myozyme were $296.2 million in 2008, as compared to $200.7 million in 2007. ... GENZYME EXHIBIT 2095
+We established a 3% price increase in
+the United States for Fabrazyme in November 2007 and a 4% increase for Fabrazyme in the United States in August 2008. These
+price increases accounted for $6.5 million of additional Fabrazyme revenue for 2008, as compared to 2007. The strengthening of
+foreign currencies, primarily the Euro, against the U.S. dollar, positively impacted Fabrazyme revenue by $16.6 million in 2008,
+as compared to 2007.
+        Sales of Myozyme were $296.2 million in 2008, as compared to $200.7 million in 2007. We launched Myozyme in the United
+States and Europe in April 2006 and in Canada in September 2006. We are introducing Myozyme on a country-by-country basis
+outside of the European Union and United States, as pricing and reimbursement approvals are obtained. Myozyme has
+received orphan drug designation in both the United States, which provides seven years of market exclusivity, and in the
+European Union, which provides ten years of market exclusivity. In June 2007, we launched the product in Japan after receipt of
+marketing and reimbursement approvals. The strengthening of foreign currencies, primarily the Euro, against the U.S. dollar,
+positively impacted Myozyme revenue by $7.0 million for 2008, as compared to 2007.
+        We currently manufacture Myozyme (alglucosidase alfa) in the United States using a 160L scale process at our
+manufacturing facility in Framingham, Massachusetts and using the 2000L scale process at our manufacturing facility in
+Allston, Massachusetts. We have begun Myozyme fill-finish at our manufacturing facility in Waterford, Ireland. We have
+approval to sell Myozyme manufactured using the 160L scale process in the United States and Myozyme produced using the
+2000L scale process has been approved for sale in more than 40 countries outside the United States. The product produced
+using the 160L scale process is reserved for infants and children because the smaller scale produces a limited supply of FDA-
+approved product for the U.S. market.
+        In October 2007, we submitted a supplemental BLA to the FDA seeking approval of alglucosidase alfa produced using the
+--------------------------------------------------------------------------------
+e10vk (https://www.sec.gov/Archives/edgar/data/1178879/000089322008000264/w47890e10vk.htm)
+citeturn61search1 [wordlim: 200] Published: 18.8 years ago; Crawled: last month; The net product sales of Myozyme for the first full year of sales in 2007 were approximately $201 million as publicly reported by Genzyme Corporation.
+
+Existing Products for the Treatment of Pompe Disease and Potential Advantages of AT2220
+
+     The current standard of treatment for Pompe patients is enzyme replacement therapy. There is currently one product approved for the treatment of Pompe disease, Myozyme, approved in the U.S. and the EU and commercialized by Genzyme Corporation. Myozyme was approved in the U.S. in April 2006 and has orphan drug exclusivity in the U.S. until 2013. It was approved in the EU in March 2006 and has orphan drug exclusivity in the EU until 2016. Although Myozyme is approved for use in all Pompe patients, studies currently reported on the label included only patients with infantile-onset disease. Data from a study looking at Myozome in patients with later-onset disease was reported in late 2007 and is currently under review by various regulatory authorities. This study reportedly achieved the primary endpoint of demonstrating an improvement in motor and pulmonary function. The net product sales of Myozyme for the first full year of sales in 2007 were approximately $201 million as publicly reported by Genzyme Corporation.
+--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/732485/000104746908002100/a2182799zex-13.htm)
+citeturn61search2 [wordlim: 200] Published: 18.7 years ago; Crawled: last month; These selected financial data may not be indicative of our future financial condition due to the risks and uncertainties associated with operating our business, including those described under the caption "Management's Discussion and Analysis of Genzyme Corporation and Subsidiaries' Financial Condition and Results of Operations—Risk Factors" included in this Annual Report on Form 10-K. ... Myozyme  |    | Pompe disease  |    | Received marketing approval in the European Union in March 2006, in the United States in April 2006, in Canada in August 2006 and in Japan in April 2007; marketing approval received in 36 countries and commercial sales in 32 countries; several post-marketing commitments ongoing; regulatory submissions filed and under review in Switzerland, Argentina, Colombia, Australia and Korea with several more planned for submission in 2008.
+F-38
+
+* * *
+
+Myozyme  |    | Pompe disease  |    | Received marketing approval in the European Union in March 2006, in the United States in April 2006, in Canada in August 2006 and in Japan in April 2007; marketing approval received in 36 countries and commercial sales in 32 countries; several post-marketing commitments ongoing; regulatory submissions filed and under review in Switzerland, Argentina, Colombia, Australia and Korea with several more planned for submission in 2008.  |    | Product was launched in 2006
+GENZ-112638  |    | Gaucher disease  |    | Enrollment of patients in a phase 2 trial is complete.  |    | 2011
+Aldurazyme  |    | MPS I  |    | Marketed in the United States and the European Union since 2003; marketing approval received in 54 countries and commercial sales in 37 countries; several post-marketing commitments ongoing.  |    | Product was launched in 2003
+Mozobil(1)  |    | Improve the efficacy of stem cell transplantation in patients with blood cancers  |    | Announced phase 3 trials in multiple myeloma and non-Hodgkin's lymphoma met their respective primary endpoints in August 2007. * * *
+
+ |    | 2007
+
+* * *
+
+ |    | 2006
+
+* * *
+
+--- | --- | --- | --- | --- | ---
+Genzyme Stock, $0.01 par value  |    | 690,000,000  |    | 266,008,500  |    | 263,026,163
+   |    | 
+
+* * *
+
+ |    | 
+
+* * *
+
+ |    | 
+
+* * *
+
+Stock Rights
+
+        Under our shareholder rights plan, each outstanding share of Genzyme Stock also represents one preferred stock purchase right. When the stock purchase rights become exercisable, the holders of Genzyme Stock will be entitled to purchase one two-hundredth of a newly issued share of Series A Preferred Stock, $0.01 par value per share, for $150.00.
+
+F-108
+
+* * *
+
+GENZYME CORPORATION AND SUBSIDIARIES
+
+Notes To Consolidated Financial Statements (Continued)
+
+NOTE M. STOCKHOLDERS' EQUITY (Continued)
+
+        Each share of Series A Preferred Stock will be entitled to a minimum preferential quarterly dividend payment of $1 per share, but will be entitled to an aggregate dividend of 100 times the cash dividend declared per share of Genzyme Stock. Each share of Series A Preferred Stock will have 100 votes and will vote together with Genzyme Stock. --------------------------------------------------------------------------------
+Forecasting Rare Disease Outbreaks with (https://citeseerx.ist.psu.edu/document?doi=6c01067164b8059866032e62b57f42b39b193af6&repid=rep1&type=pdf)
+citeturn61search14 [wordlim: 200] Published: 8 months ago; Operationally, we train a separate OCSVM for each location and disease pair and forecast ... analysts adopt a 6-month rule wherein the GSR data does not include rare disease incidences in ... and adate denote the location and date accuracy of the prediction.
+from 74 to 144 and the number of HealthMap data sources from 381 to 798.
+GSR. We also make use of a gold standard report (GSR) which gives ground truth determinations
+of whether a disease incidence (Hantavirus) happened in a given country. The GSR is determined
+by analysts (not co-authors of this paper) poring over multiple Latin American or international news
+sources and studying bulletins issued by health reporting organizations such as ProMED [1]. In
+practice, outbreak alerts are useful only when there has not been an outbreak in the near past. The
+analysts adopt a 6-month rule wherein the GSR data does not include rare disease incidences in
+locations for which there has been an earlier outbreak reported within the past six months.
+Metrics. We adopt four key measures of performance. Given our predictions, we compute the recall
+and precision at a country level, grouping together predictions for locations in the same country.
+We also compute an average warning quality for each country. Each prediction for a location in
+the country under consideration is assigned a quality score Q = 4
+3(1 + aloc + adate), where aloc
+and adate denote the location and date accuracy of the prediction. The quality score takes values
+between 0 and 4. Finally, we consider the lead time of our predictions, which is calculated as the
+time between the date of alerting and the actual date of reporting of the outbreak (not the incidence
+date of the outbreak).
+BRM. We also compare the performance of our framework against a base rate model (BRM). This
+model assumes a ﬁxed rate for the occurrence of rare disease outbreaks for each country and for each
+month. To determine this rate, the model extracts the average frequency of outbreak occurrences
+reported over a past time window of four months. BRM reports disease outbreaks for that country at
+3--------------------------------------------------------------------------------
+Search (https://www.cambridge.org/core/search?eventCode=SE-AU&filters%5BauthorTerms%5D=Paul+A.+Bradley)
+citeturn61search3 [wordlim: 200] Crawled: last month; This paper summarizes an empirical comparison of the accuracy of forecasts included in analysis reports developed by professional intelligence analysts to comparable forecasts in a prediction market that has broad participation from across an intelligence community. To compare forecast accuracy, 99 event forecasts were extracted from qualitative descriptions found in 41 analysis reports and posted on the prediction market.
+
+[Input]  
+
+  * ### Comparative evaluation of the forecast accuracy of analysis reports and a prediction market
+
+  *   * Bradley J. Stastny, Paul E. Lehner
+  * Journal:
+    Judgment and Decision Making / Volume 13 / Issue 2 / March 2018
+Published online by Cambridge University Press:
+    01 January 2023, pp. 202-211
+  *     * Article
+    *       * You have access Access
+      * Open access
+    * PDF
+    * HTML
+    *     * Export citation
+  * View abstract
+
+This paper summarizes an empirical comparison of the accuracy of forecasts included in analysis reports developed by professional intelligence analysts to comparable forecasts in a prediction market that has broad participation from across an intelligence community. To compare forecast accuracy, 99 event forecasts were extracted from qualitative descriptions found in 41 analysis reports and posted on the prediction market. Quantitative probabilities were imputed from the qualitative forecasts by asking seasoned professional analysts, who did not participate in the prediction market, to read the reports and to infer a quantitative probability based on what was written. These readers were also asked to provide their personal probabilities before and after reading the reports. There were two statistically significant results of particular interest. First, the primary result is that the prediction market forecasts were more accurate than the analysis reports. On average prediction market probabilities were 0.114 closer to ground truth than the analysis report probabilities. Second, in cases where analysts (readers) updated their personal probabilities in a direction opposite to what the reports implied, analysts tended to update their probabilities in the correct direction. This occurred even though, on average, reading the reports did not make readers more accurate.
+
+--------------------------------------------------------------------------------
+Drug demand forecasting for hospital pharmacies using temporal hierarchies (https://www.tandfonline.com/doi/full/10.1080/01605682.2026.2620515)
+citeturn61search4 [wordlim: 200] Published: 9 months ago; Crawled: last month; For the drug demand series THieF is consistently the best performing method, followed by THieF-I in all cases but the 1-day ahead forecast, where ETS is performing equally well to the best. ... [Button: Figure 9] plots the pinball loss of the various forecasting methods, without the poorly performing Naive, between lead times t + 1 and t + 20, to provide an impression of how consistent the forecast accuracy remains across lead times.
+## 6. Results
+
+### 6.1. Forecast accuracy
+
+[Button: Table 3] summarises the RMSsE results for the daily time series, for the Drug and Drug by Dispensary series. Each column corresponds to a different lead time, and the best performing method is highlighted in bold. As the RMSsE is a normalised error, to provide a feel for the importance in the reported differences, the range of errors (excluding the poorly performing Naive) is provided.
+
+### 
+
+Table 3. RMsSE summary results (daily data).
+
+Download CSVDisplay Table
+
+For the drug demand series THieF is consistently the best performing method, followed by THieF-I in all cases but the 1-day ahead forecast, where ETS is performing equally well to the best. Comparing ETS and TSB that is appropriate for intermittent demand series, on average ETS performs better, which explains the difference between THIeF and THieF-I. On average these series have 52.71% zero demand periods, with about 20% of the series having 5% or less intermittency. That makes the ETS still able to provide reasonably good forecasts. --------------------------------------------------------------------------------
+SourceSeer: Forecasting Rare Disease Outbreaks Using Multiple (https://doczz.net/doc/9029279/sourceseer--forecasting-rare-disease-outbreaks-using-mult...)
+citeturn61search5 [wordlim: 200] Crawled: last week;     is determined by analysts of MITRE 1 considering multiple ...     can forecast outbreaks ahead of news media with an average ...     We studied the problem of rare disease outbreak prediction ...     rare disease outbreaks at fine spatial granularity by considering the accuracy of each individual news source.
+To fuse the individual source predictions into a final outbreak prediction we
+    employ a multiplicative weights algorithm taking into account the accuracy of each source. We evaluate the performance of SourceSeer using incidence data for hantavirus
+    syndromes in multiple countries of Latin America provided
+    by HealthMap over a timespan of fifteen months. We demonstrate that SourceSeer makes predictions of increased accuracy compared to several baselines and is capable of forecasting disease outbreaks in a timely manner even when no
+    outbreaks were previously reported.
+    1 Introduction
+    There has been a growing interest in developing statistical
+    models for detecting infectious disease outbreaks to enable
+    effective control measures to be taken in a sufficiently timely
+    fashion. Most early approaches relied on highly specialized
+    data, including medical records or environmental time series [28, 29]. Recently, however, there has been a growing interest in monitoring disease outbreaks using publicly
+--------------------------------------------------------------------------------
+Pharmaceutical forecasting: throwing darts? (https://www.researchgate.net/publication/257249117_Pharmaceutical_forecasting_throwing_darts)
+citeturn61search6 [wordlim: 200] Published: 13.1 years ago; Crawled: 3 months ago; One of these studies assessed the accuracy of analysts' estimates of peak sales of new medicines launched from 2002 to 2011 [22]. ... ... The study found that most consensus estimates provided by analysts were wrong, often substantially, with the sales of central nervous system and cardiovascular medicines being overestimated and the sales of oncology medicines being underestimated. ... ... For example, a key driver of the market value of candidate drugs is the cumulative sum of their future potential sales, and it is well known that drug sales are notoriously dif cult to forecast (6). ... Simulations using National Center for Advancing Translational Sciences data show that a portfolio of rare-disease therapeutics can yield attractive financial returns.
+--------------------------------------------------------------------------------
+Projections of Public Spending on Pharmaceuticals: A Review of Methods (https://link.springer.com/article/10.1007/s40273-024-01465-w)
+citeturn61search7 [wordlim: 200] Published: 1.8 years ago; Crawled: 2 months ago; Validation of a forecast going beyond a 1-year horizon was performed only for the Stockholm model, reporting a substantial loss in the prediction accuracy for the next-year compared with the same-year forecast. The authors recommend an update of the forecast as close as possible prior to the decision date if forecasting is used to provide data for decisions on budget allocation and agreements between payers and providers [25]. ... Such underestimation may have been caused by a lack of attention to the uptake of recently approved drugs, and the adopted assumption that only drugs with added clinical value would impact sales. ... Whereas most methods included horizon scanning for the identification of future launches, the orphan drug models adopted a more simplified approach to future market dynamics analysis, assuming a stable increase in the annual number of launches, [27, 28] a fixed median treatment cost per medicine, [27,28,29] and a fixed market penetration rate [28, 29].
+--------------------------------------------------------------------------------
+Pharma forecasting, data inputs and AI -- two cautionary tales (https://clarivate.com/life-sciences-healthcare/blog/faulty-pharmaceutical-forecasting-can-skew-launch-planning-and-sour-investors/)
+citeturn61search8 [wordlim: 200] Published: last month; Crawled: last month; A large European pharma had won FDA and EMA approval for a rare disease treatment with an innovative method of administration. The company’s commercial team needed an accurate understanding of disease epidemiology, the competitive landscape and their treatment’s probable uptake and revenue potential in those markets to plan a successful launch and establish realistic analyst and investor expectations. ... Clarivate analysts developed their forecast using proprietary data and analytics.
+--------------------------------------------------------------------------------
+Knowledge graph-enhanced deep learning for pharmaceutical demand forecasting (https://www.nature.com/articles/s41598-026-35113-4)
+citeturn61search9 [wordlim: 200] Published: 10 months ago; Crawled: last month; Therefore, during the data preparation stage, products with insufficient sales history were excluded to ensure data reliability and stability. ... The combination of numerical evidence and visual analysis strongly supports that integrating drug knowledge graph representations with temporal modeling allows KG-GCN-LSTM to achieve more accurate and reliable pharmaceutical demand forecasting than both classical methods and state-of-the-art deep learning models. ... By integrating a knowledge graph into the forecasting model, KG-GCN-LSTM effectively improves prediction accuracy.
+--------------------------------------------------------------------------------
+Finance case study 45 | Business & Finance homework help (https://www.sweetstudy.com/sites/default/files/qx/17/04/23/02/case_stu_0.pdf)
+citeturn61search10 [wordlim: 200] Published: 12.9 years ago; Crawled: last week; The first human trials for Myozyme were conducted on a small sample of newborns and resulted in 100% of the infants surviving their first year. ... The research the company conducted was significantly advanced by the acquisition of Biomatrix, Inc., in 2000, forming the biosurgery segment (BI). ... As one example, Genzyme formed a joint venture in 1997 with GelTex Pharmaceuticals, which specialized in the treatment of conditions in the gastrointestinal tract.
+--------------------------------------------------------------------------------
+The Impact of Artificial Intelligence in the Odyssey of Rare Diseases (https://pmc.ncbi.nlm.nih.gov/articles/PMC10045927/)
+citeturn61search11 [wordlim: 200] Published: 3.7 years ago; Crawled: last week; First, the process of diagnosing a rare disease is often long and exhausting. ... A survey conducted from October 2019 through March 2020 by the National Organization for Rare Disorders [10] on 1108 individuals found that 50% of patients and caregivers attribute diagnostic delays to a lack of knowledge about the disease, while 42% believe that delays are caused by limited medical specialization.
+--------------------------------------------------------------------------------
+Improving Quantitative Studies of (https://dash.harvard.edu/bitstreams/7312037c-49cb-6bd4-e053-0100007fdf3b/download)
+citeturn61search15 [wordlim: 200] Published: 11 months ago; forecast accuracy is generally considered the gold ... highly accurate forecasts of all these rare and unusual ... relatively rare disease. ... political-business risk analysts, public health researchers, and many
+--------------------------------------------------------------------------------
+The Impact of Artificial Intelligence in the Odyssey of Rare Diseases (https://www.mdpi.com/2227-9059/11/3/887/pdf?version=1678890462)
+citeturn61search16 [wordlim: 200] Published: 3.7 years ago; Crawled: 3.7 years ago; With the vast amounts of data now available through electronic health records and heterogeneous databases, AI algorithms can help quickly identify patterns and associations that would be difficult or impossible for human analysts to detect. ... Predictive modeling techniques, such as DL, have been used to forecast the progression of rare diseases, allowing for earlier interventions and better treatment planning. ... From a precision medicine perspective, by identifying biomarkers associated with a particular rare disease, AI algorithms can help to develop personalized treatment plans, helping to improve patient outcomes and reduce the risk of side effects. ... In conclusion, the application of ML techniques can greatly assist rare disease research and treatment, but to use it effectively, it needs to be implemented under the right ethical principles, avoid biases, and also be transparent for the patient.
+

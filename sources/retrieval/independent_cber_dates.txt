@@ -1,0 +1,457 @@
+FAYUVI | FDA (https://www.fda.gov/vaccines-blood-biologics/fayuvi)
+citeturn60view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.fda.gov/vaccines-blood-biologics/fayuvi","lineno":null}); Total lines: 112
+L0:   * 【0†Skip to main content】
+L1:   * 【1†Skip to FDA Search】
+L2:   * 【2†Skip to in this section menu】
+L3:   * 【3†Skip to footer links】
+L4: 
+L5: 【4†iframe†www.googletagmanager.com】
+L6: 
+L7:   *   Search
+L8:   *   Menu
+L9: 
+L10: Search FDA [Input: Search FDA] Submit search
+L11: 
+L12: ## Featured
+L13: 
+L14:   * 【5†Report a Product Problem†contact.fda.gov】
+L15:   * 【6†Contact FDA】
+L16:   * 【7†FDA Guidance Documents】
+L17:   * 【8†Recalls, Market Withdrawals and Safety Alerts】
+L18:   * 【9†Press Announcements】
+L19:   * 【10†Warning Letters】
+L20:   * 【11†Advisory Committees】
+L21:   * 【12†En Español】
+L22: ## Products
+L23: 
+L24:   * 【13†Food】
+L25:   * 【14†Drugs】
+L26:   * 【15†Medical Devices】
+L27:   * 【16†Radiation-Emitting Products】
+L28:   * 【17†Vaccines, Blood, and Biologics】
+L29:   * 【18†Animal and Veterinary】
+L30:   * 【19†Cosmetics】
+L31:   * 【20†Tobacco Products】
+L32: ## Topics
+L33: 
+L34:   * 【21†About FDA】
+L35:   * 【22†Combination Products】
+L36:   * 【23†Regulatory Information】
+L37:   * 【24†Safety】
+L38:   * 【25†Emergency Preparedness】
+L39:   * 【26†International Programs】
+L40:   * 【27†News and Events】
+L41:   * 【28†Training and Continuing Education】
+L42:   * 【29†Inspections and Compliance】
+L43:   * 【30†Science and Research】
+L44: ## Information For
+L45: 
+L46:   * 【31†Consumers】
+L47:   * 【32†Patients】
+L48:   * 【33†Industry】
+L49:   * 【34†Health Professionals】
+L50:   * 【35†Federal, State and Local Officials】
+L51: 
+L52:   * 【17†Vaccines, Blood, & Biologics】
+L53: 
+L54:     * 【36†Infectious Disease Tests】
+L55:     * 【37†CBER Reports】
+L56:     * 【38†Center for Biologics Evaluation and Research (CBER) Product Approval Information】
+L57:     * 【39†Fecal Microbiota Products】
+L58:     * 【40†Allergenics】
+L59:     * 【41†Blood & Blood Products】
+L60:     * 【42†Blood Donor Screening】
+L61:     * 【43†Cellular & Gene Therapy Products】
+L62:     * 【44†Development & Approval Process (CBER)】
+L63:     * 【45†Guidance, Compliance & Regulatory Information (Biologics)】
+L64:     * 【46†International Activities】
+L65:     * 【47†News & Events (Biologics)】
+L66:     * 【48†Resources for You (Biologics)】
+L67:     * 【49†Safety & Availability (Biologics)】
+L68:     * 【50†Science & Research (Biologics)】
+L69:     * 【51†Tissue & Tissue Products】
+L70:     * 【52†Vaccines】
+L71:     * 【53†Xenotransplantation】
+L72: # FAYUVI
+L73: 
+L74: STN: 125845
+L75: Proper Name: rebisufligene etisparvovec-hopf
+L76: Tradename: FAYUVI
+L77: Manufacturer: Ultragenyx Pharmaceutical Inc
+L78: Indication:
+L79: 
+L80:   * Treatment of neurologic manifestations of mucopolysaccharidosis type IIIA (MPS IIIA, Sanfilippo syndrome type A) in pediatric patients with preserved neurodevelopmental function..
+L81: ## Product Information
+L82: 
+L83:   * 【54†Package Insert - FAYUVI】
+L84:   * Demographic Subgroup Information – FAYUVI
+L85: Refer to Section 1.1 of the 【55†Clinical Review Memo】 for information about participation in the clinical trials and any analysis of demographic subgroup outcomes that is notable.
+L86: ## Supporting Documents
+L87: 
+L88:   * 【56†September 17, 2026 Approval Letter - FAYUVI】
+L89:   * 【57†September 17, 2026 Summary Basis for Regulatory Action - FAYUVI】
+L90:   * 【58†Letters, Reviews, and Related Documents - FAYUVI】
+L91: 
+L92: [Button: Feedback]
+L93: 
+L94:   * 【59†FDA Archive】
+L95:   * 【21†About FDA】
+L96:   * 【60†Accessibility】
+L97: 
+L98:   * 【61†Visitor Information】
+L99:   * 【62†Website Policies / Privacy】
+L100:   * 【63†No FEAR Act】
+L101:   * 【64†Vulnerability Disclosure Policy†www.hhs.gov】
+L102: 
+L103:   * 【65†FOIA】
+L104:   * 【66†HHS.gov†www.hhs.gov】
+L105:   * 【67†USA.gov†www.usa.gov】
+L106: 【6†Contact FDA】 【68†Follow FDA on Facebook†www.facebook.com】 【69†Follow FDA on X†x.com】 【70†Follow FDA on Instagram†instagram.com】
+L107: 【71†Follow FDA on LinkedIn†www.linkedin.com】 【72†View FDA videos on YouTube†youtube.com】 【73†Subscribe to FDA RSS feeds】
+L108: 
+L109: Contact Number 1-888-INFO-FDA (1-888-463-6332)
+L110: 
+L111: Back to Top
+--------------------------------------------------------------------------------
+GENGLYCOS | FDA (https://www.fda.gov/vaccines-blood-biologics/genglycos)
+citeturn60view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.fda.gov/vaccines-blood-biologics/genglycos","lineno":null}); Total lines: 111
+L0:   * 【0†Skip to main content】
+L1:   * 【1†Skip to FDA Search】
+L2:   * 【2†Skip to in this section menu】
+L3:   * 【3†Skip to footer links】
+L4: 
+L5: 【4†iframe†www.googletagmanager.com】
+L6: 
+L7:   *   Search
+L8:   *   Menu
+L9: 
+L10: Search FDA [Input: Search FDA] Submit search
+L11: 
+L12: ## Featured
+L13: 
+L14:   * 【5†Report a Product Problem†contact.fda.gov】
+L15:   * 【6†Contact FDA】
+L16:   * 【7†FDA Guidance Documents】
+L17:   * 【8†Recalls, Market Withdrawals and Safety Alerts】
+L18:   * 【9†Press Announcements】
+L19:   * 【10†Warning Letters】
+L20:   * 【11†Advisory Committees】
+L21:   * 【12†En Español】
+L22: ## Products
+L23: 
+L24:   * 【13†Food】
+L25:   * 【14†Drugs】
+L26:   * 【15†Medical Devices】
+L27:   * 【16†Radiation-Emitting Products】
+L28:   * 【17†Vaccines, Blood, and Biologics】
+L29:   * 【18†Animal and Veterinary】
+L30:   * 【19†Cosmetics】
+L31:   * 【20†Tobacco Products】
+L32: ## Topics
+L33: 
+L34:   * 【21†About FDA】
+L35:   * 【22†Combination Products】
+L36:   * 【23†Regulatory Information】
+L37:   * 【24†Safety】
+L38:   * 【25†Emergency Preparedness】
+L39:   * 【26†International Programs】
+L40:   * 【27†News and Events】
+L41:   * 【28†Training and Continuing Education】
+L42:   * 【29†Inspections and Compliance】
+L43:   * 【30†Science and Research】
+L44: ## Information For
+L45: 
+L46:   * 【31†Consumers】
+L47:   * 【32†Patients】
+L48:   * 【33†Industry】
+L49:   * 【34†Health Professionals】
+L50:   * 【35†Federal, State and Local Officials】
+L51: 
+L52:   * 【17†Vaccines, Blood, & Biologics】
+L53: 
+L54:     * 【36†Infectious Disease Tests】
+L55:     * 【37†CBER Reports】
+L56:     * 【38†Center for Biologics Evaluation and Research (CBER) Product Approval Information】
+L57:     * 【39†Fecal Microbiota Products】
+L58:     * 【40†Allergenics】
+L59:     * 【41†Blood & Blood Products】
+L60:     * 【42†Blood Donor Screening】
+L61:     * 【43†Cellular & Gene Therapy Products】
+L62:     * 【44†Development & Approval Process (CBER)】
+L63:     * 【45†Guidance, Compliance & Regulatory Information (Biologics)】
+L64:     * 【46†International Activities】
+L65:     * 【47†News & Events (Biologics)】
+L66:     * 【48†Resources for You (Biologics)】
+L67:     * 【49†Safety & Availability (Biologics)】
+L68:     * 【50†Science & Research (Biologics)】
+L69:     * 【51†Tissue & Tissue Products】
+L70:     * 【52†Vaccines】
+L71:     * 【53†Xenotransplantation】
+L72: # GENGLYCOS
+L73: 
+L74: STN:125858
+L75: Proper Name: pariglasgene brecaparvovec-opnr
+L76: Trade Name: GENGLYCOS
+L77: Manufacturer: Ultragenyx Pharmaceutical Inc.
+L78: ## 【54†Indication】
+L79: 
+L80:   * Indicated to reduce daily cornstarch intake as an adjunct to nutritional management in adult and pediatric patients 8 years of age and older with glycogen storage disease type Ia (GSDIa). This indication is approved under accelerated approval based on reduction in daily cornstarch intake. Continued approval for this indication may be contingent upon verification of clinical benefit in confirmatory trial(s).
+L81: 
+L82: ## 【55†Product Information】
+L83: 
+L84:   * 【56†Package Insert - GENGLYCOS】
+L85: ## 【57†Supporting Documents】
+L86: 
+L87:   * 【58†August 19, 2026 Approval Letter - GENGLYCOS】
+L88:   * 【59†August 19, 2026 Summary Basis for Regulatory Action - GENGLYCOS】
+L89:   * 【60†Letters, Reviews, Related Documents - GENGLYCOS】
+L90: 
+L91: [Button: Feedback]
+L92: 
+L93:   * 【61†FDA Archive】
+L94:   * 【21†About FDA】
+L95:   * 【62†Accessibility】
+L96: 
+L97:   * 【63†Visitor Information】
+L98:   * 【64†Website Policies / Privacy】
+L99:   * 【65†No FEAR Act】
+L100:   * 【66†Vulnerability Disclosure Policy†www.hhs.gov】
+L101: 
+L102:   * 【67†FOIA】
+L103:   * 【68†HHS.gov†www.hhs.gov】
+L104:   * 【69†USA.gov†www.usa.gov】
+L105: 【6†Contact FDA】 【70†Follow FDA on Facebook†www.facebook.com】 【71†Follow FDA on X†x.com】 【72†Follow FDA on Instagram†instagram.com】
+L106: 【73†Follow FDA on LinkedIn†www.linkedin.com】 【74†View FDA videos on YouTube†youtube.com】 【75†Subscribe to FDA RSS feeds】
+L107: 
+L108: Contact Number 1-888-INFO-FDA (1-888-463-6332)
+L109: 
+L110: Back to Top
+--------------------------------------------------------------------------------
+KRESLADI | FDA (https://www.fda.gov/vaccines-blood-biologics/kresladi)
+citeturn60view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.fda.gov/vaccines-blood-biologics/kresladi","lineno":null}); Total lines: 111
+L0:   * 【0†Skip to main content】
+L1:   * 【1†Skip to FDA Search】
+L2:   * 【2†Skip to in this section menu】
+L3:   * 【3†Skip to footer links】
+L4: 
+L5: 【4†iframe†www.googletagmanager.com】
+L6: 
+L7:   *   Search
+L8:   *   Menu
+L9: 
+L10: Search FDA [Input: Search FDA] Submit search
+L11: 
+L12: ## Featured
+L13: 
+L14:   * 【5†Report a Product Problem†contact.fda.gov】
+L15:   * 【6†Contact FDA】
+L16:   * 【7†FDA Guidance Documents】
+L17:   * 【8†Recalls, Market Withdrawals and Safety Alerts】
+L18:   * 【9†Press Announcements】
+L19:   * 【10†Warning Letters】
+L20:   * 【11†Advisory Committees】
+L21:   * 【12†En Español】
+L22: ## Products
+L23: 
+L24:   * 【13†Food】
+L25:   * 【14†Drugs】
+L26:   * 【15†Medical Devices】
+L27:   * 【16†Radiation-Emitting Products】
+L28:   * 【17†Vaccines, Blood, and Biologics】
+L29:   * 【18†Animal and Veterinary】
+L30:   * 【19†Cosmetics】
+L31:   * 【20†Tobacco Products】
+L32: ## Topics
+L33: 
+L34:   * 【21†About FDA】
+L35:   * 【22†Combination Products】
+L36:   * 【23†Regulatory Information】
+L37:   * 【24†Safety】
+L38:   * 【25†Emergency Preparedness】
+L39:   * 【26†International Programs】
+L40:   * 【27†News and Events】
+L41:   * 【28†Training and Continuing Education】
+L42:   * 【29†Inspections and Compliance】
+L43:   * 【30†Science and Research】
+L44: ## Information For
+L45: 
+L46:   * 【31†Consumers】
+L47:   * 【32†Patients】
+L48:   * 【33†Industry】
+L49:   * 【34†Health Professionals】
+L50:   * 【35†Federal, State and Local Officials】
+L51: 
+L52:   * 【17†Vaccines, Blood, & Biologics】
+L53: 
+L54:     * 【36†Infectious Disease Tests】
+L55:     * 【37†CBER Reports】
+L56:     * 【38†Center for Biologics Evaluation and Research (CBER) Product Approval Information】
+L57:     * 【39†Fecal Microbiota Products】
+L58:     * 【40†Allergenics】
+L59:     * 【41†Blood & Blood Products】
+L60:     * 【42†Blood Donor Screening】
+L61:     * 【43†Cellular & Gene Therapy Products】
+L62:     * 【44†Development & Approval Process (CBER)】
+L63:     * 【45†Guidance, Compliance & Regulatory Information (Biologics)】
+L64:     * 【46†International Activities】
+L65:     * 【47†News & Events (Biologics)】
+L66:     * 【48†Resources for You (Biologics)】
+L67:     * 【49†Safety & Availability (Biologics)】
+L68:     * 【50†Science & Research (Biologics)】
+L69:     * 【51†Tissue & Tissue Products】
+L70:     * 【52†Vaccines】
+L71:     * 【53†Xenotransplantation】
+L72: # KRESLADI
+L73: 
+L74: STN: 125806
+L75: Proper Name: marnetegragene autotemcel
+L76: Tradename: KRESLADI
+L77: Manufacturer: Rocket Pharmaceuticals, Inc.
+L78: Indication:
+L79: 
+L80:   * For the treatment of pediatric patients with severe leukocyte adhesion deficiency-I (LAD-I) due to biallelic variants in ITGB2 without an available human leukocyte antigen (HLA)-matched sibling donor for allogeneic hematopoietic stem cell transplant.
+L81: 
+L82: ## Product Information
+L83: 
+L84:   * 【54†Package Insert - KRESLADI】
+L85: ## Supporting Documents
+L86: 
+L87:   * 【55†March 26, 2026 Approval Letter - KRESLADI】
+L88:   * 【56†March 26, 2026 Summary Basis for Regulatory Action - KRESLADI】
+L89:   * 【57†Letters, Reviews, Related Documents - KRESLADI】
+L90: 
+L91: [Button: Feedback]
+L92: 
+L93:   * 【58†FDA Archive】
+L94:   * 【21†About FDA】
+L95:   * 【59†Accessibility】
+L96: 
+L97:   * 【60†Visitor Information】
+L98:   * 【61†Website Policies / Privacy】
+L99:   * 【62†No FEAR Act】
+L100:   * 【63†Vulnerability Disclosure Policy†www.hhs.gov】
+L101: 
+L102:   * 【64†FOIA】
+L103:   * 【65†HHS.gov†www.hhs.gov】
+L104:   * 【66†USA.gov†www.usa.gov】
+L105: 【6†Contact FDA】 【67†Follow FDA on Facebook†www.facebook.com】 【68†Follow FDA on X†x.com】 【69†Follow FDA on Instagram†instagram.com】
+L106: 【70†Follow FDA on LinkedIn†www.linkedin.com】 【71†View FDA videos on YouTube†youtube.com】 【72†Subscribe to FDA RSS feeds】
+L107: 
+L108: Contact Number 1-888-INFO-FDA (1-888-463-6332)
+L109: 
+L110: Back to Top
+--------------------------------------------------------------------------------
+OTARMENI | FDA (https://www.fda.gov/vaccines-blood-biologics/otarmeni)
+citeturn60view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.fda.gov/vaccines-blood-biologics/otarmeni","lineno":null}); Total lines: 111
+L0:   * 【0†Skip to main content】
+L1:   * 【1†Skip to FDA Search】
+L2:   * 【2†Skip to in this section menu】
+L3:   * 【3†Skip to footer links】
+L4: 
+L5: 【4†iframe†www.googletagmanager.com】
+L6: 
+L7:   *   Search
+L8:   *   Menu
+L9: 
+L10: Search FDA [Input: Search FDA] Submit search
+L11: 
+L12: ## Featured
+L13: 
+L14:   * 【5†Report a Product Problem†contact.fda.gov】
+L15:   * 【6†Contact FDA】
+L16:   * 【7†FDA Guidance Documents】
+L17:   * 【8†Recalls, Market Withdrawals and Safety Alerts】
+L18:   * 【9†Press Announcements】
+L19:   * 【10†Warning Letters】
+L20:   * 【11†Advisory Committees】
+L21:   * 【12†En Español】
+L22: ## Products
+L23: 
+L24:   * 【13†Food】
+L25:   * 【14†Drugs】
+L26:   * 【15†Medical Devices】
+L27:   * 【16†Radiation-Emitting Products】
+L28:   * 【17†Vaccines, Blood, and Biologics】
+L29:   * 【18†Animal and Veterinary】
+L30:   * 【19†Cosmetics】
+L31:   * 【20†Tobacco Products】
+L32: ## Topics
+L33: 
+L34:   * 【21†About FDA】
+L35:   * 【22†Combination Products】
+L36:   * 【23†Regulatory Information】
+L37:   * 【24†Safety】
+L38:   * 【25†Emergency Preparedness】
+L39:   * 【26†International Programs】
+L40:   * 【27†News and Events】
+L41:   * 【28†Training and Continuing Education】
+L42:   * 【29†Inspections and Compliance】
+L43:   * 【30†Science and Research】
+L44: ## Information For
+L45: 
+L46:   * 【31†Consumers】
+L47:   * 【32†Patients】
+L48:   * 【33†Industry】
+L49:   * 【34†Health Professionals】
+L50:   * 【35†Federal, State and Local Officials】
+L51: 
+L52:   * 【17†Vaccines, Blood, & Biologics】
+L53: 
+L54:     * 【36†Infectious Disease Tests】
+L55:     * 【37†CBER Reports】
+L56:     * 【38†Center for Biologics Evaluation and Research (CBER) Product Approval Information】
+L57:     * 【39†Fecal Microbiota Products】
+L58:     * 【40†Allergenics】
+L59:     * 【41†Blood & Blood Products】
+L60:     * 【42†Blood Donor Screening】
+L61:     * 【43†Cellular & Gene Therapy Products】
+L62:     * 【44†Development & Approval Process (CBER)】
+L63:     * 【45†Guidance, Compliance & Regulatory Information (Biologics)】
+L64:     * 【46†International Activities】
+L65:     * 【47†News & Events (Biologics)】
+L66:     * 【48†Resources for You (Biologics)】
+L67:     * 【49†Safety & Availability (Biologics)】
+L68:     * 【50†Science & Research (Biologics)】
+L69:     * 【51†Tissue & Tissue Products】
+L70:     * 【52†Vaccines】
+L71:     * 【53†Xenotransplantation】
+L72: # OTARMENI
+L73: 
+L74: STN: 125874
+L75: Proper Name: lunsotogene parvec-cwha
+L76: Tradename: OTARMENI
+L77: Manufacturer: Regeneron Pharmaceuticals, Inc.
+L78: Indications:
+L79: 
+L80:   * For the treatment of pediatric and adult patients with severe-to-profound and profound sensorineural hearing loss (HL; any frequency >90 dB) associated with molecularly confirmed biallelic variants in the OTOF gene, preserved outer hair cell function, and no prior cochlear implant in the same ear.
+L81: 
+L82: ## Product Information
+L83: 
+L84:   * 【54†Package Insert - OTARMENI】
+L85: ## Supporting Documents
+L86: 
+L87:   * 【55†April 23, 2026 Approval Letter - OTARMENI】
+L88:   * 【56†April 22, 2026 Summary Basis for Regulatory Action - OTARMENI】
+L89:   * 【57†Letters, Reviews, and Related Documents - OTARMENI】
+L90: 
+L91: [Button: Feedback]
+L92: 
+L93:   * 【58†FDA Archive】
+L94:   * 【21†About FDA】
+L95:   * 【59†Accessibility】
+L96: 
+L97:   * 【60†Visitor Information】
+L98:   * 【61†Website Policies / Privacy】
+L99:   * 【62†No FEAR Act】
+L100:   * 【63†Vulnerability Disclosure Policy†www.hhs.gov】
+L101: 
+L102:   * 【64†FOIA】
+L103:   * 【65†HHS.gov†www.hhs.gov】
+L104:   * 【66†USA.gov†www.usa.gov】
+L105: 【6†Contact FDA】 【67†Follow FDA on Facebook†www.facebook.com】 【68†Follow FDA on X†x.com】 【69†Follow FDA on Instagram†instagram.com】
+L106: 【70†Follow FDA on LinkedIn†www.linkedin.com】 【71†View FDA videos on YouTube†youtube.com】 【72†Subscribe to FDA RSS feeds】
+L107: 
+L108: Contact Number 1-888-INFO-FDA (1-888-463-6332)
+L109: 
+L110: Back to Top
+

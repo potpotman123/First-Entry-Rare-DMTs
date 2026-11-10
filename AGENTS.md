@@ -1,6 +1,6 @@
 # Research working instructions
 
-This private repository studies preapproval sales forecasts for first rare-disease DMTs and implications for CMP-002 in SYNGAP1-related disorder. Read README.md, context/handoff.txt, the current assessment, protocol, and relevant evidence before extending the work.
+This public repository studies preapproval sales forecasts for first rare-disease DMTs and implications for CMP-002 in SYNGAP1-related disorder. Read README.md, context/handoff.txt, the current assessment, protocol, and relevant evidence before extending the work.
 
 - Treat systematic underforecasting and CAMP undervaluation as hypotheses, not required conclusions.
 - Keep the historical study separate from the independent CMP-002 revenue forecast and valuation project.
@@ -15,6 +15,6 @@ This private repository studies preapproval sales forecasts for first rare-disea
 - Prefer bounded, targeted research and original sources. Ask before paid access, bulk scraping, large OCR or materially expensive fitting. Do not initiate outreach without explicit authorization.
 - Do not launch agents or change model settings without applicable user authorization.
 - Preserve concise durable state, source provenance, unresolved issues and the next highest-value step. Avoid duplicative reports.
-- The user explicitly requested saving this project's research and supplied sources to this repository. Preserve its private visibility; do not publish it publicly or change sharing.
+- On 9 November 2026, the user explicitly instructed: "Keep it public and save everything, including the sell-side context." This supersedes the earlier private-only instruction. Preserve public visibility and save all project research, supplied sources and sell-side context here. Do not change sharing without a new user instruction.
 
 Use work/ for scratch files. Keep deliverables in reports/, records in data/, source originals and metadata in sources/, reproducible code in scripts/, and methods in protocol/.

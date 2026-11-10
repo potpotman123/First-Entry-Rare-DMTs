@@ -1,0 +1,13 @@
+INDEPENDENT UNIVERSE REBUILD — 9 November 2026
+
+Triggered by the user's explicit request to rerun the original extensive assignment independently. Prior cases and outcomes are already known, so this is a source-independent reconstruction, not blinded preregistration. The supplied internal deck is contextual and cannot be an inclusion criterion or discovery source for this reconstruction.
+
+Source frame: FDA Orphan Drug Designations and Approvals, CDER original-approval compilation 1985–2025, and CBER cellular/gene therapy approvals. Primary period 2000–2025; earlier landmark approvals and 2026 approvals separate. Prefer one official structured export per frame rather than mass page retrieval. Screen product–indication records, retaining exclusion reasons. Orphan designation alone is not proof of first-DMT status.
+
+Selection proceeds in order: regulatory universe; therapeutic-area and prior-care screen; first-status/DMT adjudication; CMP-002 relevance; then historical sales/forecast retrieval. Relevance uses separate qualitative dimensions (biology/development, age/irreversibility, diagnosis, administration, commercial exposure) with no fitted score. No commercial outcome enters selection. Retain failures, withdrawals, immature launches and unavailable forecasts in the ledger.
+
+Primary estimand, forecast-vintage window, 36-/60-month horizons, geography/indication/risk rules and separation of realized errors/revisions/mechanisms remain as specified in protocol v1 and its first amendment. Missing original forecasts do not remove a scientifically eligible candidate. No later disease indications enter the main comparison. Clinical first status may differ from first licensed medicine when diet, transplant or off-label DMT preceded it.
+
+Definitions: first approved DMT = first US-approved disease-targeted intervention with launch-time evidence of altering disease course/pathophysiology; first disease-specific treatment = approved indication-specific intervention without clear DMT evidence; first-in-class = novel pharmacologic mechanism, not necessarily first DMT; replacement/restorative/potentially curative describes intervention type and does not by itself establish commercial comparability.
+
+If complete registry reconciliation is not possible, report the actual retrieved sampling frame and explicit gaps. Do not claim an exhaustive first-DMT universe from a handpicked list. Prospectively freeze the prioritized list before extracting new forecast outcomes. Build source and search-access records, outcome-independent analogue matrix, case evidence, transferability, claims table, and exact missing-data requests. Archive the previous assessment, preserve supplied work, and write this reconstruction as a new version.

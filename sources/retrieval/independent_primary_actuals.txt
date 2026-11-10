@@ -1,0 +1,58 @@
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1048477/000119312508040467/d10k.htm)
+citeturn59view0 [wordlim: 200] Crawled: 4 days ago; Content type: text/html; Source: open({"ref_id":"https://www.sec.gov/Archives/edgar/data/1048477/000119312508040467/d10k.htm","lineno":null}); Total lines: 8698
+L0: 10-K 1 d10k.htm FORM 10-K Form 10-K
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/732485/000104746908002100/a2182799z10-k.htm)
+citeturn59view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.sec.gov/Archives/edgar/data/732485/000104746908002100/a2182799z10-k.htm","lineno":null}); Total lines: 1475
+L0: 10-K 1 a2182799z10-k.htm 10-K
+L1: 
+L2: Use these links to rapidly review the document
+L3: 【0†TABLE OF CONTENTS】
+L4: 【1†PART IV】
+L5: 【2†(a)(2). FINANCIAL STATEMENT SCHEDULES】
+L6: 
+L7: * * *
+L8: 
+L9: * * *
+L10: 
+L11: UNITED STATES
+L12: SECURITIES AND EXCHANGE COMMISSION
+L13: Washington, D.C. 20549
+L14: 
+L15: * * *
+L16: 
+L17: FORM 10-K
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/936402/000095010308000425/dp08699_ex9901.htm)
+citeturn59view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.sec.gov/Archives/edgar/data/936402/000095010308000425/dp08699_ex9901.htm","lineno":null}); Total lines: 1411
+L0: EX-99.1 2 dp08699_ex9901.htm
+L1: 
+L2: 
+L3: 
+L4: EXHIBIT 99.01
+L5: 
+L6: 
+L7: 
+L8: Hampshire International Business Park Chineham  Basingstoke Hampshire RG24 8EP United Kingdom Tel +44 (0)1256 894000 Fax +44 (0)1256 894708 www.shire.com  | 【0†Image】
+L9:    |
+L10: Press Release  |
+L11: 
+L12: 
+L13: 
+L14: Excellent performance across all areas of the business and accelerating new product sales drive revenue growth of 36%
+--------------------------------------------------------------------------------
+alxn-20201231 (https://www.sec.gov/Archives/edgar/data/899866/000089986621000014/alxn-20201231.htm)
+citeturn59view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.sec.gov/Archives/edgar/data/899866/000089986621000014/alxn-20201231.htm","lineno":null}); Total lines: 5942
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1048477/000119312508040467/d10k.htm)
+citeturn59view4 [wordlim: 200] Crawled: 4 days ago; Content type: text/html; Source: find({"ref_id":"https://www.sec.gov/Archives/edgar/data/1048477/000119312508040467/d10k.htm","pattern":"86.2"}); Total lines: 8698
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/732485/000104746908002100/a2182799z10-k.htm)
+citeturn59view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.sec.gov/Archives/edgar/data/732485/000104746908002100/a2182799z10-k.htm","pattern":"200.7"}); Total lines: 1475
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/936402/000095010308000425/dp08699_ex9901.htm)
+citeturn59view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.sec.gov/Archives/edgar/data/936402/000095010308000425/dp08699_ex9901.htm","pattern":"181.8"}); Total lines: 1411
+--------------------------------------------------------------------------------
+alxn-20201231 (https://www.sec.gov/Archives/edgar/data/899866/000089986621000014/alxn-20201231.htm)
+citeturn59view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.sec.gov/Archives/edgar/data/899866/000089986621000014/alxn-20201231.htm","pattern":"patient growth"}); Total lines: 5942
+

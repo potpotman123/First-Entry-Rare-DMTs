@@ -1,35 +1,23 @@
-CURRENT HANDOFF — 9 November 2026
+CURRENT HANDOFF — INDEPENDENT REBUILD, 9 November 2026
 
-Repository: https://github.com/potpotman123/First-Entry-Rare-DMTs
-Local checkout: /Users/kwu/Documents/Codex/First-Entry-Rare-DMTs
-User explicitly authorized saving the project's work and context here. Keep repository private. No agents or paid/bulk work without applicable user authorization.
+User asked to independently rebuild the original extensive investigation, using prior work only as context. Source-independent, not blinded: earlier outcomes were already known. User explicitly authorized keeping potpotman123/First-Entry-Rare-DMTs public and saving everything, including supplied sell-side material and context, on 9 November 2026. This supersedes the earlier private-only instruction; the upload hold is resolved. No paid collection, outreach or agents were used.
 
-Original question: do preapproval forecasts systematically underestimate approval-conditional revenue for first rare-disease DMTs? Focus on CMP-002/SYNGAP1 implications. No later disease indications. Primary endpoint remains matched first 36 commercial months; 60 months secondary. Keep the independent CAMP valuation project separate.
+Start with reports/independent_research.html and data/independent/evidence.json. Earlier reports and supplied-source audit remain intact. This remains the historical forecast study, not a completed independent CMP-002 valuation.
 
-Latest materials reviewed: eight current CAMP sell-side reports and a 16-page prior internal analysis. The PDF originals and two task briefs are in sources/user-provided/. All substantive appendix pages were visually read. Text extraction alone misses embedded screenshots; use the audit JSON and original PDF for appendix content.
+FRAME: 1,387 CDER original approvals (1985–2025) + 55 current CBER cell/gene entries = 1,442 explicit provisional row dispositions. 924 CDER approvals in 2000–2025, including 380 with original orphan designation (partial designations retained). Primary clinical candidate/control groups: 27 first-approved-DMT candidates, 38 prior-care boundaries, 17 adjacent/DMT-uncertain = 82. Add 13 pre-2000 precedents and four verified 2026 entrants = 99 extended candidates. Not an exhaustive rare-DMT census. OOPD export failed; retained HTML is the returned search form, not data. Non-NMEs, supplements, no-original-orphan and historical CBER gaps remain. Current CBER excluded product dates are deliberately null where not checked.
 
-Current conclusion: no systematic bias established. The prior deck itself reaches no clear directional trend. It materially improves source leads and mechanism hypotheses. Strict cumulative N remains 0 because original annual curves/scope are not reconciled. Do not let N=0 imply the historical cases are uninformative.
+NEW EVIDENCE: original Yaron Werber / SG Cowen Jan2004 Nature Reviews Drug Discovery article, DOI10.1038/nrd1286, Table1 p.10. Entire 8-product table preserved. Three then-unapproved products forecast 2007 sales: Naglazyme30m, Myozyme65m, I2S/Elaprase30m. Primary actuals86.2m,200.7m,181.8m; raw differences+187.33%,+208.77%,+506%. Unknown PoS and geography/revenue-owner scope; no normalized beat claim. Break-even hypothetical scalar PoS34.80%,32.39%,16.50%. Article describes most Hunter patients already diagnosed, so diagnosis-only explanation is not supported. All three share analyst/vintage, not independent Street confirmations.
 
-Important new findings:
-- Deck uses compiler-declared non-probability-adjusted estimates; preserve that evidence. Evrysdi 90% PoS reference needs original-model resolution.
-- Some prelaunch ranges include postapproval estimates, especially Spinraza $1.6bn in Sep 2017 and Zolgensma $2.8bn in Aug 2019.
-- Strensiq p.4 range $0.5–1bn omits a p.7 BofA $1.6bn estimate dated Sep 30, 2014.
-- Original-model screenshot: Credit Suisse Jan 19, 2016 Strensiq population under 18 despite broader label; postapproval mechanism evidence. Label is pediatric onset, not necessarily pediatric age when treated.
-- Exploratory Strensiq check: deck-reported CS Sep 2, 2014 forecast $500m for 2020; primary 2020 actual $731.8m (+46.36%). Forecast authenticity/geography/risk still unresolved.
-- Exploratory Zolgensma check: deck-reported Jefferies Apr 24, 2019 $2.6bn for 2024; primary actual $1.214bn (-53.31%). IV/IT scope unresolved; fast follower, not first DMT.
-- Crysvita TIO violates strict no-later-indication scope without allocation; 9k US vs 36k global adult populations are different denominators.
-- Zolgensma original route is IV, not IT. Future IV/IT franchise models need matching. 2025 Novartis Zolgensma Group label may differ from original IV product scope.
-- Skyclarys high discontinuation claims from selected practices cannot supply general persistence assumptions. Original CHOP observational table shows 207 remaining and 21 permanent discontinuations with varied follow-up, a different population/endpoint. Direct PMC access challenged; indexed primary table retrieved.
-- SMA Roche/Chugai sales need revenue-owner reconciliation before summation; market-size accuracy cannot be inferred from product peaks forecast at different dates.
+NEW COUNTERCASES: Vimizim Nov21 2013 quotation of Bloomberg analysts416m annual sales by2017; actual413.251m (−0.66%). Kanuma Reuters May6 2015 quoting Cortellis603m in2020; actual117.9m (−80.45%). Original source calls it peak in specified2020; no annual curve reconstructed. Cortellis composition not verified pure sellside. Company >1bn ambition is separate. Alexion2020 impairment note explicitly cites patient-growth difficulty and commercial reprioritization; do not assign entire forecast gap causally to diagnosis.
 
-Current CAMP benchmark:
-Needham conditional peak $2.106bn in 2046; launch 2032 US/2033 ROW; diagnosis 15% to 50%; 50% penetration of diagnosed; 75% adherence/persistence; 15% GTN; launch WAC $575k, 3% annual price growth. PoS25% is valuation-only. Don't divide sales again. P.26/27/29 have unresolved peak-year/value and price discrepancies. Current economic share count ~90.683m includes pre-funded warrants, versus common-only ~62.754m; Needham diluted valuation uses 98m.
+STRICT ESTIMAND: first36 commercial months,60 secondary, known conditionality and matched original disease/geography/owner/currency. Strict N=0. Five new annual target-year checks are exploratory and all outside9–15-month primary-vintage window. No pooled beat rate/bias/p-value. Missing is not zero. Earlier verified Spinraza/Brineura/etc sources reused after independent selection, not counted as new discoveries.
 
-Next highest-value source requests:
-1. Credit Suisse Strensiq Sep 2, 2014 and Jan 19, 2016; BofA Sep 30, 2014 (range reconciliation).
-2. Credit Suisse Spinraza Jan 19, 2016 (primary-vintage lead).
-3. Credit Suisse Crysvita Jan 17, 2018 and Wedbush Mar 7, 2018 (age/mix/net price; XLH-only scope).
-4. Original Givlaari and Skyclarys preapproval models plus subsequent same-analyst revisions (diagnosis and continuation countercases).
-5. Jefferies Zolgensma Apr 24, 2019 and Bernstein Evrysdi Jul 22, 2020 (IV/IT and PoS/FX resolution).
+ANALOGUES: Spinraza/Brineura strongest mature repeated-CNS guides; older ERTs patient-finding/territory/exposure guides; Ztalmy/Daybue adjacent genetic neurodevelopmental commercial care; Nulibry/Lenmeldy/Kebilidi age/function windows with sparse or immature commercial data. Myalept approximately30% 2015GTN (27points Medicaid) is a historical case, not a transferableASO rate. Arcalyst2010sales25.3m includes4.8m deferred recognition. Twenty structured dossiers separate facts, mechanism hypotheses, alternatives, CMP use and missing records. Some remain clinical-screen only, clearly marked.
 
-Do not repeat broad public searches for peak-sales headlines. Obtain original annual curves, then matched actuals. Follow the explicit amendment: realized errors, revisions and mechanisms are separate tracks. Keep frozen initial outputs in archive; update current evidence, conclusions and this handoff as new records arrive.
+CMP context: Nov5 2026 primary company update still plans first dosing year-end; no established human efficacy. Trial age/genotype/seizure restrictions are not future label or full TAM. Needham already models diagnosis15→50%,penetration50%,persistence75%,GTN15%;PoS25%valuation-only. Historical cases cannot establish CAMP undervaluation or supply a generic sales uplift.
+
+NEXT BEST REQUESTS: underlying SG Cowen2004 annual models and independent banks at primary vintages; BloombergVimizim2013 and CortellisKanuma2015 constituents; Spinraza2015–2016/Brineura2016–2017 original curves. Exact field list in report. Complete regulatory denominator through OOPD/non-NME/historicalCBER only when usable access exists. Do not repeat generic peak-sales searches.
+
+CHECKS: 55 arithmetic/provenance/eligibility/export checks passed. Browser visual preview of local HTML was blocked by URL policy; no workaround attempted. Structural HTML links/anchors and generated data validated. Original Werber source table was visually checked earlier. No full report browser-render inspection is claimed.
+
+DENOMINATOR CAUTION: source censusMarch2024 counted1,400global/401US, not2026prevalence. The cited modeled6.107per100k births includes0.787truncating/5.320missense; cannot assume the total is eligible for the truncating-variant ASCEND trial. Accessible-US population matching remains explicitly unknown across cases. StokeAug2026SYNGAP1leadoptimization verifies competitive uncertainty. Officialtrialregistry not independently reconciled. CSV exports forforecast/actuals,analoguematrix andfullscreen added.

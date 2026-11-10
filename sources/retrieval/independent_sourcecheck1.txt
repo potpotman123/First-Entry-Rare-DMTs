@@ -1,0 +1,24 @@
+Alexion bolsters rare disease drugs business with $8.4 billion deal By Reuters (https://uk.investing.com/news/stock-market-news/alexion-pharma-to-buy-synageva-biopharma-for-%248.4-billion-47702 ; rewritten summary of https://uk.investing.com/news/stock-market-news/alexion-pharma-to-buy-synageva-biopharma-for-$8.4-billion-47702)
+citeturn51view0 [wordlim: 200] Crawled: 2 months ago; Content type: text/html; Source: open({"ref_id":"https://uk.investing.com/news/stock-market-news/alexion-pharma-to-buy-synageva-biopharma-for-%248.4-billion-47702","lineno":null}); Redirected to URL: https://uk.investing.com/news/stock-market-news/alexion-pharma-to-buy-synageva-biopharma-for-$8.4-billion-47702; Total lines: 690
+L0: Open in App
+L1: 
+L2: [Input: Search the website...]
+L3: 
+L4: #### Popular Searches
+--------------------------------------------------------------------------------
+Vimizim panel nod fuels new BioMarin buyout buzz | Fierce Pharma (https://www.fiercepharma.com/m-a/vimizim-panel-nod-fuels-new-biomarin-buyout-buzz)
+citeturn51view1 [wordlim: 200] Crawled: 2 months ago; Content type: text/html; Source: open({"ref_id":"https://www.fiercepharma.com/m-a/vimizim-panel-nod-fuels-new-biomarin-buyout-buzz","lineno":null}); Total lines: 33
+L0: 【0†Subscribe】
+L1: 
+L2: 【1†Image: Hamburger Menu】 【2†Image: Hamburger Menu】
+L3: 
+L4: [Input: Search]
+L5: 
+L6: 【3†Deals】
+--------------------------------------------------------------------------------
+alxn-20201231 (https://www.sec.gov/Archives/edgar/data/899866/000089986621000014/alxn-20201231.htm)
+citeturn51view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.sec.gov/Archives/edgar/data/899866/000089986621000014/alxn-20201231.htm","lineno":null}); Total lines: 5942
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1048477/000156459018003114/bmrn-10k_20171231.htm)
+citeturn51view3 [wordlim: 200] Crawled: last week; Content type: text/html; Source: find({"ref_id":"https://www.sec.gov/Archives/edgar/data/1048477/000156459018003114/bmrn-10k_20171231.htm","pattern":"413."}); Total lines: 4396
+

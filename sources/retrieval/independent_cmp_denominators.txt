@@ -1,0 +1,193 @@
+Roadmap to advance therapeutics for SYNGAP1-related disorder: a patient organization perspective from SynGAP Research Fund - PMC (https://pmc.ncbi.nlm.nih.gov/articles/PMC11726535/)
+citeturn70view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://pmc.ncbi.nlm.nih.gov/articles/PMC11726535/","lineno":155}); Total lines: 909
+L123: With a young patient population, most often diagnosed by pediatric neurologists, there is a need to characterize the clinical features of SRD adults to understand the disease’s progression. To date, Rong et al.^{ 【31†10】 } (n = 14) is the only dedicated publication of SRD adults, reporting:
+L124: 
+L125:   * Almost all adult patients depend on caregivers for many activities of daily living.
+L126: 
+L127:   * 71% continue to have seizures.
+L128: 
+L129:   * Aggression and self-injurious behaviors are major management challenges.
+L130:   * 50% of adults can ambulate with minimal or no assistance.
+L131: 
+L132: Publications related to the clinical features of SRD are summarized in 【32†Table 1】, highlighting number of patients per study (n), and focus of clinical description.
+L133: ### Table 1.
+L134: 
+L135: Overview of publications reporting clinical features in SRD.
+L136: First author  | N  | Clinical focus  | Title  | Conclusion
+L137: --- | --- | --- | --- | ---
+L138: Hamdan et al. (2009)^{ 【22†3】 }  | 3  | ID  | Mutations in SYNGAP1 in autosomal nonsyndromic mental retardation  | De novo truncating disruptions of the SYNGAP1 gene cause ADID5 (SRD)
+L139: Pinto et al. (2010)^{ 【33†11】 }  | 1  | ASD, ID  | Functional impact of global rare copy number variation in autism spectrum disorders  | SHANK2, SYNGAP1, and DLGAP2 are ASD loci in PSD. ID genes important in ASD
+L140: Savelieva et al. (2018)^{ 【34†12】 }
+L141: Russian Language  | 1  | Epilepsy  | A clinical case of SYNGAP1-associated encephalopathy in a girl with epilepsy, ID, and autism  | Valproic acid and oxcarbazepine were the most effective treatment for her epilepsy
+L142: Andreas-Jimenez et al. (2019)^{ 【28†8】 }  | 15  | ASD, Behaviors  | Phenotypic characterization of individuals with SYNGAP1 pathogenic variants reveals a potential correlation between posterior dominant rhythm and developmental progression  | Added abnormal posterior dominant rhythm on EEG correlated with abnormal developmental progression, providing a possible prognostic biomarker
+L143: Satterstrom et al. (2020)^{ 【35†13】 }  |  | ASD  | Large-scale exome sequencing study implicates both developmental and functional changes in the neurobiology of autism  | Developmental neurobiology of ASD
+L144: Cetin et al. (2020)^{ 【36†14】 }  | 1  | ID, ASD, Epilepsy  | SYNGAP1 mutation in a pediatric patient with autism spectrum disorder and intellectual disability  | SYNGAP1 plays role in etiological background of ASD, ID, and epilepsy
+L145: Smith-Hicks et al. (2021)^{ 【37†15】 }  | 64  | Sleep  | Sleep abnormalities in the synaptopathies—SYNGAP1-related intellectual disability and Phelan–McDermid syndrome  | Improved sleep is a viable endpoint for future clinical trials in SRD and Phelan–McDermid
+L146: Zhang et al. (2021)^{ 【38†16】 }  | 13  | Epilepsy, DD  | Phenotypes in children with SYNGAP1 encephalopathy in China  | SRD onset is infancy, highly drug-resistant seizures. Consider Anti-epileptic Drugs with abnormal EEGs
+L147: Wright et al. (2022)^{ 【39†17】 }  | 27  | Behaviors  | Clinical and behavioral features of SYNGAP1-related intellectual disability: a parent and caregiver description  | Insights and implications for diagnosis and care
+L148: Fu et al. (2022)^{ 【40†18】 }  |  | ASD  | Rare coding variation provides insight into the genetic architecture and phenotypic context of autism  | SYNGAP1 was fourth-most prevalent gene of 72 genes associated with ASD
+L149: Wang et al. (2022)^{ 【41†19】 }  | 10  | ID, DD, Epilepsy  | Phenotype and genotype analyses of Chinese patients with autosomal dominant MRD5 caused by SYNGAP1 gene mutations  | Five novel genetic mutations found; helps explore genotype-phenotype, contributes to genetic counseling and therapeutic intervention
+L150: Layne et al. (2022)^{ 【42†20】 }  | 1  | Gait  | Comparison of Treadmill Gait between a pediatric-aged individual with SYNGAP1-related intellectual disability and a fraternal twin  | Strong quantitative appraisal of gait in an individual as well as an analysis pathway for future investigations
+L151: Rong et al. (2023)^{ 【31†10】 }  | 14  | Adult  | Adult phenotype of SYNGAP1-DEE  | Clinical descriptions of adults
+L152: Paasch et al. (2023)^{ 【43†21】 }  | 21  | Sleep  | An exploratory study of sleep quality and quantity in children with causal variants in SYNGAP1, an autism risk gene  | CSHQ may be reliable measure; sleep anxiety, parasomnias, and difficulty winding-down significant contributors to sleep disturbances
+L153: Bednarczuk et al. (2023)^{ 【44†22】 }  | 13  | ID, DD,  | Behavioral and neurodevelopmental characteristics of SYNGAP  | SRD associated with fine motor and language difficulties beyond children with other genetic causes of DD and ID
+L154: Naveed et al. (2023)^{ 【45†23】 }  | 32  | Social behavior  | Social behavioral impairments in SYNGAP1-related intellectual disability  | Significant impairment in reciprocal social behaviors is highly prevalent in SRD
+L155: Gupta, et al. (2023)^{ 【46†24】 }  | 1  | Sleep  | Case Report: Off-label use of low-dose perampanel (PER) in a 25-month-old girl with pathogenic SYNGAP1 variant  | Validate gamma dysregulation as a potential EEG biomarker; explore low-dose PER as a therapeutic option.
+L156: Thomas et al. (2023)^{ 【47†25】 }  | 11  | ASD, Behaviors  | Severe behavior problems in SYNGAP1-related disorder: A summary of 11 consecutive patients in a tertiary care specialty clinic  | Highlight severe behavior problems as SRD phenotype
+L157: Lopez-Moreno et al. (2024)^{ 【48†26】 }  | 1  | Epilepsy  | Epileptic and neurodevelopmental encephalopathy associated with SYNGAP1 mutation: Description of a case and treatment response to cannabidiol  | Compassionate use of cannabidiol may be an effective treatment for SRD
+L158: Wiltrout et al. (2024)^{ 【49†27】 }  | 147  | SRD health records  | Comprehensive phenotypes of patients with SYNGAP1-related disorder reveals high rates of epilepsy and autism  | The data validate the use of citizen’s digital registry
+L159: 【50†Open in a new tab】
+L160: 
+L161: SRD, SYNGAP1-related disorder.
+L162: Based on SRD patient medical record data and healthcare claim data, the team led by Dr. Jillian McKee at Children’s Hospital of Philadelphia has presented the two largest cohorts of SRD patient data to date with a focus on epilepsy (n = 155)^{ 【51†28】 } and other clinical features (n = 246)^{ 【52†29】 } using novel data-driven approaches. Multiple new insights are presented in rich graphical summaries displayed in two posters at the 2023 American Epilepsy Society meeting.
+L163: One example of an easily grasped visual description describes the onset of symptoms relative to age, based on clinical reports.
+L164: ### SYNGAP1-related disorder patient numbers
+L165: #### A critical question is, How many SRD patients are there?
+L166:   1. The first insight comes from the answer to the question, How many patients can we count? The Syngap Global Network, a collection of collaborative SYNGAP1 Patient Advocacy Groups (PAGs) from around the world, publishes a census every quarter. The March 31, 2024 SYNGAP1 Census^{ 【53†30】 } identifies 1400 patients from 61 countries (【54†Figure 2】), but this number is known to be low, as only patients known to the PAGs are counted.
+L167: From our own experiences as families, we know that our disease takes a long time to get diagnosed, can be misdiagnosed, is ultrarare, occurs in adults as well as children, and as a de novo heterozygous haploinsufficiency is sporadic, so it is spread over the globe. Despite the difficulties in obtaining an accurate count of patients, the steady growth of this number is notable.
+L168:   2. Next, we consider the research that shows how many SRD patients occur in cohorts of people with common SRD symptoms. The data from cohort studies can be used to extrapolate the total patient population whether diagnosed or not, whereas counting does not address the undiagnosed population.【55†Table 2】 lists data showing that SRD patients are present in both ID and epilepsy patient cohorts. Based on these numbers, we expect many more SRD diagnoses than the 401 patients counted in the United States.
+L169: It is easy to conclude that there are a large number of undiagnosed patients. Studies on cohorts of patients with ID from 2009 to 2020 found 1%–6% had a pathogenic variant of SYNGAP1. The aggregate among all studies is 1.7% (【55†Table 2】). These studies have led to the established belief that ‘SynGAP mutations are estimated to underlie approximately 1% of all intellectual disabilities and are associated with epileptic encephalopathies.’^{ 【49†27】 }
+L170:   3. Incidence estimates for the 100 most common neurodevelopmental disorders (NDDs) caused by de novo variants are reported in the Supplementary Materials of a paper from Lopez-Rivera et al.^{ 【56†31】 } There, it is predicted that the incidence for SRD is 6.107 in 100,000 births. This prediction of pathogenic variant incidence is an aggregate for de novo protein truncating variants (at 0.787 in 100,000 live births) and de novo missense variants (at 5.320 in 100,000 births).
+L171: From the clinical record data aggregated for SRD at Citizen Health, a secure online platform used to compile and store medical records (【57†Table 3】), we know that protein-truncating variants outnumber pathogenic missense variants for the currently diagnosed population. We see about 80% of the disease variants are considered haploinsufficient; ~12% are missense or small in-frame indels, requiring assays to understand the consequence of each individual variant.
+L172: The 8:1 ratio of protein-truncating variants to missense variants seen in our patient population does not reflect the ratio of 1:6 ration of protein truncating variants to missense variants predicted in Lopez-Rivera et al.
+L173:   4. Where might the rest of the predicted missense variants be? While a few patients with variants of uncertain significance (VUS) are in the Citizen Health cohort, the number of missense variants in de-identified lists of VUS from a few diagnostic labs (personal communication) is several times higher than all known US protein-truncating alleles, suggesting that even with current genetic testing rates, more patients will be identified with better VUS resolution tools.
+L174: ##### Figure 2.
+L175: 
+L176: 【58†Open in a new tab】
+L177: 
+L178: Patient counts from the SYNGAP1 census.
+L179: 
+L180: X-axis, dates from second quarter 2019 (2q19) to fourth quarter 2023 (4q23). Y-axis, number of patients counted in the global SYNGAP1 census.
+L181: ##### Table 2.
+L182: 
+L183: Incidence of SYNGAP1 pathogenic variants in ID and Epilepsy Cohort Studies.
+L184: Patient ascertainment criteria  | % SYNGAP1 finding in Cohort  | Fraction SYNGAP1  | First author
+L185: --- | --- | --- | ---
+L186: NSID【59†^{*}】  | ~3%  | 3/94  | Hamdan^{ 【22†3】 }
+L187: NSID【59†^{*}】  | ~5%  | 9/186  | Berryer^{ 【60†32】 }
+L188: ID  | ~2%  | 3/151  | Samocha^{ 【61†33】 }
+L189: Developmental Disorders  | 0.6%  | 7/1,133  | Wright^{ 【62†34】 }
+L190: Invitae CNV【59†^{**}】 Panel  | 2%  | 39/1943  | Truty^{ 【63†35】 }
+L191: Epilepsy + ID  | 0.50%  | 1/200  | Johannesen^{ 【64†36】 }
+L192: Summing Incidences  | 1.7%  | 62/3,707  | (This paper)
+L193: 【65†Open in a new tab】
+L194: 
+L195: ^{*}
+L196: 
+L197: NSID, nonsyndromic ID, **CNV, copy number variant.
+L198: ##### Table 3.
+L199: 
+L200: Variant types in the first 195 SRD patients in the Citizen Health cohort.
+L201: Variant type  | Percentage of cohort (%)  | No of variants  | Predicted consequence  | Disease model
+L202: --- | --- | --- | --- | ---
+L203: Gene deletion  | 2  | 4  | Null allele  | Haploinsufficiency 81.5%
+L204: Insertion of exon  | 0.5  | 1  | Protein truncating variant: expected null  |
+L205: Frameshift  | 39.5  | 77  |  |
+L206: Nonsense  | 30.8  | 60  |  |
+L207: Intronic  | 8.7  | 17  |  |
+L208: Small in-frame indel  | 1.0  | 2  | Full-length protein expected  | Each variant determined individually 17.9%
+L209: Missense, PLP【66†^{*}】  | 11.3  | 22  |  |
+L210: Missense, VUS【66†^{*}】
+L211:    | 5.6  | 11  |  |
+L212: Full gene duplication  | 0.5  | 1  | Expect extra protein  | Overexpression? 0.5%
+L213: Total  | 100  | 195  |  | 100%
+L214: 【67†Open in a new tab】
+L215: 
+L216: ^{*}
+L217: 
+L218: PLP, Pathogenic or Likely Pathogenic; VUS, Variant of Uncertain Significance.
+L219: #### Why should we prioritize finding undiagnosed patients?
+L220: Expanded genetic testing for epilepsy, ID, and autism at all ages is required to find the patients. Identifying and observing more patients will aid in developing appropriate therapeutic drugs. Under current standards of care, expanded genetic testing is most likely to be initiated after one or more disease-modifying treatments for SRD are available and affordable, yet creating and approving those drugs requires more identified patients.
+L221: Will treatments come before increased diagnosis, or will increased diagnosis come before disease-modifying treatments? We believe that equitable healthcare demands more genetic testing for underserved populations, including those with severe behaviors and ID. Increased diagnoses for all people with severe developmental disabilities will accelerate treatments for all.
+L222: ## SynGAP Research Fund and the global SYNGAP1 patient community
+L223: 
+L224: SynGAP Research Fund has worked to ensure that the broad SYNGAP1 patient community is well organized, effectively engaged, and motivated to partner with industry to accelerate treatments for SRD.
+L225: ### Fundraising and grant making
+L226: The SynGAP Research Fund was founded by the parents of an SRD patient diagnosed in early 2018. The patient has an intronic mutation,^{ 【68†37】 } and the parents quickly realized the tremendous gaps in scientific understanding of how the SYNGAP1 gene works and how to meaningfully improve the lives of patients. As the name implies, the parents’ vision was that SynGAP Research Fund (SRF) would primarily fund scientific research.
+L227: The story of SRF and its founders is described in various articles^{【69†38】 –【70†41】} and podcasts.^{【71†42】,【72†43】}
+L228: SRF was incorporated on June 27, 2018, and granted 501(c)(3) status less than a year later.^{ 【73†44】 } At the end of 2023, after the first 5 years of work, SRF delivered quantifiable results^{ 【74†45】 } including having committed over $5M to research in 44 different grants, ranging from $5000 to $500,000.
+L229: SRF expanded the scale and scope of grant making from initial grants to develop a therapeutic treatment based on antisense oligomer technology to the broad array of topics required to deliver disease-modifying therapies to SRD patients. The categories are summarized in 【75†Table 4】.
+L230: #### Table 4.
+L231: 
+L232: Categories of SRF Grantmaking.
+L233: Category  | Description
+L234: --- | ---
+L235: New Therapies to Cure SRD  |  | Develop novel targeted genetic therapies to directly affect the deficiency of SYNGAP1 protein in patients.
+L236: Basic
+L237: science  | Develop reagents  | Create and share tools based on patient-derived variants for academic and industry partners, to increase relevance to therapeutics, lower cost, and speed progress.
+L238:  | UnderstandSYNGAP1  | Study SYNGAP1 to understand how, when, and where a single copy is not enough and to find ways to meaningfully modify the disease.
+L239:  | Missense  | Determine how missense mutations cause disease and develop tests to assess the impact of each missense mutation. Develop treatments.
+L240: Clinical
+L241: trial readiness  | Patients  | Describe the natural history of disease and impact on both patients and families to improve current clinical care and inform upcoming clinical trials.
+L242:  | Endpoints  | Develop multiple measurable outcomes across patient abilities and ages that are appropriate for SRD patients in trials (n = 1 to many).
+L243:  | Clinical Network  | Expand a network of collaborative multidisciplinary clinics that can offer informed care to patients and will be prime candidates for clinical trial sites.
+L244: Small molecule repurposing  | Identify FDA-approved small molecules that can improve the life of patients by either improving symptoms of SRD or increasing SYNGAP1 expression.
+--------------------------------------------------------------------------------
+Stoke Therapeutics Announces Second Quarter 2026 Financial Results and Provides Business Updates - Stoke Therapeutics (https://stoketherapeutics.gcs-web.com/news-releases/news-release-details/stoke-therapeutics-announces-second-quarter-2026-financial)
+citeturn70view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://stoketherapeutics.gcs-web.com/news-releases/news-release-details/stoke-therapeutics-announces-second-quarter-2026-financial","lineno":120}); Total lines: 284
+L93: “With no treatment discontinuations to date in EMPEROR, and supportive four-year safety and efficacy data from the ongoing open-label extension studies, we have confidence in the potential of zorevunersen to change the course of Dravet syndrome. We look forward to our upcoming pre-NDA meeting with the FDA to align on the overall data package content and timing, as well as the statistical analysis plan, as we prepare to initiate our rolling U.S. NDA submission in the first quarter of 2027."
+L94: Mr. Smith continued, “Beyond Dravet syndrome, we are advancing our pipeline. Dose escalation continues in our Phase 1 study of STK-002 in patients with ADOA and initial data are anticipated in the first half of 2027 to guide future clinical development.
+L95: We are also expanding our early research efforts to identify new haploinsufficient disease targets, and we recently strengthened our leadership team with the addition of Tom McCauley as Chief Scientific Officer to help guide this next phase of platform expansion and translational research. In parallel we continue to enhance our commercial capabilities, enabled by our strong financial position of approximately $420 million that will take us through to a potential U.S.
+L96: launch of zorevunersen by early 2028 and support the Company’s next phase of growth."
+L97: Program Highlights
+L98: 
+L99: Dravet syndrome (zorevunersen)
+L100:   * Pivotal Phase 3 EMPEROR study progress:
+L101:     * U.S., UK and Japan: In June, Stoke announced completion of enrollment of 162 patients in the U.S., UK and Japan where sham control is administered via lumbar puncture (LP). This is the planned primary analysis population for the U.S. NDA. Patients are consistently progressing through the study. As of July 31, 2026:
+L102:       * Approximately 145 are through Week 8 and have received either two 70 mg loading doses of zorevunersen or sham.
+L103:       * Approximately 80 are through Week 24 and therefore have one dose of zorevunersen or sham remaining in the 52-week treatment period.
+L104:       * Approximately 60 are through Week 28, the time point at which the primary endpoint of change in major motor seizure frequency will be measured.
+L105:       * The first patients are expected to reach Week 52 in August 2026.
+L106:       * No patients have discontinued treatment in the study.
+L107:     * Data from this cohort are anticipated in the third quarter of 2027 and are expected to be the final clinical data required to complete the planned rolling NDA submission to the FDA. Stoke expects a pre-NDA meeting with the FDA in the second half of 2026 and to initiate the rolling NDA process in the first quarter of 2027, with completion expected in the second half of 2027.
+L108:     * Europe (Germany, France, Spain and Italy): An additional cohort of approximately 30 patients is currently being enrolled in Europe, where the sham control is administered via a needle prick (NP). Screening for this cohort has now closed, and the last patient is expected to be enrolled in August 2026.
+L109:     * China: Site activation and screening are also underway in China, where zorevunersen was recently granted Breakthrough Therapy Designation. Enrollment is anticipated to complete in the second half of 2026. Data from the additional patients in Europe and China are not planned for inclusion in the U.S. NDA submission to the FDA.
+L110:   * Continuing awareness of Dravet syndrome and appreciation for zorevunersen with 5 years of clinical data:
+L111:     * The Company will continue its educational efforts at major neurology and epilepsy congresses during the second half of 2026. Analyses of data from the ongoing OLEs, including effects on seizure severity, improvements in seizure freedom and quality of life, will support efforts to increase clinician understanding of zorevunersen while the Phase 3 EMPEROR study advances toward completion and the Company prepares for a potential U.S. approval and launch.
+L112: The Company will also continue discussions with the FDA to update the Agency on its long-term data for zorevunersen.
+L113: Pipeline beyond zorevunersen
+L114:   * The Phase 1 OSPREY study of STK-002 for the treatment of ADOA is continuing through dose escalation cohorts. All eight planned clinical trial sites are now active in the UK, Germany, Denmark, Italy and Austria, and dosing of the first cohort of patients (n=3) is complete with no serious or severe safety events observed to date. Dosing of the second cohort is expected to begin in August 2026.
+L115: Subject to ongoing safety assessments, dosing in the third and fourth dose cohorts are expected to follow with a readout of safety and efficacy results anticipated in the first half of 2027.
+L116:   * Lead optimization is underway to identify a clinical candidate for the treatment of SYNGAP1-related disorders. SYNGAP1-related disorders are severe and rare neurodevelopmental diseases.
+L117:   * Stoke is expanding its early research efforts with new targets in haploinsufficient diseases, primarily focused on central nervous system (CNS) diseases.
+L118:   * Thomas McCauley, Ph.D., joined Stoke as Chief Scientific Officer in July to support this pipeline growth, leveraging the Company’s proprietary RNA medicines platform to advance its pipeline of potential treatments for severe genetic diseases.
+L119: Second quarter 2026 financial results
+L120:   * The Company has $420.0 million in cash, cash equivalents and marketable securities based on $354.3 million as of June 30, 2026 and $65.7 million in net proceeds generated from an ATM sale to a single investor after June 30, 2026. These funds are expected to support operations through to potential U.S. commercialization of zorevunersen in early 2028.
+L121:   * Revenue recognized for the three months ended June 30, 2026, was $9.3 million, a decrease from $13.8 million for the same period in 2025. Revenue is generated from satisfying contractual obligations of the collaboration and licensing agreements with Acadia and Biogen.
+L122:   * Net loss for the three months ended June 30, 2026, was $61.6 million (including non-cash stock-based compensation expense of $10.8 million), or $0.93 per share, compared to a net loss of $23.5 million (including non-cash stock-based compensation expense of $7.6 million), or $0.40 per share, for the same period in 2025.
+L123:   * Research and development expenses for the three months ended June 30, 2026, were $49.5 million, compared to $25.9 million for the same period in 2025. The increase was driven by increased activities and personnel expenses to support the advancement of zorevunersen.
+L124:   * Sales, general and administrative expenses for the three months ended June 30, 2026, increased to $25.3 million from $15.3 million for the same period in 2025. The increase was driven by growth in personnel and launch readiness expenses.
+L125: Year-to-Date 2026 Financial Results
+L126:   * Revenue recognized for the six months ended June 30, 2026, was $15.6 million, a decrease from $172.4 million for the same period in 2025. The decrease in revenue is primarily driven by the recognition of $150.8 million related to the Biogen IP license performance obligation during the six months ended June 30, 2025.
+L127:   * Net loss for the six months ended June 30, 2026, was $111.6 million (including non-cash stock-based compensation expense of $19.6 million), or $1.73 per share, compared to a net income of $89.4 million (including non-cash stock-based compensation expense of $14.4 million), or $1.50 per diluted share, for the same period in 2025.
+L128:   * Research and development expenses for the six months ended June 30, 2026, were $89.2 million, compared to $58.5 million for the same period in 2025. The increase was driven by increased activities and personnel expenses to support the advancement of zorevunersen.
+L129:   * Sales, general and administrative expenses for the six months ended June 30, 2026, increased to $45.2 million from $29.9 million for the same period in 2025. The increase was driven by growth in personnel and launch readiness expenses.
+L130: Stoke Webcast and Conference Call for Analysts and Investors
+L131: Stoke management will host a webcast and conference call for analysts and investors on Monday, August 3, 2026, at 4:30PM Eastern Time. The webcast will be available on the Investors & News section of Stoke’s website at 【32†https://investor.stoketherapeutics.com/†cts.businesswire.com】. Research analysts who plan to join the call and participate in the Q&A session may register 【33†here†cts.businesswire.com】 to receive the dial-in details and a unique PIN.
+L132: All other participants are invited to access the listen-only webcast by clicking 【34†here†cts.businesswire.com】. A replay of the webcast will be archived and available for at least 90 days following the event.
+L133: About Dravet Syndrome
+L134: Dravet syndrome is a severe developmental and epileptic encephalopathy (DEE) characterized by recurrent seizures as well as significant cognitive and behavioral impairments. Most cases of Dravet are caused by mutations in one copy of the SCN1A gene, leading to insufficient levels of NaV1.1 protein in neuronal cells in the brain.
+L135: Even when treated with the best available anti-seizure medicines (ASMs), up to 57 percent of patients with Dravet syndrome do not achieve ≥50 percent reduction in seizure frequency. Complications of the disease often contribute to a poor quality of life for patients and their caregivers.
+L136: Developmental and cognitive impairments often include intellectual disability, developmental delays, movement and balance issues, language and speech disturbances, growth defects, sleep abnormalities, disruptions of the autonomic nervous system and mood disorders.
+L137: Compared with the general epilepsy population, people living with Dravet syndrome have a higher risk of sudden unexpected death in epilepsy, or SUDEP; up to 20 percent of children and adolescents with Dravet syndrome die before adulthood due to SUDEP, prolonged seizures, seizure-related accidents or infections^{ 1}. Dravet syndrome occurs globally and is not concentrated in a particular geographic area or ethnic group.
+L138: Currently, it is estimated that up to 38,000 people are living with Dravet syndrome in the U.S. (~16,000), UK, EU-4 and Japan^{ 2}.^{ }There are no approved disease-modifying therapies for people living with Dravet syndrome.
+L139: About Zorevunersen
+L140: Zorevunersen is an investigational antisense oligonucleotide that is designed to treat the underlying cause of Dravet syndrome by increasing functional NaV1.1 protein production in brain cells from the unaffected (wild-type) copy of the SCN1A gene. This highly differentiated mechanism of action aims to reduce seizure frequency beyond what has been achieved with anti-seizure medicines and to improve neurodevelopment, cognition and behavior.
+L141: Zorevunersen has demonstrated the potential for disease modification and has been granted orphan drug designation by the FDA and the EMA. The FDA has also granted zorevunersen rare pediatric disease designation and Breakthrough Therapy Designation for the treatment of Dravet syndrome with a confirmed mutation not associated with gain-of-function in the SCN1A gene, and China’s Center for Drug Evaluation has granted zorevunersen Breakthrough Therapy Designation.
+L142: Stoke has a strategic collaboration with Biogen (Nasdaq: BIIB) to develop and commercialize zorevunersen for Dravet syndrome. Under the collaboration, Stoke retains exclusive rights for zorevunersen in the United States, Canada, and Mexico; Biogen receives exclusive rest of world commercialization rights. Zorevunersen is currently in clinical development, and its safety and efficacy have not been evaluated by any regulatory authority.
+L143: About the Phase 1/2a and Open-Label Extension Studies
+L144: Two Phase 1/2a open-label, multicenter studies evaluated the effects of zorevunersen in patients with highly refractory Dravet syndrome ages 2 to 18 years (N=81). Primary endpoints were the safety profile, plasma pharmacokinetics (PK) and exposure in cerebrospinal fluid (CSF) of single and multiple doses of zorevunersen. Secondary endpoints included percentage change from baseline in major motor seizure frequency, overall clinical status (a measure of patients’ overall functioning) and quality of life.
+L145: The ADMIRAL Phase 1/2a study included an exploratory endpoint to evaluate changes in neurodevelopmental status (cognition & behavior) as measured by Vineland Adaptive Behavior Scales, Third Edition (Vineland-3). The Phase 1/2a studies were completed in November 2023. Following treatment in the Phase 1/2a studies, eligible patients continued treatment with zorevunersen every four months in one of two OLEs.
+L146: There was at least a 6-month gap between the last dose administered in the Phase 1/2a studies and the first dose administered in the OLEs. The primary endpoints are the safety profile of multiple doses of zorevunersen. Secondary endpoints include PK parameters, percentage change from baseline in major motor seizure frequency, change in overall clinical status, and change from baseline in quality of life. Exploratory endpoints include changes in neurodevelopment status as measured by Vineland-3.
+L147: The OLE studies are ongoing.
+L148: About the Phase 3 EMPEROR Study
+L149: The Phase 3 EMPEROR Study (NCT06872125) is a global, double-blind, sham-controlled study evaluating the efficacy, safety and tolerability of zorevunersen in children ages 2 to <18 with Dravet syndrome with a confirmed variant in the SCN1A gene not associated with gain-of-function.
+L150: Stoke completed enrollment of 162 patients in the United States, United Kingdom and Japan in June 2026, and a data readout is anticipated in the third quarter of 2027 to support the submission of a rolling New Drug Application (NDA) to the FDA. Approximately 30 additional patients are expected to enroll in Germany, Spain, France and Italy, with completion of enrollment anticipated in August 2026.
+L151: Participants are randomized 1:1 to receive either zorevunersen via intrathecal administration or a sham comparator for a 52-week treatment period following an 8-week baseline period. Following the completion of the study treatment period, eligible participants will be offered ongoing treatment with zorevunersen as part of an open-label period of the study.
+L152: The primary endpoint of the study is percent change from baseline in major motor seizure frequency at week 28 in patients receiving zorevunersen as compared to sham. The key secondary endpoints are the durability of effect on major motor seizure frequency and improvements in behavior and cognition as measured by Vineland-3 subdomains, including expressive communication, receptive communication, interpersonal relationships, coping skills and personal skills.
+L153: Additional endpoints include safety, Clinician Global Impression of Change (CGI-C), Caregiver Global Impression of Change (CaGI-C) and the Bayley Scales of Infant Development (BSID-IV). For more information, visit 【35†https://clinicaltrials.gov/study/NCT06872125†cts.businesswire.com】.
+L154: About Autosomal Dominant Optic Atrophy (ADOA)
+L155: ADOA is the most common inherited optic nerve disorder, affecting approximately one in 30,000 people globally with a higher incidence of one in 10,000 in Denmark due to a founder effect. It is a rare disease that causes progressive and irreversible vision loss in both eyes starting in the first decade of life. Severity can vary and the rate of vision loss can be difficult to predict. Approximately half of people with ADOA fail driving standards and up to 46% are registered as legally blind.
+L156: More than 400 different disease-causing OPA1 variants have been reported in people diagnosed with ADOA. Currently there are no approved treatments for people living with ADOA.
+L157: About STK-002
+

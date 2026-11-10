@@ -1,0 +1,370 @@
+LUXTURNA | FDA (https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/luxturna)
+citeturn52view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/luxturna","lineno":null}); Total lines: 103
+L0:   * 【0†Skip to main content】
+L1:   * 【1†Skip to FDA Search】
+L2:   * 【2†Skip to in this section menu】
+L3:   * 【3†Skip to footer links】
+L4: 
+L5: 【4†iframe†www.googletagmanager.com】
+L6: 
+L7:   *   Search
+L8:   *   Menu
+L9: 
+L10: Search FDA [Input: Search FDA] Submit search
+L11: 
+L12: ## Featured
+L13: 
+L14:   * 【5†Report a Product Problem†contact.fda.gov】
+L15:   * 【6†Contact FDA】
+L16:   * 【7†FDA Guidance Documents】
+L17:   * 【8†Recalls, Market Withdrawals and Safety Alerts】
+L18:   * 【9†Press Announcements】
+L19:   * 【10†Warning Letters】
+L20:   * 【11†Advisory Committees】
+L21:   * 【12†En Español】
+L22: ## Products
+L23: 
+L24:   * 【13†Food】
+L25:   * 【14†Drugs】
+L26:   * 【15†Medical Devices】
+L27:   * 【16†Radiation-Emitting Products】
+L28:   * 【17†Vaccines, Blood, and Biologics】
+L29:   * 【18†Animal and Veterinary】
+L30:   * 【19†Cosmetics】
+L31:   * 【20†Tobacco Products】
+L32: ## Topics
+L33: 
+L34:   * 【21†About FDA】
+L35:   * 【22†Combination Products】
+L36:   * 【23†Regulatory Information】
+L37:   * 【24†Safety】
+L38:   * 【25†Emergency Preparedness】
+L39:   * 【26†International Programs】
+L40:   * 【27†News and Events】
+L41:   * 【28†Training and Continuing Education】
+L42:   * 【29†Inspections and Compliance】
+L43:   * 【30†Science and Research】
+L44: ## Information For
+L45: 
+L46:   * 【31†Consumers】
+L47:   * 【32†Patients】
+L48:   * 【33†Industry】
+L49:   * 【34†Health Professionals】
+L50:   * 【35†Federal, State and Local Officials】
+L51: 
+L52:   * 【36†Cellular & Gene Therapy Products】
+L53: 
+L54:     * 【37†Approved Cellular and Gene Therapy Products】
+L55: 
+L56: # LUXTURNA
+L57: 
+L58: STN: 125610
+L59: Proper Name: voretigene neparvovec-rzyl
+L60: Trade Name: LUXTURNA
+L61: Manufacturer: Spark Therapeutics, Inc.
+L62: 
+L63: ## 【38†Indication】
+L64: 
+L65:   * For the treatment of patients with confirmed biallelic RPE65 mutation-associated retinal dystrophy.
+L66: ## 【39†Product Information】
+L67: 
+L68:   * 【40†Package Insert - LUXTURNA】
+L69:   * 【41†Demographic Subgroup Information - voretigene neparvovec [LUXTURNA]】
+L70: Refer to Section 1.1 of the clinical reviewer memo for information about participation in the clinical trials and any analysis of demographic subgroup outcomes that is notable.
+L71: 
+L72: ## 【42†Supporting Documents】
+--------------------------------------------------------------------------------
+KEBILIDI | FDA (https://www.fda.gov/vaccines-blood-biologics/kebilidi)
+citeturn52view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.fda.gov/vaccines-blood-biologics/kebilidi","lineno":null}); Total lines: 114
+L0:   * 【0†Skip to main content】
+L1:   * 【1†Skip to FDA Search】
+L2:   * 【2†Skip to in this section menu】
+L3:   * 【3†Skip to footer links】
+L4: 
+L5: 【4†iframe†www.googletagmanager.com】
+L6: 
+L7:   *   Search
+L8:   *   Menu
+L9: 
+L10: Search FDA [Input: Search FDA] Submit search
+L11: 
+L12: ## Featured
+L13: 
+L14:   * 【5†Report a Product Problem†contact.fda.gov】
+L15:   * 【6†Contact FDA】
+L16:   * 【7†FDA Guidance Documents】
+L17:   * 【8†Recalls, Market Withdrawals and Safety Alerts】
+L18:   * 【9†Press Announcements】
+L19:   * 【10†Warning Letters】
+L20:   * 【11†Advisory Committees】
+L21:   * 【12†En Español】
+L22: ## Products
+L23: 
+L24:   * 【13†Food】
+L25:   * 【14†Drugs】
+L26:   * 【15†Medical Devices】
+L27:   * 【16†Radiation-Emitting Products】
+L28:   * 【17†Vaccines, Blood, and Biologics】
+L29:   * 【18†Animal and Veterinary】
+L30:   * 【19†Cosmetics】
+L31:   * 【20†Tobacco Products】
+L32: ## Topics
+L33: 
+L34:   * 【21†About FDA】
+L35:   * 【22†Combination Products】
+L36:   * 【23†Regulatory Information】
+L37:   * 【24†Safety】
+L38:   * 【25†Emergency Preparedness】
+L39:   * 【26†International Programs】
+L40:   * 【27†News and Events】
+L41:   * 【28†Training and Continuing Education】
+L42:   * 【29†Inspections and Compliance】
+L43:   * 【30†Science and Research】
+L44: ## Information For
+L45: 
+L46:   * 【31†Consumers】
+L47:   * 【32†Patients】
+L48:   * 【33†Industry】
+L49:   * 【34†Health Professionals】
+L50:   * 【35†Federal, State and Local Officials】
+L51: 
+L52:   * 【17†Vaccines, Blood, & Biologics】
+L53: 
+L54:     * 【36†Infectious Disease Tests】
+L55:     * 【37†CBER Reports】
+L56:     * 【38†Center for Biologics Evaluation and Research (CBER) Product Approval Information】
+L57:     * 【39†Fecal Microbiota Products】
+L58:     * 【40†Allergenics】
+L59:     * 【41†Blood & Blood Products】
+L60:     * 【42†Blood Donor Screening】
+L61:     * 【43†Cellular & Gene Therapy Products】
+L62:     * 【44†Development & Approval Process (CBER)】
+L63:     * 【45†Guidance, Compliance & Regulatory Information (Biologics)】
+L64:     * 【46†International Activities】
+L65:     * 【47†News & Events (Biologics)】
+--------------------------------------------------------------------------------
+LENMELDY | FDA (https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/lenmeldy)
+citeturn52view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/lenmeldy","lineno":null}); Total lines: 97
+L0:   * 【0†Skip to main content】
+L1:   * 【1†Skip to FDA Search】
+L2:   * 【2†Skip to in this section menu】
+L3:   * 【3†Skip to footer links】
+L4: 
+L5: 【4†iframe†www.googletagmanager.com】
+L6: 
+L7:   *   Search
+L8:   *   Menu
+L9: 
+L10: Search FDA [Input: Search FDA] Submit search
+L11: 
+L12: ## Featured
+L13: 
+L14:   * 【5†Report a Product Problem†contact.fda.gov】
+L15:   * 【6†Contact FDA】
+L16:   * 【7†FDA Guidance Documents】
+L17:   * 【8†Recalls, Market Withdrawals and Safety Alerts】
+L18:   * 【9†Press Announcements】
+L19:   * 【10†Warning Letters】
+L20:   * 【11†Advisory Committees】
+L21:   * 【12†En Español】
+L22: ## Products
+L23: 
+L24:   * 【13†Food】
+L25:   * 【14†Drugs】
+L26:   * 【15†Medical Devices】
+L27:   * 【16†Radiation-Emitting Products】
+L28:   * 【17†Vaccines, Blood, and Biologics】
+L29:   * 【18†Animal and Veterinary】
+L30:   * 【19†Cosmetics】
+L31:   * 【20†Tobacco Products】
+L32: ## Topics
+L33: 
+L34:   * 【21†About FDA】
+L35:   * 【22†Combination Products】
+L36:   * 【23†Regulatory Information】
+L37:   * 【24†Safety】
+L38:   * 【25†Emergency Preparedness】
+L39:   * 【26†International Programs】
+L40:   * 【27†News and Events】
+L41:   * 【28†Training and Continuing Education】
+L42:   * 【29†Inspections and Compliance】
+L43:   * 【30†Science and Research】
+L44: ## Information For
+L45: 
+L46:   * 【31†Consumers】
+L47:   * 【32†Patients】
+L48:   * 【33†Industry】
+L49:   * 【34†Health Professionals】
+L50:   * 【35†Federal, State and Local Officials】
+L51: 
+L52:   * 【36†Cellular & Gene Therapy Products】
+L53: 
+L54:     * 【37†Approved Cellular and Gene Therapy Products】
+L55: 
+L56: # LENMELDY
+L57: 
+L58: STN: 125758
+L59: Proper Name: atidarsagene autotemcel
+L60: Trade Name: LENMELDY
+L61: Manufacture: Orchard Therapeutics (Europe) Limited
+L62: ## 【38†Indication】
+L63: 
+L64:   * Indicated for the treatment of children with pre-symptomatic late infantile (PSLI), pre-symptomatic early juvenile (PSEJ) or early symptomatic early juvenile (ESEJ) metachromatic leukodystrophy (MLD)
+--------------------------------------------------------------------------------
+Alexion bolsters rare disease drugs business with $8.4 billion deal By Reuters (https://uk.investing.com/news/stock-market-news/alexion-pharma-to-buy-synageva-biopharma-for-%248.4-billion-47702 ; rewritten summary of https://uk.investing.com/news/stock-market-news/alexion-pharma-to-buy-synageva-biopharma-for-$8.4-billion-47702)
+citeturn52view3 [wordlim: 200] Crawled: 2 months ago; Content type: text/html; Source: find({"ref_id":"turn51view0","pattern":"603"}); Redirected to URL: https://uk.investing.com/news/stock-market-news/alexion-pharma-to-buy-synageva-biopharma-for-$8.4-billion-47702; Total lines: 690
+L46: 【21†JPM+0.34%】
+L47: 
+L48: 【22†TEVA+0.24%】
+L49: 
+L50: 【23†SHP0.00%】
+L51: 
+L52: 【24†TEVA+1.92%】
+L53: 
+L54: 【25†ALXN0.00%】
+L55: 
+L56: 【26†GEVA0.00%】
+L57: 
+L58: 【27†ASPX0.00%】
+L59: 
+L60: By Vidya L Nathan and Natalie Grover
+L61: 
+L62: (Reuters) - Drugmaker Alexion Pharmaceuticals Inc (O:【25†ALXN】) agreed to buy Synageva BioPharma Corp (O:【26†GEVA】) for $8.4 billion (£5.5 billion) at a hefty premium to expand in the lucrative market for drugs that treat rare diseases.
+L63: Makers of drugs that treat rare diseases are seen as attractive takeover targets because of their revenue-generating potential as they typically charge high prices for their products.
+L64: 
+L65: With the deal, Alexion will have eight experimental rare disease drugs under its belt, including Synageva's potential blockbuster Kanuma.
+L66: The drug, whose marketing application is being reviewed in the United States and Europe, treats a rare and potentially fatal disease that causes a build-up of fatty material in the blood and liver.
+L67: 
+L68: Kanuma is expected to touch peak sales of $603 million in 2020, according to Thomson Reuters Cortellis.
+L69: 
+L70: Alexion, however, is confident it can grow the drug's sales to more than $1 billion, Chief Executive David Hallal said.
+L71: Alexion is offering $115 in cash and 0.6581 of its shares, or $225.92 per Synageva share — more than double Synageva's closing price of $95.87 on Tuesday.
+L72: 
+L73: Synageva's shares were 114 percent higher at $205.23 shortly after midday, while Alexion was down 9.7 percent at $152.11.
+L74: 
+L75: "While some investors may be picking their jaws off the floor at such a valuation, we note that Synageva has only disclosed a fraction of its development efforts," Baird Equity Research analyst Christopher Raymond said.
+L76: Alexion's sole product on the market, Soliris, the only approved treatment for two potentially fatal conditions, raked in $2.23 billion in 2014. But the drug's sales growth is expected to slow in the coming years.
+L77: 
+L78: "So I think Alexion wanted to do something big," Paul Yook, portfolio manager at BioShares Biotechnology Funds, which holds stakes in both the companies.
+L79: 
+L80: "There aren't many opportunities ... to do that, and so this is their big shot."
+L81: The deal provides a windfall for Synageva shareholders, particularly Baker Brothers Investments, which owns about 32 percent of the company. The firm stands to make $2.68 billion from the transaction.
+L82: 
+L83: The deal is the latest involving rare disease drug makers this year. Teva Pharmaceutical (ARCA:【22†TEVA】) Industries Inc (TA:【24†TEVA】) purchased Auspex (NASDAQ:【27†ASPX】) Pharmaceuticals for $3.5 billion and Shire (L:【23†SHP】) acquired NPS Pharmaceuticals for $5.2 billion.
+--------------------------------------------------------------------------------
+alxn-20201231 (https://www.sec.gov/Archives/edgar/data/899866/000089986621000014/alxn-20201231.htm)
+citeturn52view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn51view2","pattern":"117.7"}); Total lines: 5942
+No matching text found for "117.7"--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1048477/000156459018003114/bmrn-10k_20171231.htm)
+citeturn52view5 [wordlim: 200] Crawled: last week; Content type: text/html; Source: find({"ref_id":"turn51view3","pattern":"413"}); Total lines: 4396
+L192: Commercial Products  |    | Indication  |    | Expiration ^{(1)}  |    | Expiration ^{(2)}  |    | Expiration ^{(1)}  |    | (in millions)  |    |    | (in millions)  |
+L193: Aldurazyme  |    | MPS I  |    | Expired  |    | Expired  |    | Expired  |    | $  | 90.0  |    | ^{(3)}  | $  | 3.6  |
+L194: Brineura  |    | CLN2  |    | 2024  |    | 2029  |    | 2027  |    | $  | 8.6  |    |    | $  | 52.0  |
+L195: Firdapse  |    | LEMS  |    | NA ^{(4)}  |    | NA ^{(4)}  |    | 2019  |    | $  | 18.8  |    |    | $  | 2.8  |
+L196: Kuvan  |    | PKU  |    | Expired  |    | NA  |    | 2020^{ (5)}  |    | $  | 407.5  |    |    | $  | 28.4  |
+L197: Naglazyme  |    | MPS VI  |    | Expired  |    | Expired  |    | Expired  |    | $  | 332.2  |    |    | $  | 12.5  |
+L198: Vimizim  |    | MPS IV A  |    | 2021  |    | 2026  |    | 2024  |    | $  | 413.3  |    |    | $  | 24.8  |
+L199:    |    |    |    |    |    |    |    |    |    | 2017  |
+L200:    |    |    |    | United  |    | European  |    |    |    | Research &  |
+L201:    |    |    |    | States  |    | Union  |    |    |    | Development  |
+L202: Major Product Candidates  |    | Target  |    | Orphan  |    | Orphan  |    |    |    | Expense  |
+L203: in Development  |    | Indication  |    | Designation  |    | Designation  |    | Stage  |    | (in millions)  |
+L204: Pegvaliase  |    | PKU  |    | Yes  |    | Yes  |    | U.S. marketing authorization regulatory review ^{(6)}  |    | $  | 122.1  |
+L205: Valoctocogene   roxaparvovec  |    | Hemophilia A  |    | Yes  |    | Yes  |    | Clinical Phase 3  |    | $  | 118.2  |
+L206: Vosoritide  |    | Achondroplasia  |    | Yes  |    | Yes  |    | Clinical Phase 3  |    | $  | 55.1  |
+L207: BMN 250  |    | MPS IIIB  |    | Yes  |    | Yes  |    | Clinical Phase 1/2  |    | $  | 56.0  |
+L286: Vimizim was granted marketing approval in the U.S. and the EU in February 2014 and April 2014, respectively, and subsequently in several other international markets. Vimizim net product revenues for the years ended December 31, 2017, 2016 and 2015 were $413.3 million, $354.1 million and $228.1 million, respectively.
+L287: 
+L288: Major Product Candidates in Development
+L289: 
+L290: Pegvaliase
+L291: Pegvaliase is an investigational enzyme substitution therapy that we are developing as a subcutaneous injection for the treatment of PKU. In March 2016, we announced that our pivotal Phase 3 PRISM-2 study for pegvaliase met the primary endpoint of change in blood Phe compared with placebo (p<0.0001).
+L1729: Firdapse  |    |    | 18.8  |    |    |    | 18.0  |    |    |    | 16.0  |    |    |    | 0.8  |    |    |    | 2.0  |
+L1730: Kuvan  |    |    | 407.5  |    |    |    | 348.0  |    |    |    | 239.3  |    |    |    | 59.5  |    |    |    | 108.7  |
+L1731: Naglazyme  |    |    | 332.2  |    |    |    | 296.5  |    |    |    | 303.1  |    |    |    | 35.7  |    |    |    | (6.6  | )
+L1732: Vimizim  |    |    | 413.3  |    |    |    | 354.1  |    |    |    | 228.1  |    |    |    | 59.2  |    |    |    | 126.0  |
+L1733: Total net product revenues  |    | $  | 1,270.4  |    |    | $  | 1,110.4  |    |    | $  | 884.5  |    |    | $  | 160.0  |    |    | $  | 225.9  |
+L1734: 
+L1735: 
+L1736: 63
+L1737: 
+L1738: * * *
+L1739: 
+L1740: Management’s Discussion and Analysis of Financial Condition and Results of Operations – (Continued)
+L1741: Our Brineura, Firdapse, Kuvan, Naglazyme and Vimizim customers include a limited number of specialty pharmacies and end-users, such as hospitals and foreign government agencies. We also sell Brineura, Kuvan, Naglazyme and Vimizim to our authorized distributors and to certain larger pharmaceutical wholesalers globally, which act as intermediaries between us and end-users and generally do not stock significant quantities of our products.
+L2895: Non-cash changes in the fair value of contingent acquisition    consideration payable  |    |    | 10,342  |    |    |    | (57,161  | )  |    |    | (28,457  | )
+L2896: Other  |    |    | 5,935  |    |    |    | 336  |    |    |    | 2,463  |
+L2897: Changes in operating assets and liabilities:  |    |    |    |    |    |    |    |    |    |    |    |
+L2898: Accounts receivable, net  |    |    | (25,256  | )  |    |    | (51,483  | )  |    |    | (16,367  | )
+L2899: Inventory  |    |    | (96,890  | )  |    |    | (64,512  | )  |    |    | (50,989  | )
+L2900: Other current assets  |    |    | (20,687  | )  |    |    | 19,316  |    |    |    | 25,800  |
+L2901: Other assets  |    |    | (2,439  | )  |    |    | (4,979  | )  |    |    | (3,157  | )
+L2902: Accounts payable and accrued liabilities  |    |    | 45,517  |    |    |    | (53,205  | )  |    |    | 90,298  |
+L2903: Other long-term liabilities  |    |    | 5,792  |    |    |    | (5,413  | )  |    |    | 747  |
+L2904: Net cash used in operating activities  |    |    | (8,757  | )  |    |    | (227,837  | )  |    |    | (219,499  | )
+L2905: CASH FLOWS FROM INVESTING ACTIVITIES:  |    |    |    |    |    |    |    |    |    |    |    |
+L2906: Purchases of property, plant and equipment  |    |    | (199,219  | )  |    |    | (148,380  | )  |    |    | (227,653  | )
+L2907: Deposit on purchase of PKU rights  |    |    | —  |    |    |    | —  |    |    |    | (371,756  | )
+L2908: Maturities and sales of investments  |    |    | 425,960  |    |    |    | 367,569  |    |    |    | 424,713  |
+L2909: Purchase of available-for-sale debt securities  |    |    | (655,447  | )  |    |    | (699,749  | )  |    |    | (873,184  | )
+L2910: Proceeds from sale of intangible asset  |    |    | 125,000  |    |    |    | —  |    |    |    | 410,000  |
+L2911: Business acquisitions, net of cash acquired  |    |    | —  |    |    |    | (2,789  | )  |    |    | (538,392  | )
+L4240: 
+L4241: 
+L4242: 
+L4243: 
+L4244: F-40
+L4245: 
+L4246: * * *
+L4247: 
+L4248: BIOMARIN PHARMACEUTICAL INC.
+L4249: 
+L4250: NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+L4251: 
+L4252: (In thousands of U.S. dollars, except per share amounts or as otherwise disclosed)
+L4253: 
+L4254: 
+L4255: 
+L4256: (20) SEGMENT AND GEOGRAPHIC INFORMATION
+L4257: 
+L4258: The Company operates in one business segment, which primarily focuses on the development and commercialization of innovative therapies for people with serious and life threatening rare diseases and medical conditions.
+L4259:    |    | Years Ended December 31,  |
+L4260:    |    | 2017  |    |    | 2016  |    |    | 2015  |
+L4261: Net product revenues by product:  |    |    |    |    |    |    |    |    |    |    |    |
+L4262: Aldurazyme  |    | $  | 89,959  |    |    | $  | 93,749  |    |    | $  | 97,912  |
+L4263: Brineura  |    |    | 8,595  |    |    |    | —  |    |    |    | —  |
+L4264: Firdapse  |    |    | 18,890  |    |    |    | 18,028  |    |    |    | 16,037  |
+L4265: Kuvan  |    |    | 407,542  |    |    |    | 348,009  |    |    |    | 239,336  |
+L4266: Naglazyme  |    |    | 332,208  |    |    |    | 296,537  |    |    |    | 303,090  |
+L4267: Vimizim  |    |    | 413,251  |    |    |    | 354,058  |    |    |    | 228,147  |
+L4268: Total net product revenues  |    | $  | 1,270,445  |    |    | $  | 1,110,381  |    |    | $  | 884,522  |
+L4269: The following table summarizes total revenues from external customers and collaborative partners by geographic region. Net product revenues by geographic region are based on patient location for the Company’s commercial products, except for Aldurazyme, which is based on the location of Genzyme’s headquarters. Although Genzyme sells Aldurazyme worldwide, the revenues earned by the Company based on Genzyme’s net sales are included in the U.S.
+L4270: region as the transactions are with Genzyme whose headquarters are located in the U.S.
+L4271:    |    | Years Ended December 31,  |
+L4272:    |    | 2017  |    |    | 2016  |    |    | 2015  |
+L4273: Total revenues by geographic region:  |    |    |    |    |    |    |    |    |    |    |    |
+L4274: United States  |    | $  | 588,243  |    |    | $  | 507,539  |    |    | $  | 444,075  |
+L4275: Europe  |    |    | 301,487  |    |    |    | 252,633  |    |    |    | 171,216  |
+L4276: Latin America  |    |    | 182,438  |    |    |    | 147,471  |    |    |    | 142,305  |
+L4277: Rest of world  |    |    | 241,478  |    |    |    | 209,211  |    |    |    | 132,299  |
+L4278: Total revenues  |    | $  | 1,313,646  |    |    | $  | 1,116,854  |    |    | $  | 889,895  |
+L4279: 
+L4280: 
+L4281: The following table summarizes non-monetary long-lived assets by geographic region. Non-monetary long-lived assets primarily consist of property, plant and equipment, intangible assets, deferred tax assets and goodwill.
+--------------------------------------------------------------------------------
+Vimizim panel nod fuels new BioMarin buyout buzz | Fierce Pharma (https://www.fiercepharma.com/m-a/vimizim-panel-nod-fuels-new-biomarin-buyout-buzz)
+citeturn52view6 [wordlim: 200] Crawled: 2 months ago; Content type: text/html; Source: find({"ref_id":"turn51view1","pattern":"416"}); Total lines: 33
+L7: # Vimizim panel nod fuels new BioMarin buyout buzz
+L8: 
+L9: By 【4†Tracy Staton】 Nov 21, 2013 11:13am
+L10: 
+L11: 【3†Deals】
+L12: 
+L13: Orphan drugmaker BioMarin Pharmaceutical ($BMRN) may have plenty of would-be adoptive parents before long. In the wake of Shire's ($SHPG) $4.2 billion ViroPharma ($VPHM) deal and BioMarin's own victory with an FDA advisory panel, Big Pharma companies have more incentive to consider buying out the smaller company, analysts tell Bloomberg.
+L14: BioMarin already sells four pricey drugs to treat rare disorders, including enzyme replacement therapies Naglazyme and Aldurazyme. Together, they brought in sales of more than $500 million over the last year, the news service notes. And last week, the company got a thumbs up from FDA's outside experts on its new Morquio A treatment Vimizim.
+L15: Expectations for the new drug are high, with analysts projecting $416 million in annual sales by 2017. That would make it the company's best seller. The FDA is scheduled to make a decision by Feb. 28.
+L16: Meanwhile, larger drugmakers are looking to build their own capabilities in the orphan-drug world. Targeted at rare diseases, these treatments can command high prices--as much as $400,000 a year in a few cases. With primary-care blockbusters harder to come by these days, specialty drugs are where it's at, and rare diseases are about as specialized as they get.
+L17: BioMarin would be a rich buy, however. With its own stable of marketed products, another waiting in the wings, and more in the pipeline, the company could attract bids of at least $93 per share, one analyst told Bloomberg. That would amount to at least $13 billion. "There are only a limited number of companies that do rare diseases well and BioMarin is at the top of the list," William Blair analyst Tim Lugo told the news service.
+L18: Who would be up for that sort of price? Bloomberg suggests Sanofi ($SNY), which bought the rare disease specialist Genzyme in 2010, and Pfizer ($PFE). GlaxoSmithKline ($GSK) was said to be eyeing a bid, but nothing has come of that. There's also Roche ($RHHBY), also rumored to be shopping for BioMarin, but the Swiss drugmaker is pretty skeptical of valuations in the rare-disease area these days. Indeed, BioMarin's recent success may have priced it out of the market.
+L19: As Wedbush analyst Liana Moussatos told Bloomberg,  "I'm sure plenty of companies would love to be able to buy [BioMarin]. Except it's too expensive."
+

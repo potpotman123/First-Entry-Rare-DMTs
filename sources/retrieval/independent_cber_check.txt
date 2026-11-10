@@ -1,0 +1,598 @@
+RETHYMIC | FDA (https://www.fda.gov/vaccines-blood-biologics/rethymic)
+citeturn58view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.fda.gov/vaccines-blood-biologics/rethymic","pattern":"Approval Letter"}); Total lines: 115
+L32: ## Topics
+L33: 
+L34:   * 【21†About FDA】
+L35:   * 【22†Combination Products】
+L36:   * 【23†Regulatory Information】
+L37:   * 【24†Safety】
+L38:   * 【25†Emergency Preparedness】
+L39:   * 【26†International Programs】
+L40:   * 【27†News and Events】
+L41:   * 【28†Training and Continuing Education】
+L42:   * 【29†Inspections and Compliance】
+L43:   * 【30†Science and Research】
+L44: ## Information For
+L45: 
+L46:   * 【31†Consumers】
+L47:   * 【32†Patients】
+L48:   * 【33†Industry】
+L49:   * 【34†Health Professionals】
+L50:   * 【35†Federal, State and Local Officials】
+L51: 
+L52:   * 【17†Vaccines, Blood, & Biologics】
+L53: 
+L54:     * 【36†Infectious Disease Tests】
+L55:     * 【37†CBER Reports】
+L56:     * 【38†Center for Biologics Evaluation and Research (CBER) Product Approval Information】
+L57:     * 【39†Fecal Microbiota Products】
+L58:     * 【40†Allergenics】
+L59:     * 【41†Blood & Blood Products】
+L60:     * 【42†Blood Donor Screening】
+L61:     * 【43†Cellular & Gene Therapy Products】
+L62:     * 【44†Development & Approval Process (CBER)】
+L63:     * 【45†Guidance, Compliance & Regulatory Information (Biologics)】
+L64:     * 【46†International Activities】
+L65:     * 【47†News & Events (Biologics)】
+L66:     * 【48†Resources for You (Biologics)】
+L67:     * 【49†Safety & Availability (Biologics)】
+L68:     * 【50†Science & Research (Biologics)】
+L69:     * 【51†Tissue & Tissue Products】
+L70:     * 【52†Vaccines】
+L71:     * 【53†Xenotransplantation】
+L72: # RETHYMIC
+L73: 
+L74: STN: 125685
+L75: Proper Name: allogeneic processed thymus tissue–agdc
+L76: Tradename: RETHYMIC
+L77: Manufacturer: Enzyvant Therapeutics GmbH
+L78: Indication:
+L79: 
+L80:   * For immune reconstitution in pediatric patients with congenital athymia.
+L81: 
+L82: Product Information
+L83:   * 【54†Package Insert - RETHYMIC】
+L84:   * Demographic Subgroup Information – allogeneic processed thymus tissue-agdc
+L85: Refer to Section 1.1 of the 【55†Clinical Review Memo】 for information about participation in the clinical trials and any analysis of demographic subgroup outcomes that is notable.
+L86: 
+L87: Supporting Documents
+L88:   * 【56†October 8, 2021 Approval Letter - RETHYMIC】
+L89:   * 【57†October 8, 2021 Summary Basis for Regulatory Action - RETHYMIC】
+L90:   * 【58†Approval History, Letters, Reviews, and Related Documents - RETHYMIC】
+L91: 
+L92: Related Information
+L93: 
+L94:   * 【59†FDA Approves Innovative Treatment for Pediatric Patients with Congenital Athymia】
+L95: 
+L96: [Button: Feedback]
+L97: 
+L98:   * 【60†FDA Archive】
+L99:   * 【21†About FDA】
+L100:   * 【61†Accessibility】
+L101:   * 【62†Visitor Information】
+L102:   * 【63†Website Policies / Privacy】
+L103:   * 【64†No FEAR Act】
+L104:   * 【65†Vulnerability Disclosure Policy†www.hhs.gov】
+L105: 
+L106:   * 【66†FOIA】
+L107:   * 【67†HHS.gov†www.hhs.gov】
+L108:   * 【68†USA.gov†www.usa.gov】
+L109: 
+L110: 【6†Contact FDA】 【69†Follow FDA on Facebook†www.facebook.com】 【70†Follow FDA on X†x.com】 【71†Follow FDA on Instagram†instagram.com】
+L111: 【72†Follow FDA on LinkedIn†www.linkedin.com】 【73†View FDA videos on YouTube†youtube.com】 【74†Subscribe to FDA RSS feeds】
+L112: Contact Number 1-888-INFO-FDA (1-888-463-6332)
+L113: 
+L114: Back to Top
+--------------------------------------------------------------------------------
+VYJUVEK | FDA (https://www.fda.gov/vaccines-blood-biologics/vyjuvek)
+citeturn58view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.fda.gov/vaccines-blood-biologics/vyjuvek","pattern":"2023"}); Total lines: 116
+L44: ## Information For
+L45: 
+L46:   * 【31†Consumers】
+L47:   * 【32†Patients】
+L48:   * 【33†Industry】
+L49:   * 【34†Health Professionals】
+L50:   * 【35†Federal, State and Local Officials】
+L51: 
+L52:   * 【17†Vaccines, Blood, & Biologics】
+L53: 
+L54:     * 【36†Infectious Disease Tests】
+L55:     * 【37†CBER Reports】
+L56:     * 【38†Center for Biologics Evaluation and Research (CBER) Product Approval Information】
+L57:     * 【39†Fecal Microbiota Products】
+L58:     * 【40†Allergenics】
+L59:     * 【41†Blood & Blood Products】
+L60:     * 【42†Blood Donor Screening】
+L61:     * 【43†Cellular & Gene Therapy Products】
+L62:     * 【44†Development & Approval Process (CBER)】
+L63:     * 【45†Guidance, Compliance & Regulatory Information (Biologics)】
+L64:     * 【46†International Activities】
+L65:     * 【47†News & Events (Biologics)】
+L66:     * 【48†Resources for You (Biologics)】
+L67:     * 【49†Safety & Availability (Biologics)】
+L68:     * 【50†Science & Research (Biologics)】
+L69:     * 【51†Tissue & Tissue Products】
+L70:     * 【52†Vaccines】
+L71:     * 【53†Xenotransplantation】
+L72: # VYJUVEK
+L73: 
+L74: STN: 125774
+L75: Proper Name: beremagene geperpavec-svdt
+L76: Tradename: VYJUVEK
+L77: Manufacturer: Krystal Biotech, Inc.
+L78: Indication:
+L79: 
+L80:   * Treatment of wounds in adult and pediatric patients with dystrophic epidermolysis bullosa with mutation(s) in the collagen type VII alpha 1 chain (COL7A1) gene.
+L81: ## 【54†Product Information】
+L82: 
+L83:   * 【55†Package Insert - VYJUVEK】
+L84:   * 【56†Instruction For Use - VYJUVEK】
+L85:   * 【57†Medication Guide - VYJUVEK】
+L86:   * Demographic Subgroup Information – VYJUVEK
+L87: Refer to Section 1.1 of the 【58†Clinical Review Memo】 for information about participation in the clinical trials and any analysis of demographic subgroup outcomes that is notable.
+L88: ## 【59†Supporting Documents】
+L89: 
+L90:   * 【60†October 21, 2026 Approval Letter - VYJUVEK】
+L91:   * 【61†September 12, 2025 Approval Letter - VYJUVEK】
+L92:   * 【62†August 7, 2023 Approval Letter - VYJUVEK】
+L93:   * 【63†May 19, 2023 Approval Letter - VYJUVEK】
+L94:   * 【64†Summary Basis for Regulatory Action - VYJUVEK】
+L95:   * 【65†Approval History, Letters, Reviews, and Related Documents - VYJUVEK】
+L96: 
+L97: [Button: Feedback]
+L98: 
+L99:   * 【66†FDA Archive】
+L100:   * 【21†About FDA】
+L101:   * 【67†Accessibility】
+L102:   * 【68†Visitor Information】
+L103:   * 【69†Website Policies / Privacy】
+L104:   * 【70†No FEAR Act】
+L105:   * 【71†Vulnerability Disclosure Policy†www.hhs.gov】
+L106: 
+L107:   * 【72†FOIA】
+L108:   * 【73†HHS.gov†www.hhs.gov】
+L109:   * 【74†USA.gov†www.usa.gov】
+L110: 
+L111: 【6†Contact FDA】 【75†Follow FDA on Facebook†www.facebook.com】 【76†Follow FDA on X†x.com】 【77†Follow FDA on Instagram†instagram.com】
+L112: 【78†Follow FDA on LinkedIn†www.linkedin.com】 【79†View FDA videos on YouTube†youtube.com】 【80†Subscribe to FDA RSS feeds】
+L113: Contact Number 1-888-INFO-FDA (1-888-463-6332)
+L114: 
+L115: Back to Top
+--------------------------------------------------------------------------------
+ENCELTO | FDA (https://www.fda.gov/vaccines-blood-biologics/center-biologics-evaluation-and-research-cber-product-approval-information/encelto)
+citeturn58view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.fda.gov/vaccines-blood-biologics/center-biologics-evaluation-and-research-cber-product-approval-information/encelto","pattern":"2025"}); Total lines: 92
+L0:   * 【0†Skip to main content】
+L1:   * 【1†Skip to FDA Search】
+L2:   * 【2†Skip to in this section menu】
+L3:   * 【3†Skip to footer links】
+L4: 
+L5: 【4†iframe†www.googletagmanager.com】
+L6: 
+L7:   *   Search
+L8:   *   Menu
+L9: 
+L10: Search FDA [Input: Search FDA] Submit search
+L11: 
+L12: ## Featured
+L13: 
+L14:   * 【5†Report a Product Problem†contact.fda.gov】
+L15:   * 【6†Contact FDA】
+L16:   * 【7†FDA Guidance Documents】
+L17:   * 【8†Recalls, Market Withdrawals and Safety Alerts】
+L18:   * 【9†Press Announcements】
+L19:   * 【10†Warning Letters】
+L20:   * 【11†Advisory Committees】
+L21:   * 【12†En Español】
+L22: ## Products
+L23: 
+L24:   * 【13†Food】
+L25:   * 【14†Drugs】
+L26:   * 【15†Medical Devices】
+L27:   * 【16†Radiation-Emitting Products】
+L28:   * 【17†Vaccines, Blood, and Biologics】
+L29:   * 【18†Animal and Veterinary】
+L30:   * 【19†Cosmetics】
+L31:   * 【20†Tobacco Products】
+L32: ## Topics
+L33: 
+L34:   * 【21†About FDA】
+L35:   * 【22†Combination Products】
+L36:   * 【23†Regulatory Information】
+L37:   * 【24†Safety】
+L38:   * 【25†Emergency Preparedness】
+L39:   * 【26†International Programs】
+L40:   * 【27†News and Events】
+L41:   * 【28†Training and Continuing Education】
+L42:   * 【29†Inspections and Compliance】
+L43:   * 【30†Science and Research】
+L44: ## Information For
+L45: 
+L46:   * 【31†Consumers】
+L47:   * 【32†Patients】
+L48:   * 【33†Industry】
+L49:   * 【34†Health Professionals】
+L50:   * 【35†Federal, State and Local Officials】
+L51: 
+L52:   * 【36†Center for Biologics Evaluation and Research (CBER) Product Approval Information】
+L53: 
+L54: # ENCELTO
+L55: 
+L56: STN: BLA 125798
+L57: Proper Name: revakinagene taroretcel-lwey
+L58: Tradename: ENCELTO
+L59: Manufacturer: Neurotech Pharmaceuticals, Inc.
+L60: Indication:
+L61: 
+L62:   * For The treatment of adults with idiopathic macular telangiectasia type 2 (MacTel)
+L63: ## Product Information
+L64: 
+L65:   * 【37†Package Insert - ENCELTO】
+L66: ## Supporting Documents
+L67: 
+L68:   * 【38†March 5, 2025 Approval Letter - ENCELTO】
+L69:   * 【39†March 5, 2025 Summary Basis for Regulatory Action - ENCELTO】
+L70:   * 【40†Letters, Reviews, Related Documents - ENCELTO】
+L71: 
+L72: [Button: Feedback]
+L73: 
+L74:   * 【41†FDA Archive】
+L75:   * 【21†About FDA】
+L76:   * 【42†Accessibility】
+L77: 
+L78:   * 【43†Visitor Information】
+L79:   * 【44†Website Policies / Privacy】
+L80:   * 【45†No FEAR Act】
+L81:   * 【46†Vulnerability Disclosure Policy†www.hhs.gov】
+L82: 
+L83:   * 【47†FOIA】
+L84:   * 【48†HHS.gov†www.hhs.gov】
+L85:   * 【49†USA.gov†www.usa.gov】
+L86: 【6†Contact FDA】 【50†Follow FDA on Facebook†www.facebook.com】 【51†Follow FDA on X†x.com】 【52†Follow FDA on Instagram†instagram.com】
+L87: 【53†Follow FDA on LinkedIn†www.linkedin.com】 【54†View FDA videos on YouTube†youtube.com】 【55†Subscribe to FDA RSS feeds】
+L88: 
+L89: Contact Number 1-888-INFO-FDA (1-888-463-6332)
+L90: 
+L91: Back to Top
+--------------------------------------------------------------------------------
+WASKYRA | FDA (https://www.fda.gov/vaccines-blood-biologics/waskyra)
+citeturn58view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.fda.gov/vaccines-blood-biologics/waskyra","pattern":"2025"}); Total lines: 113
+L32: ## Topics
+L33: 
+L34:   * 【21†About FDA】
+L35:   * 【22†Combination Products】
+L36:   * 【23†Regulatory Information】
+L37:   * 【24†Safety】
+L38:   * 【25†Emergency Preparedness】
+L39:   * 【26†International Programs】
+L40:   * 【27†News and Events】
+L41:   * 【28†Training and Continuing Education】
+L42:   * 【29†Inspections and Compliance】
+L43:   * 【30†Science and Research】
+L44: ## Information For
+L45: 
+L46:   * 【31†Consumers】
+L47:   * 【32†Patients】
+L48:   * 【33†Industry】
+L49:   * 【34†Health Professionals】
+L50:   * 【35†Federal, State and Local Officials】
+L51: 
+L52:   * 【17†Vaccines, Blood, & Biologics】
+L53: 
+L54:     * 【36†Infectious Disease Tests】
+L55:     * 【37†CBER Reports】
+L56:     * 【38†Center for Biologics Evaluation and Research (CBER) Product Approval Information】
+L57:     * 【39†Fecal Microbiota Products】
+L58:     * 【40†Allergenics】
+L59:     * 【41†Blood & Blood Products】
+L60:     * 【42†Blood Donor Screening】
+L61:     * 【43†Cellular & Gene Therapy Products】
+L62:     * 【44†Development & Approval Process (CBER)】
+L63:     * 【45†Guidance, Compliance & Regulatory Information (Biologics)】
+L64:     * 【46†International Activities】
+L65:     * 【47†News & Events (Biologics)】
+L66:     * 【48†Resources for You (Biologics)】
+L67:     * 【49†Safety & Availability (Biologics)】
+L68:     * 【50†Science & Research (Biologics)】
+L69:     * 【51†Tissue & Tissue Products】
+L70:     * 【52†Vaccines】
+L71:     * 【53†Xenotransplantation】
+L72: # WASKYRA
+L73: 
+L74: STN: BLA 125846
+L75: Proper Name: etuvetidigene autotemcel
+L76: Tradename: WASKYRA
+L77: Manufacturer: Fondazione Telethon ETS
+L78: Indications:
+L79: 
+L80:   * Ttreatment of pediatric patients aged 6 months and older and adults with Wiskott-Aldrich Syndrome (WAS) who have a mutation in the WAS gene for whom hematopoietic stem cell transplantation (HSCT) is appropriate and no suitable human leukocyte antigen (HLA)-matched related stem cell donor is available.
+L81: 
+L82: ## Product Information
+L83: 
+L84:   * 【54†Package Insert - WASKYRA】
+L85: ## Supporting Documents
+L86: 
+L87:   * 【55†December 9, 2025 Approval Letter - WASKYRA】
+L88:   * 【56†December 9, 2025 Summary Basis for Regulatory Action - WASKYRA】
+L89:   * 【57†Letters, Reviews, Related Documents - WASKYRA】
+L90: 
+L91: 
+L92: 
+L93: [Button: Feedback]
+L94: 
+L95:   * 【58†FDA Archive】
+L96:   * 【21†About FDA】
+L97:   * 【59†Accessibility】
+L98: 
+L99:   * 【60†Visitor Information】
+L100:   * 【61†Website Policies / Privacy】
+L101:   * 【62†No FEAR Act】
+L102:   * 【63†Vulnerability Disclosure Policy†www.hhs.gov】
+L103: 
+L104:   * 【64†FOIA】
+L105:   * 【65†HHS.gov†www.hhs.gov】
+L106:   * 【66†USA.gov†www.usa.gov】
+L107: 【6†Contact FDA】 【67†Follow FDA on Facebook†www.facebook.com】 【68†Follow FDA on X†x.com】 【69†Follow FDA on Instagram†instagram.com】
+L108: 【70†Follow FDA on LinkedIn†www.linkedin.com】 【71†View FDA videos on YouTube†youtube.com】 【72†Subscribe to FDA RSS feeds】
+L109: 
+L110: Contact Number 1-888-INFO-FDA (1-888-463-6332)
+L111: 
+L112: Back to Top
+--------------------------------------------------------------------------------
+PAPZIMEOS | FDA (https://www.fda.gov/vaccines-blood-biologics/papzimeos)
+citeturn58view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.fda.gov/vaccines-blood-biologics/papzimeos","pattern":"2025"}); Total lines: 112
+L22: ## Products
+L23: 
+L24:   * 【13†Food】
+L25:   * 【14†Drugs】
+L26:   * 【15†Medical Devices】
+L27:   * 【16†Radiation-Emitting Products】
+L28:   * 【17†Vaccines, Blood, and Biologics】
+L29:   * 【18†Animal and Veterinary】
+L30:   * 【19†Cosmetics】
+L31:   * 【20†Tobacco Products】
+L32: ## Topics
+L33: 
+L34:   * 【21†About FDA】
+L35:   * 【22†Combination Products】
+L36:   * 【23†Regulatory Information】
+L37:   * 【24†Safety】
+L38:   * 【25†Emergency Preparedness】
+L39:   * 【26†International Programs】
+L40:   * 【27†News and Events】
+L41:   * 【28†Training and Continuing Education】
+L42:   * 【29†Inspections and Compliance】
+L43:   * 【30†Science and Research】
+L44: ## Information For
+L45: 
+L46:   * 【31†Consumers】
+L47:   * 【32†Patients】
+L48:   * 【33†Industry】
+L49:   * 【34†Health Professionals】
+L50:   * 【35†Federal, State and Local Officials】
+L51: 
+L52:   * 【17†Vaccines, Blood, & Biologics】
+L53: 
+L54:     * 【36†Infectious Disease Tests】
+L55:     * 【37†CBER Reports】
+L56:     * 【38†Center for Biologics Evaluation and Research (CBER) Product Approval Information】
+L57:     * 【39†Fecal Microbiota Products】
+L58:     * 【40†Allergenics】
+L59:     * 【41†Blood & Blood Products】
+L60:     * 【42†Blood Donor Screening】
+L61:     * 【43†Cellular & Gene Therapy Products】
+L62:     * 【44†Development & Approval Process (CBER)】
+L63:     * 【45†Guidance, Compliance & Regulatory Information (Biologics)】
+L64:     * 【46†International Activities】
+L65:     * 【47†News & Events (Biologics)】
+L66:     * 【48†Resources for You (Biologics)】
+L67:     * 【49†Safety & Availability (Biologics)】
+L68:     * 【50†Science & Research (Biologics)】
+L69:     * 【51†Tissue & Tissue Products】
+L70:     * 【52†Vaccines】
+L71:     * 【53†Xenotransplantation】
+L72: # PAPZIMEOS
+L73: 
+L74: STN: 125832
+L75: Proper Name: zopapogene imadenovec-drba
+L76: Tradename: PAPZIMEOS
+L77: Manufacturer: Precigen, Inc.
+L78: Indication:
+L79: 
+L80:   * For the treatment of adults with recurrent respiratory papillomatosis.
+L81: 
+L82: ## Product Information
+L83: 
+L84:   * 【54†Package Insert - PAPZIMEOS】
+L85: ## Supporting Documents
+L86: 
+L87:   * 【55†February 25, 2026 Approval Letter - PAPZIMEOS】
+L88:   * 【56†August 14, 2025 Approval Letter - PAPZIMEOS】
+L89:   * 【57†August 14, 2025 Summary Basis for Regulatory Action - PAPZIMEOS】
+L90:   * 【58†Letters, Reviews, and Related Documents - PAPZIMEOS】
+L91: 
+L92: [Button: Feedback]
+L93: 
+L94:   * 【59†FDA Archive】
+L95:   * 【21†About FDA】
+L96:   * 【60†Accessibility】
+L97: 
+L98:   * 【61†Visitor Information】
+L99:   * 【62†Website Policies / Privacy】
+L100:   * 【63†No FEAR Act】
+L101:   * 【64†Vulnerability Disclosure Policy†www.hhs.gov】
+L102:   * 【65†FOIA】
+L103:   * 【66†HHS.gov†www.hhs.gov】
+L104:   * 【67†USA.gov†www.usa.gov】
+L105: 
+L106: 【6†Contact FDA】 【68†Follow FDA on Facebook†www.facebook.com】 【69†Follow FDA on X†x.com】 【70†Follow FDA on Instagram†instagram.com】
+L107: 【71†Follow FDA on LinkedIn†www.linkedin.com】 【72†View FDA videos on YouTube†youtube.com】 【73†Subscribe to FDA RSS feeds】
+L108: 
+L109: Contact Number 1-888-INFO-FDA (1-888-463-6332)
+L110: 
+L111: Back to Top
+--------------------------------------------------------------------------------
+SKYSONA | FDA (https://www.fda.gov/vaccines-blood-biologics/skysona)
+citeturn58view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.fda.gov/vaccines-blood-biologics/skysona","pattern":"2022"}); Total lines: 118
+L44: ## Information For
+L45: 
+L46:   * 【31†Consumers】
+L47:   * 【32†Patients】
+L48:   * 【33†Industry】
+L49:   * 【34†Health Professionals】
+L50:   * 【35†Federal, State and Local Officials】
+L51: 
+L52:   * 【17†Vaccines, Blood, & Biologics】
+L53: 
+L54:     * 【36†Infectious Disease Tests】
+L55:     * 【37†CBER Reports】
+L56:     * 【38†Center for Biologics Evaluation and Research (CBER) Product Approval Information】
+L57:     * 【39†Fecal Microbiota Products】
+L58:     * 【40†Allergenics】
+L59:     * 【41†Blood & Blood Products】
+L60:     * 【42†Blood Donor Screening】
+L61:     * 【43†Cellular & Gene Therapy Products】
+L62:     * 【44†Development & Approval Process (CBER)】
+L63:     * 【45†Guidance, Compliance & Regulatory Information (Biologics)】
+L64:     * 【46†International Activities】
+L65:     * 【47†News & Events (Biologics)】
+L66:     * 【48†Resources for You (Biologics)】
+L67:     * 【49†Safety & Availability (Biologics)】
+L68:     * 【50†Science & Research (Biologics)】
+L69:     * 【51†Tissue & Tissue Products】
+L70:     * 【52†Vaccines】
+L71:     * 【53†Xenotransplantation】
+L72: # SKYSONA
+L73: 
+L74: STN: 125755
+L75: Proper Name: elivaldogene autotemcel
+L76: Tradename: SKYSONA
+L77: Manufacturer: bluebird bio, Inc.
+L78: 
+L79: ## 【54†Indication】
+L80: 
+L81:   * SKYSONA is indicated to slow the progression of neurologic dysfunction in boys 4- 17 years of age with early, active cerebral adrenoleukodystrophy (CALD) without an available human leukocyte antigen (HLA)-matched donor for allogeneic hematopoietic stem cell transplant.
+L82: ## 【55†Latest Safety Information】
+L83: 
+L84:   * 【56†FDA Approves Required Labeling Changes for Increased Risk of Hematologic Malignancy Following Treatment with Skysona (elivaldogene autotemcel)】
+L85: August 7, 2025
+L86: ## 【57†Product Information】
+L87: 
+L88:   * 【58†Package Insert - SKYSONA】
+L89:   * Demographic Subgroup Information – elivaldogene autotemcel [SKYSONA]
+L90: Refer to Section 1.1 of the 【59†Clinical Review Memo】 for information about participation in the clinical trials and any analysis of demographic subgroup outcomes that is notable.
+L91: ## 【60†Supporting Documents】
+L92: 
+L93:   * 【61†August 7, 2025 Approval Letter - SKYSONA】
+L94:   * 【62†April 5, 2024 Approval Letter - SKYSONA】
+L95:   * 【63†September 16, 2022 Approval Letter - SKYSONA】
+L96:   * 【64†Summary Basis for Regulatory Action - SKYSONA】
+L97:   * 【65†Approval History, Letters, Reviews and Related Documents - SKYSONA】
+L98: 
+L99: [Button: Feedback]
+L100: 
+L101:   * 【66†FDA Archive】
+L102:   * 【21†About FDA】
+L103:   * 【67†Accessibility】
+L104:   * 【68†Visitor Information】
+L105:   * 【69†Website Policies / Privacy】
+L106:   * 【70†No FEAR Act】
+L107:   * 【71†Vulnerability Disclosure Policy†www.hhs.gov】
+L108: 
+L109:   * 【72†FOIA】
+L110:   * 【73†HHS.gov†www.hhs.gov】
+L111:   * 【74†USA.gov†www.usa.gov】
+L112: 
+L113: 【6†Contact FDA】 【75†Follow FDA on Facebook†www.facebook.com】 【76†Follow FDA on X†x.com】 【77†Follow FDA on Instagram†instagram.com】
+L114: 【78†Follow FDA on LinkedIn†www.linkedin.com】 【79†View FDA videos on YouTube†youtube.com】 【80†Subscribe to FDA RSS feeds】
+L115: Contact Number 1-888-INFO-FDA (1-888-463-6332)
+L116: 
+L117: Back to Top
+--------------------------------------------------------------------------------
+ZYNTEGLO | FDA (https://www.fda.gov/vaccines-blood-biologics/zynteglo)
+citeturn58view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.fda.gov/vaccines-blood-biologics/zynteglo","pattern":"2022"}); Total lines: 115
+L22: ## Products
+L23: 
+L32: ## Topics
+L33: 
+L34:   * 【21†About FDA】
+L35:   * 【22†Combination Products】
+L36:   * 【23†Regulatory Information】
+L37:   * 【24†Safety】
+L38:   * 【25†Emergency Preparedness】
+L39:   * 【26†International Programs】
+L40:   * 【27†News and Events】
+L41:   * 【28†Training and Continuing Education】
+L42:   * 【29†Inspections and Compliance】
+L43:   * 【30†Science and Research】
+L44: ## Information For
+L45: 
+L46:   * 【31†Consumers】
+L47:   * 【32†Patients】
+L48:   * 【33†Industry】
+L49:   * 【34†Health Professionals】
+L50:   * 【35†Federal, State and Local Officials】
+L51: 
+L52:   * 【17†Vaccines, Blood, & Biologics】
+L53: 
+L54:     * 【36†Infectious Disease Tests】
+L55:     * 【37†CBER Reports】
+L56:     * 【38†Center for Biologics Evaluation and Research (CBER) Product Approval Information】
+L57:     * 【39†Fecal Microbiota Products】
+L58:     * 【40†Allergenics】
+L59:     * 【41†Blood & Blood Products】
+L60:     * 【42†Blood Donor Screening】
+L61:     * 【43†Cellular & Gene Therapy Products】
+L62:     * 【44†Development & Approval Process (CBER)】
+L63:     * 【45†Guidance, Compliance & Regulatory Information (Biologics)】
+L64:     * 【46†International Activities】
+L65:     * 【47†News & Events (Biologics)】
+L66:     * 【48†Resources for You (Biologics)】
+L67:     * 【49†Safety & Availability (Biologics)】
+L68:     * 【50†Science & Research (Biologics)】
+L69:     * 【51†Tissue & Tissue Products】
+L70:     * 【52†Vaccines】
+L71:     * 【53†Xenotransplantation】
+L72: # ZYNTEGLO
+L73: 
+L74: STN: 125717
+L75: Proper Name: betibeglogene autotemcel
+L76: Tradename: ZYNTEGLO
+L77: Manufacturer: bluebird bio Inc.
+L78: Indication:
+L79: 
+L80:   * For treatment of adult and pediatric patients with ß-thalassemia who require regular red blood cell (RBC) transfusions
+L81: ## 【54†Product Information】
+L82: 
+L83:   * 【55†Package Insert - ZYNTEGLO】
+L84:   * Demographic Subgroup Information – betibeglogene autotemcel [ZYNTEGLO]
+L85: Refer to Section 1.1 of the 【56†Clinical Review Memo】 for information about participation in the clinical trials and any analysis of demographic subgroup outcomes that is notable.
+L86: ## 【57†Supporting Documents】
+L87: 
+L88:   * 【58†August 17, 2022 Approval Letter - ZYNTEGLO】
+L89:   * 【59†August 17, 2022 Summary Basis for Regulatory Action - ZYNTEGLO】
+L90:   * 【60†Approval History, Letters, Reviews and Related Documents - ZYNTEGLO】
+L91: ## 【61†Related Information】
+L92: 
+L93:   * 【62†FDA Approves First Cell-Based Gene Therapy to Treat Adult and Pediatric Patients with Beta-thalassemia Who Require Regular Blood Transfusions†web.archive.org】
+L94: 
+L95: [Button: Feedback]
+L96: 
+L97:   * 【63†FDA Archive】
+L98:   * 【21†About FDA】
+L99:   * 【64†Accessibility】
+L100: 
+L101:   * 【65†Visitor Information】
+L102:   * 【66†Website Policies / Privacy】
+L103:   * 【67†No FEAR Act】
+L104:   * 【68†Vulnerability Disclosure Policy†www.hhs.gov】
+L105: 
+L106:   * 【69†FOIA】
+L107:   * 【70†HHS.gov†www.hhs.gov】
+L108:   * 【71†USA.gov†www.usa.gov】
+L109: 【6†Contact FDA】 【72†Follow FDA on Facebook†www.facebook.com】 【73†Follow FDA on X†x.com】 【74†Follow FDA on Instagram†instagram.com】
+L110: 【75†Follow FDA on LinkedIn†www.linkedin.com】 【76†View FDA videos on YouTube†youtube.com】 【77†Subscribe to FDA RSS feeds】
+L111: 
+L112: Contact Number 1-888-INFO-FDA (1-888-463-6332)
+L113: 
+L114: Back to Top
+

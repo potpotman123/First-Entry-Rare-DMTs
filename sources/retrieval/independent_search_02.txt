@@ -1,0 +1,247 @@
+Financial ecosystem of medicine development (https://www.sirm.nl/docs/Annex-A_2022-06-21-195701_lxas.pdf?v=1675090788)
+citeturn49search12 [wordlim: 200] Published: 4.7 years ago; Luxturna is expected to reach $189m global sales in 2026; Spark sold PRV* from Luxturna’s approval for $110m to fund pipeline research
+
+Luxturna historical and forecast revenue (2017–26F)
+Luxturna is expected to reach $189m global sales in 2026; Spark sold PRV* from Luxturna’s approval for $110m to fund pipeline research
+
+Luxturna historical and forecast revenue (2017–26F)  
+Millions of USD
+
+Year timeline and revenue bars:
+- 2017: 27, 100%
+- 2018: no revenue bar shown
+- 2019: 79, 100%
+- 2020: 18, split 59% / 41% (callout says “Data for 2020 limited”)
+- 2021F: 107, 46% / 54%
+- 2022F: 156, 55% / 45%
+- 2023F: 184, 62% / 38%
+- 2024F: 188, 69% / 31%
+- 2025F: 189, 73% / 27%
+- 2026F: 189, 77% / 23%
+
+Forecast marker: “Forecast” with arrow after 2020.
+
+Year labels on timeline:
+2017, 2018, 2019, 2020, 2021F, 2022F, 2023F, 2024F, 2025F, 2026F
+
+Approval / milestone callouts:
+- FDA approval
+- EMA approval
+- Spark sold PRV* granted by FDA from Luxturna’s approval for $110m to Jazz Pharmaceuticals
+
+Legend:
+- Transactions and agreements
+- Development milestones
+- Approval / designations
+
+Table:
+
+<table id="e1">
+<tr><th>Year</th><th>Indication approved^</th></tr>
+<tr><td>2017</td><td>Retinal dystrophy by biallelic RPE65 mutation</td></tr>
+</table>
+
+Notes: * Priority Review Voucher; ^FDA approval dates  
+Source: Biomedtracker; Company press release; Cortellis; EMA; FDA; PharmaProjects; L.E.K. research and analysis
+
+SiRM. Strategies in Regulated Markets  
+LEK.  
+247--------------------------------------------------------------------------------
+Developing innovative therapies in (https://inventivapharma.com/wp-content/uploads/2022/07/02-Inventiva-Presentation-ENG-300123.pdf)
+citeturn49search13 [wordlim: 200] Published: 1.4 years ago; Source: Sales - Full year 2021 press-release; WAC without discounts for a 25-kg patient - BioCentury “Making of MEPSEVII” Dec 11, 2017; (1) Takeda Annual Securities Report from April 1, 2021 to March 31, 2022;
+Despite enzyme replacement therapies (ERT) being commercially 
+successful, many unmet medical needs remain
+Enzyme replacement therapies are standard of care in MPS
+Recombinant human enzymes, requiring a once a week intravenous infusion over 4 hours
+Limited penetration into protected or poorly vascularized tissues such as cornea or cartilage, where 
+MPS symptoms often manifest
+Product
+Company
+MPS
+Est. yearly cost
+2021 sales
+MPS I
+$ 217K
+€ 243M
+MPS II
+$ 522K
+$ 538M(1)
+MPS IVA
+$ 578K
+$ 623M 
+MPS VI
+$ 476K
+$ 380M
+MPS VII
+$ 550K
+$ 16M
+Source: Sales - Full year 2021 press-release; WAC without discounts for a 25-kg patient - BioCentury “Making of MEPSEVII” Dec 11, 2017; (1) Takeda Annual Securities Report from April 1, 2021 to March 31, 2022; 
+1 yen = 0,0074$; elaprase FY sales 73,119 JPY
+ERT is expensive and usually requires outpatient administration. Significant unmet need 
+remains in addressing symptoms in organs where ERT fails to penetrate 
+Source: H. Noh, J. I. Lee; Current and potential therapeutic strategies for mucopolysaccharidoses; Journal of Clinical Pharmacy
+Corporate Presentation | 2023
+Property of Inventiva │ 57--------------------------------------------------------------------------------
+2023 年4 月改訂（第4 版） (https://www.ultragenyx.com/jp/wp-content/uploads/sites/2/2023/04/Mepsevii-Interview-Form.pdf)
+citeturn49search14 [wordlim: 200] Published: 5 months ago; 本剤は、2017 年11 月15 日にムコ多糖症VII 型の治療薬として米国で承認され、EU では2018 年8 月23 ... 海外における発売状況（2022 年5 月時点） 
+販売名 （承認国） Mepsevii （米国） | 効能又は効果 小児及び成人ムコ多糖症VII 型 （スライ症候群）の治療 使用制限 中枢神経系症状に対する効果 は確立していない | 用法及び用量 体重1kg あたりベストロニダーゼ アルファとし て4mg を2 週間の間隔で点滴静注する。
+Ⅻ．参考資料 
+1. 主な外国での発売状況 
+本剤は、2017 年11 月15 日にムコ多糖症VII 型の治療薬として米国で承認され、EU では2018 年8 月23
+日に同様の効能又は効果で承認された。また、2018 年10 月15 日にはブラジルでムコ多糖症VII 型の治
+療薬として承認された。 
+ 
+海外における発売状況（2022 年5 月時点） 
+販売名 （承認国） Mepsevii （米国） | 効能又は効果 小児及び成人ムコ多糖症VII 型 （スライ症候群）の治療 使用制限 中枢神経系症状に対する効果 は確立していない | 用法及び用量 体重1kg あたりベストロニダーゼ アルファとし て4mg を2 週間の間隔で点滴静注する。 非鎮静性抗ヒスタミン剤を単独又は解熱剤との 併用で本剤投与開始の30～60 分前に前投薬する こと。 4 時間以上かけて投与すること。最初の1 時間で 総量2.5％を投与する。その後、投与速度を上げ、 3 時間以上かけて残りを投与する。 --- | --- | --- 販売名 （承認国） Mepsevii （EU） | 効能又は効果 ムコ多糖症VII 型（スライ症候 群）の非神経系症状の治療 | 用法及び用量 体重1kg あたりベストロニダーゼ アルファとし て4mg を2 週間の間隔で点滴静注する。 過敏症反応のリスクを最小化するため、非鎮静 性抗ヒスタミン剤を単独又は解熱剤との併用で 本剤投与開始の30～60 分前に前投薬すること。 急性の発熱又は呼吸器疾患を合併した患者には 投与しないこと。 販売名 （承認国） Mepsevii （ブラジル） | 効能又は効果 ムコ多糖症VII 型（スライ症候 群）の非神経系症状の治療 | 用法及び用量 体重1kg あたりベストロニダーゼ アルファとし て4mg を2 週間の間隔で点滴静注する。 過敏症反応のリスクを最小化するため、非鎮静 性抗ヒスタミン剤を単独又は解熱剤との併用で 本剤投与開始の30～60 分前に前投薬すること。 急性の発熱又は呼吸器疾患を合併した患者には 投与しないこと。 
+ 
+ 
+58--------------------------------------------------------------------------------
+Author name (https://www.egetis.com/wp-content/uploads/Egetis-Corporate-Presentation-August-2022.pdf)
+citeturn49search15 [wordlim: 200] Published: 4.2 years ago; Disease | Vimizim® Recombinant enzyme MPS IVA | Kalydeco® Small molecule CF with specific mutations | Spinraza® Antisense oligonucleotide SMA | Brineura® Recombinant enzyme CLN2 --- | --- | --- | --- | --- Rarity - less than 1:50,000 people | Vimizim® Recombinant enzyme  | Kalydeco® Small molecule  | Spinraza® Antisense oligonucleotide  | Brineura® Recombinant enzyme  Severity – life threatening/debilitating | Vimizim® Recombinant enzyme  | Kalydeco® Small molecule  | Spinraza® Antisense oligonucleotide  | Brineura® Recombinant enzyme  Health gain | Vimizim® Recombinant enzyme  | Kalydeco® Small molecule  | Spinraza® Antisense oligonucleotide  | Brineura® Recombinant enzyme  Global annual treatment cost | Vimizim® Recombinant enzyme > $400k | Kalydeco® Small molecule > $250k | Spinraza® Antisense oligonucleotide > $350k | Brineura® Recombinant enzyme > $600k Year of 1st approval | Vimizim® Recombinant enzyme 2011 | Kalydeco® Small molecule 2012 | Spinraza® Antisense oligonucleotide 2016 | Brineura® Recombinant enzyme 2017 Global sales 3rd year in market | Vimizim® Recombinant enzyme $354mn | Kalydeco® Small molecule $464mn | Spinraza® Antisense oligonucleotide $1.7bn | Brineura® Recombinant enzyme $110m Global sales 2020 | Vimizim® Recombinant enzyme $544mn | Kalydeco® Small molecule $803mn | Spinraza® Antisense oligonucleotide $2.1bn | Brineura® Recombinant enzyme $110m32
+Analogue orphan drugs priced at premium 
+Rapid market penetration with considerable sales already 3rd year in market
+• Emcitate fulfills these criteria, no other drugs available or 
+• Payers in general accept higher prices for orphan drugs 
+being developed for MCT8 deficiency
+compared to traditional drugs and especially if they; 
+‒ Address an ultra rare disease, e.g. prevalence less than 
+1:50,000 people
+‒ Target a severe disease, i.e. life threatening/debilitating
+‒ Provide health gain, rather than just condition stabilization 
+Analogue orphan drugs
+Disease | Vimizim® Recombinant enzyme MPS IVA | Kalydeco® Small molecule CF with specific mutations | Spinraza® Antisense oligonucleotide SMA | Brineura® Recombinant enzyme CLN2 --- | --- | --- | --- | --- Rarity - less than 1:50,000 people | Vimizim® Recombinant enzyme  | Kalydeco® Small molecule  | Spinraza® Antisense oligonucleotide  | Brineura® Recombinant enzyme  Severity – life threatening/debilitating | Vimizim® Recombinant enzyme  | Kalydeco® Small molecule  | Spinraza® Antisense oligonucleotide  | Brineura® Recombinant enzyme  Health gain | Vimizim® Recombinant enzyme  | Kalydeco® Small molecule  | Spinraza® Antisense oligonucleotide  | Brineura® Recombinant enzyme  Global annual treatment cost | Vimizim® Recombinant enzyme > $400k | Kalydeco® Small molecule > $250k | Spinraza® Antisense oligonucleotide > $350k | Brineura® Recombinant enzyme > $600k Year of 1st approval | Vimizim® Recombinant enzyme 2011 | Kalydeco® Small molecule 2012 | Spinraza® Antisense oligonucleotide 2016 | Brineura® Recombinant enzyme 2017 Global sales 3rd year in market | Vimizim® Recombinant enzyme $354mn | Kalydeco® Small molecule $464mn | Spinraza® Antisense oligonucleotide $1.7bn | Brineura® Recombinant enzyme $110m Global sales 2020 | Vimizim® Recombinant enzyme $544mn | Kalydeco® Small molecule $803mn | Spinraza® Antisense oligonucleotide $2.1bn | Brineura® Recombinant enzyme $110m32
+|   Egetis Therapeutics |   2022-08-22
+Corporate presentation--------------------------------------------------------------------------------
+10-Q (https://www.sec.gov/Archives/edgar/data/1515673/000095017023058427/rare-20230930.htm)
+citeturn49search0 [wordlim: 200] Published: 3.0 years ago; Crawled: 3.0 years ago;    |    | 2023  |    |    | 2022  | ... The following table disaggregates total revenues from external customers by product sales, royalty revenue, and collaboration and license revenue (in thousands): ... Mepsevii  |    | 5,633  |    |    |    | 6,045  |    |    |    | (412  | )  |    |    | -7  | %
+Results of Operations
+
+Comparison of the three and nine months ended September 30, 2023 to the three and nine months ended September 30, 2022:
+
+Revenue (dollars in thousands)
+
+ 
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+   | Three Months Ended September 30,  |    |    | Dollar  |    |    | %  |  
+   | 2023  |    |    | 2022  |    |    | Change  |    |    | Change  |  
+Product sales:  |    |    |    |    |    |    |    |    |    |    |  
+Crysvita  | $  | 19,200  |    |    | $  | 13,184  |    |    | $  | 6,016  |    |    |    | 46  | %
+Mepsevii  |    | 5,633  |    |    |    | 6,045  |    |    |    | (412  | )  |    |    | -7  | %
+Dojolvi  |    | 16,553  |    |    |    | 13,274  |    |    |    | 3,279  |    |    |    | 25  | %
+Evkeeza  |    | 963  |    |    |    | —  |    |    |    | 963  |    |    |    | 100  | %
+Total product sales  |    | 42,349  |    |    |    | 32,503  |    |    |    | 9,846  |    |    |    | 30  | %
+Crysvita royalty revenue  |    | 55,703  |    |    |    | 5,373  |    |    |    | 50,330  |    |    | *  |  
+--------------------------------------------------------------------------------
+10-K (https://www.sec.gov/Archives/edgar/data/1515673/000095017023003096/rare-20221231.htm)
+citeturn49search1 [wordlim: 200] Published: 3.7 years ago; Crawled: 3.7 years ago; As of December 31, 2022, we own, jointly own, or have exclusive rights to more than 225 issued and in-force patents (not including individually validated national patents in European Patent Convention member countries) that cover one or more of our products or product candidates, methods of their use, or methods of their manufacture, including more than 45 in-force patents issued by the U.S. ... In addition to the foregoing patent protections, Crysvita is protected in the U.S. by regulatory exclusivity until 2030 and by orphan drug exclusivity for treating XLH and TIO until 2025 and 2027, respectively. ... We received PRVs under the PRV Voucher Program in connection with the approval of Mepsevii and Crysvita in 2018 and subsequently sold these two PRVs to third parties for an average amount of $105.3 million for each PRV.
+The FDA Rare Pediatric Disease Priority Review Voucher Program, or PRV Voucher Program, awards Priority Review Vouchers, or PRVs, to sponsors of rare pediatric product applications that meet certain criteria. Under the program, a company that receives an approval for a product for a rare pediatric disease (as determined by the applicable regulations) may qualify for a PRV that can be redeemed to receive Priority Review of a subsequent marketing application for a different product. PRVs may also be sold by the company to third parties. We received PRVs under the PRV Voucher Program in connection with the approval of Mepsevii and Crysvita in 2018 and subsequently sold these two PRVs to third parties for an average amount of $105.3 million for each PRV. The current PRV Voucher Program is scheduled to sunset such that the FDA may only award a PRV for a product application if a company receives the rare pediatric disease designation from the FDA for the product candidate by September 30, 2024, and the FDA will cease awarding PRVs after September 30, 2026. --------------------------------------------------------------------------------
+Access to orphan medicines in Swedish healthcare (https://www.regionvasterbotten.se/VLL/Filer/Briefing%20paper_Access%20and%20time%20to%20access%20to%20orphans%202023_SWE.pdf)
+citeturn49search16 [wordlim: 200] Published: 1.5 years ago; recorded sales before the date of marketing authorisation, the date of first use has been standardised to the date of marketing authorisation (e.g. for already well-established ... The analysis included the following orphan medicines, authorised for the European market between 2017 and 2022: Adakveo, Arikayce liposomal, Brineura, Besponsa,
+and Secrecy Act. Sales statistics gathered primarily from the eHealth Agency's Concise database. A qualitative assessment of medicines was conducted by medical and 
+pharmacological experts from within the Swedish healthcare system, in addition to a review of supplementary referenced literature. Note that available sales data is not linked 
+to specific indications, which means that it is not possible to definitively determine that the occurrence of use corresponds to a specific orphan indication. For medicines with 
+recorded sales before the date of marketing authorisation, the date of first use has been standardised to the date of marketing authorisation (e.g. for already well-established 
+and now repurposed medicines or as an indication of off-label use).
+The analysis included the following orphan medicines, authorised for the European market between 2017 and 2022: Adakveo, Arikayce liposomal, Brineura, Besponsa, 
+Blenrep, Cablivi, Crysvita, Cystadrops, Epidyolex, Givlaari, Hepcludex, Idefrix, Jorveza, Kaftrio, Kymriah, Ledaga, Luxturna, Mylotarg, Namuscla, Natpar, Onpattro, 
+--------------------------------------------------------------------------------
+Commercial performance of AAV gene therapies: Market review and future implications - Recon Strategy (https://reconstrategy.com/2025/02/commercial-performance-of-aav-gene-therapies-market-review-and-future-implications/)
+citeturn49search2 [wordlim: 200] Published: 1.8 years ago; Crawled: last month; In 2017, the FDA approved Luxturna for the treatment of Leber’s congenital amaurosis (LCA), marking the first gene therapy used for an inherited disease in the U.S. ... In reality, Luxturna’s total sales from 2018 through 2023 have been closer to $250M.
+Concerns with safety in AAV gene therapy is another commonly raised issue, with alternative delivery approaches a potential future solution. Perhaps most important has been the mixed commercial success of in-vivo gene therapies to date, with multiple market withdrawals in Europe and generally underwhelming revenues accrued in the U.S. In this piece, we explore the current commercial performance of the AAV-based gene therapies approved in the U.S. by 2023, to better understand the market realities and identify key learnings for future products.
+
+Underwhelming commercial performance of Luxturna potentially skewed by overestimated patient population
+
+Luxturna is the only approved therapy for LCA and has captured the wide majority of eligible patients
+
+Spark Therapeutics’s approval of Luxturna in 2017 was a milestone for gene therapy in the U.S., leading to its subsequent acquisition by Roche. Luxturna is indicated for patients with biallelic RPE65-associated retinal dystrophy, having either retinitis pigmentosa (RP) or Leber congenital amaurosis (LCA) and sufficient viable retinal cells as determined by the treating physician. Around the time of launch, Wall Street analysts were bullish on commercial expectations with peak sales ranging between $350M and $750M by 2022, and total lifetime revenues of >$1-3B. In reality, Luxturna’s total sales from 2018 through 2023 have been closer to $250M. Interestingly, KOLs have reported most patients eligible for Luxturna have been treated, indicating significant patient uptake of Luxturna. So why the discrepancy?
+
+--------------------------------------------------------------------------------
+THERAPEUTIC (https://20243499.fs1.hubspotusercontent-na1.net/hubfs/20243499/Blog%20Import/PharmaVOICETherapeuticDigest-GeneTherapy-0921%20%281%29.pdf)
+citeturn49search17 [wordlim: 200] Published: last year; In 2017, Luxturna became the first gene therapy to receive FDA approval. ... forecasted 2020 commercial sales, Roche reported that Luxturna failed to make it to its “growth
+GENE THERAPIES IN RARE DISEASE
+In 2017, Luxturna became the first gene therapy to receive FDA approval. The price tag for this one-
+time treatment is $850,000 (or $425,000 per eye). Zolgensma is currently the most expensive therapy 
+in the world, commanding more than $2M per treatment.
+In 2018, sales from Luxturna were nearly $27M. In 2019, sales rose to almost $44M. Staggering 
+sums, yes, but compared to the $550M loss accumulated during development and lower-than-
+forecasted 2020 commercial sales, Roche reported that Luxturna failed to make it to its “growth 
+drivers” list. Despite a remarkable observed clinical benefit in children who receive it, Zolgensma’s 
+sales in the US have stalled and 2021 revenue is being driven largely by sales in Europe. Novartis 
+recently announced it would close one of its Zolgensma production plants, laying off 400 employees 
+in the process. 
+Part of what we are seeing with Luxturna and Zolgensma are the aftershocks of payer coverage 
+decisions that are more restrictive than FDA labeling or require prior authorizations and step edits, 
+--------------------------------------------------------------------------------
+Where are the other Luxturna’s? Challenges with gene therapy for inherited retinal diseases | Alex’s blog (https://atelfo.github.io/2022/06/02/where-are-the-other-luxturnas.html)
+citeturn49search3 [wordlim: 200] Published: 4.4 years ago; Crawled: 8 months ago; Quarterly US sales hovered around $10m prior to Roche’s acquisition, even with its high US list price at launch of $425,000 per eye. ... Spark was able to supplement their US revenue stream by licensing out Luxturna’s ex-US rights to Novartis for $105m upfront and $65m in milestones (plus royalties)^{13}, as well as selling their paediatric priority review voucher to Jazz pharmaceuticals for $110m^{14}. ... FY2014  | $17.1m  | $25.0m ... FY2017  | $143.8m  | $270.6m
+### Luxturna had only modest commercial success
+
+Despite Luxturna’s laudable technical, clinical and regulatory successes, Spark’s commercial rewards for developing the gene therapy were minimal - in large part because there are so few addressable patients. Quarterly US sales hovered around $10m prior to Roche’s acquisition, even with its high US list price at launch of $425,000 per eye.
+
+Table 1: Luxturna US revenue by quarter
+
+Time period  | US sales
+--- | ---
+Q1 2018  | $2.4m
+Q2 2018  | $4.3m
+Q3 2018  | $8.9m
+Q4 2018  | $11.4m
+Q1 2019  | $9.8m
+Q2 2019  | $11.5m
+Q3 2019  | $6.9m
+Total  | $55.2m
+
+Source: Spark’s SEC filings
+
+Spark was able to supplement their US revenue stream by licensing out Luxturna’s ex-US rights to Novartis for $105m upfront and $65m in milestones (plus royalties)^{13}, as well as selling their paediatric priority review voucher to Jazz pharmaceuticals for $110m^{14}. Although when taken as a whole Spark only made around $300m from Luxturna up until their acquisition, which hardly recoups the $568m in expenses they incurred from IPO up to Luxturna’s launch.
+
+Table 2: Spark’s annual R&D costs and total operating expenses from IPO up to the Luxturna’s launch (note that this also includes expenses related to their haemophilia program, among others)
+
+Time period  | R&D costs  | Total operating expenses
+--- | --- | ---
+FY2013  | $54.9m  | $57.3m
+FY2014  | $17.1m  | $25.0m
+FY2015  | $46.0m  | $69.4m
+FY2016  | $97.5m  | $145.6m
+FY2017  | $143.8m  | $270.6m
+Total  | $359.3  | $567.9m
+
+Source: Spark’s SEC filings
+
+Following the acquisition public sales figures are not available as neither Roche nor Novartis breaks them out. It seems safe to assume that Luxturna is not generating meaningful revenues for either company. I suspect that the limited return on investment from Luxturna has been a factor deterring other companies from pursuing gene therapy programs for other IRDs.
+
+--------------------------------------------------------------------------------
+ (https://www.sec.gov/Archives/edgar/data/1048477/000156459019005033/bmrn-10k_20181231.htm)
+citeturn49search4 [wordlim: 200] Published: 7.7 years ago; Crawled: 7.7 years ago;    | •  | Aldurazyme – The increase in 2018 compared to 2017 is attributable to an increase in sales volume and the adoption of ASC Topic 606, which contributed $20.2 million to the increase. ...    | •  | Brineura – The increase in 2018 compared to 2017 was primarily attributable to new patients initiating therapy as the product was commercially launched in mid-2017.
+--------------------------------------------------------------------------------
+rare-10k_20201231.htm (https://www.sec.gov/Archives/edgar/data/1515673/000156459021005610/rare-10k_20201231.htm)
+citeturn49search5 [wordlim: 200] Published: 5.7 years ago; Crawled: 5.7 years ago; The Mepsevii drug substance and drug product are manufactured by Rentschler Biopharma SE, or Rentschler, under non-exclusive commercial supply and services agreements effective December 2017 and January 2018, respectively. ... If we fail to qualify our alternative supplier in a timely manner, we could experience delays or disruptions in the supply of Mepsevii, which would negatively impact sales of the product. ...    | •  | for Dojolvi, a decrease of $2.0 million primarily related to the impact of inventory capitalization of commercial manufacturing costs post-approval by the FDA in June 2020 and NDA filing costs incurred in 2019;
+--------------------------------------------------------------------------------
+Next Generation Therapies Overview | PDF | Gene Therapy | Rna (https://www.scribd.com/document/737689098/gx-finance-next-generation-therapies)
+citeturn49search6 [wordlim: 200] Published: 6.9 years ago; Crawled: 2.4 years ago; 400 787 Luxturna Mar 2018 AAV2 treatment for ... 2017 2018E 2019E 2020E 2021E 2022E 2023E 2024E ... ~$8 Million in 2017 are not included in analysis Source: Evaluate Pharma for Consensus Equity Analyst Projections; company websites
+--------------------------------------------------------------------------------
+Document (https://www.sec.gov/Archives/edgar/data/1609351/000160935119000042/spark-201810xk.htm)
+citeturn49search7 [wordlim: 200] Published: 7.7 years ago; Crawled: 7.7 years ago; In the year ended December 31, 2018, we recognized $64.7 million in total revenues, of which $27.0 million was net product sales of LUXTURNA and $37.8 million was associated with our agreements with Pfizer and Novartis.
+--------------------------------------------------------------------------------
+Alexion bolsters rare disease drugs business with $8.4 billion deal By Reuters (https://uk.investing.com/news/stock-market-news/alexion-pharma-to-buy-synageva-biopharma-for-%248.4-billion-47702)
+citeturn49search8 [wordlim: 200] Published: 11.4 years ago; Crawled: 4 days ago; Published 06/05/2015, 17:22 ... Kanuma is expected to touch peak sales of $603 million in 2020, according to Thomson Reuters Cortellis. ... "While some investors may be picking their jaws off the floor at such a valuation, we note that Synageva has only disclosed a fraction of its development efforts," Baird Equity Research analyst Christopher Raymond said.
+--------------------------------------------------------------------------------
+RARE: Conferencia de resultados T1-2018 - Alpha Spread (https://www.alphaspread.com/es/security/nasdaq/rare/earnings-calls/q1-2018)
+citeturn49search9 [wordlim: 200] Published: 8.5 years ago; Crawled: last week; So the vast majority of that revenue is attributable to MEPSEVII, and a very small amount is attributable to named-patient sales for UX007.
+--------------------------------------------------------------------------------
+Ocugen (OCGN): If you can’t trust management, what’s the point? (https://afailuretocommunicate.substack.com/p/ocugen-ocgn-if-you-cant-trust-management)
+citeturn49search10 [wordlim: 200] Published: 2.6 years ago; Crawled: last month; So now the company is promoting OCU400, their gene therapy product for retinitis pigmentosa (RP), with some outlandish revenue projections such as $18 billion in annual sales in 2030. ... Not too shocking as Luxturna revenues were only CHF44m (around $49 million) in 2023 despite being on the market since 2017.
+--------------------------------------------------------------------------------
+Luxturna inventor's research helps seal gene therapy biotech Opus Genetics' $19M debut | Fierce Biotech (https://www.fiercebiotech.com/biotech/luxturna-inventor-behind-new-eye-gene-therapy-biotech-opus-genetics-snags-19m)
+citeturn49search11 [wordlim: 200] Published: 5.1 years ago; Crawled: last month; Among the first gene therapies approved for a genetic disease, Luxturna secured the FDA nod for an inherited form of vision loss in December 2017. ... Roche does not currently break out Luxturna sales, but the therapy was estimated to be worth $326 million at the end of December 2020.
+--------------------------------------------------------------------------------
+Voretigene neparvovec (https://en.wikipedia.org/wiki/Voretigene_neparvovec)
+citeturn49search18 [wordlim: 200] Crawled: 7 months ago; Voretigene neparvovec, sold under the brand name Luxturna, is a gene therapy medication for the treatment of Leber congenital amaurosis. ... Voretigene neparvovec was approved for medical use in the United States in December 2017, in Australia in August 2020, in Canada in October 2020, and in Switzerland in February 2020.
+--------------------------------------------------------------------------------
+Naoki Kanuma (https://en.wikipedia.org/wiki/Naoki_Kanuma)
+citeturn49search19 [wordlim: 200] Crawled: last week;  2024  | J1 League  | 5 | 0 | 1 | 0 | 1 | 0 | – | 7 | 0 ...  Career total  | 174 | 15 | 12 | 1 | 13 | 1 | 2 | 0 | 201 | 17 ... *  "Soccer D.B. : 2022 Naoki Kanuma Result by Season".
+--------------------------------------------------------------------------------
+Spark Therapeutics (https://en.wikipedia.org/wiki/Spark_Therapeutics)
+citeturn49search20 [wordlim: 200] Crawled: 4 months ago; It was founded in 2013 and has been a subsidiary of Hoffmann-La Roche since 2020. ... In December 2017, the U.S. Food and Drug Administration approved Luxturna (voretigene neparvovec-rzyl) for the treatment of patients with viable retinal cells and confirmed biallelic RPE65 mutation-associated retinal dystrophy, a genetic blinding condition caused by mutations in the RPE65 gene.
+

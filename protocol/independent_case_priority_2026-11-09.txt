@@ -1,0 +1,12 @@
+PRIORITY FREEZE — source-independent rebuild, 9 November 2026
+Saved after reading the regulatory frame and before retrieving new commercial forecasts in this rebuild. Known earlier work prevents blinding. Ordered tiers are based on clinical/commercial mechanism, not observed sales performance.
+
+Core mature mechanisms: Brineura/CLN2 (repeat CNS delivery, functional preservation), Spinraza/SMA (intrathecal ASO, timing and age), Mepsevii/MPS VII (ultra-small population, patient identification, no established CNS efficacy), Naglazyme/MPS VI and Vimizim/MPS IVA (chronic pediatric replacement, diagnosis and center network), Kanuma/LAL deficiency (infant versus adult presentation, diagnosis), Luxturna/RPE65 retinal dystrophy (viable tissue, procedure capacity; one-time exposure is a limitation).
+
+Boundary/control mechanisms: Kuvan/PKU (prior disease-modifying dietary care, responder subset), Myalept/generalized lipodystrophy (narrow label versus phenotype prevalence), Arcalyst/CAPS (earlier off-label IL-1 blockade, subsequent competitor), Dojolvi/LC-FAOD (prior diet and compassionate use), Ztalmy/CDKL5 and Daybue/Rett (disease-specific treatment versus established DMT). Do not pool these automatically with strict first DMTs.
+
+Clinically informative, commercially immature or likely sparse: Nulibry/MoCD-A, Kebilidi/AADC, Lenmeldy/MLD, Miplyffa/NPC and Qalsody/SOD1-ALS. Their inclusion does not depend on finding revenue. Verify label and previous care before classification. No 2024–2025 entrant can provide 36 months of realized sales by the study date.
+
+Additional regulator-derived disease-modifying candidates remain in the ledger, including Fabrazyme, Aldurazyme, Myozyme, Elaprase, Carbaglu, Kalydeco, Strensiq, Crysvita, Onpattro, Oxlumo, Voxzogo, Xenpozyme, Lamzede, Skyclarys, Joenja, Sohonos and Vyjuvek. Presence in the supplied deck neither promotes nor disqualifies a case. Initial relevance and first-status judgments must retain their provisional/verified status.
+
+Retrieve in coherent case batches and stop repeating public searches when annual forecast access is binding. Existing verified source records can be reused explicitly; they do not determine selection. No outcome-weighted priority changes.

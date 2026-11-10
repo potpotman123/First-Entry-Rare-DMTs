@@ -1,0 +1,44 @@
+[
+  {
+    "file": "sources/regulatory/fda_cder_1985_2025.xlsx",
+    "url": "https://www.fda.gov/media/177921/download?attachment=",
+    "post_parameters": null,
+    "retrieved": "2026-11-09",
+    "bytes": 294422,
+    "sha256": "0dd3e4683901e3b8c41ee6bd0f54bac1c33eaae95f1fae8679e6b3b0b45502cd",
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "used_for_universe": true
+  },
+  {
+    "file": "sources/regulatory/fda_orphan_approved_2026-11-09.html",
+    "url": "https://www.accessdata.fda.gov/scripts/opdlisting/oopd/OOPD_Results.cfm",
+    "post_parameters": {
+      "Product_name": "",
+      "sponsor_name": "",
+      "Designation": "",
+      "Designation_Start_Date": "01/01/1983",
+      "Designation_End_Date": "11/09/2026",
+      "Search_param": "EXCSTART",
+      "Output_Format": "Detailed",
+      "Sort_order": "Date_Order",
+      "RecordsPerPage": "2000",
+      "newSearch": "Run Search"
+    },
+    "retrieved": "2026-11-09",
+    "bytes": 34339,
+    "sha256": "8c5c8bc4bf566864a2b5e9fd3aedc1c03633d5d7bad3359f7f12fd4db4a440b5",
+    "content_type": "text/html;charset=UTF-8",
+    "access_status": "FAILED: server returned search form, not approval result export",
+    "used_for_universe": false
+  },
+  {
+    "file": "sources/regulatory/fda_cell_gene_2026-11-09.html",
+    "url": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
+    "post_parameters": null,
+    "retrieved": "2026-11-09",
+    "bytes": 47443,
+    "sha256": "4f2694e75903444002e857af61048b913faa655525a7e0a6b1b6a7e51fc07239",
+    "content_type": "text/html; charset=UTF-8",
+    "used_for_universe": true
+  }
+]

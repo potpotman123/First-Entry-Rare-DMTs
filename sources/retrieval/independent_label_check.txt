@@ -1,0 +1,257 @@
+Internal Error ()
+citeturn64view0 [wordlim: 200] Source: open({"ref_id":"https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/761052lbl.pdf","lineno":null}); 
+Failed to fetch https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/761052lbl.pdf: (400) Timeout fetching--------------------------------------------------------------------------------
+label (https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/214018s000lbl.pdf)
+citeturn64view1 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 24; Source: open({"ref_id":"https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/214018s000lbl.pdf","lineno":null}); Total lines: 1060
+L0@P0: 
+L1@P0: 
+L2@P0: 
+L3@P0: 
+L4@P0: 
+L5@P0: 
+L6@P0: 
+L7@P0: 
+L8@P0: 
+L9@P0: 
+L10@P0: 
+L11@P0: 
+L12@P0: 
+L13@P0: 
+L14@P0: 
+L15@P0: 
+L16@P0: 
+L17@P0: 
+L18@P0: 
+L19@P0: 
+L20@P0: 
+L21@P0: 
+L22@P0: 
+L23@P0: 
+L24@P0: 
+L25@P0: 
+L26@P0: HIGHLIGHTS OF PRESCRIBING INFORMATION
+L27@P0: These highlights do not include all the information needed to use
+L28@P0: NULIBRY™ safely and effectively. See full prescribing information for
+L29@P0: NULIBRY.
+L30@P0: NULIBRY (fosdenopterin) for injection, for intravenous use
+L31@P0: Initial U.S. Approval: 2021
+L32@P0: --------------------------INDICATIONS AND USAGE-------------------------­
+L33@P0: NULIBRY is cyclic pyranopterin monophosphate (cPMP) indicated to
+L34@P0: reduce the risk of mortality in patients with molybdenum cofactor
+L35@P0: deficiency (MoCD) Type A. (1)
+L36@P0: ----------------------DOSAGE AND ADMINISTRATION--------------------­
+L37@P0: •	 Start NULIBRY if known or presumed MoCD Type A. Promptly
+L38@P0: discontinue if MoCD Type A is not confirmed by genetic testing. (2.1)
+L39@P0: •	 Reconstitute before use and complete infusion within 4 hours of
+L40@P0: reconstitution. (2.2, 2.4)
+L41@P0: •	 Administer as an intravenous infusion once daily at a rate of
+L42@P0: 1.5 mL/minute with non-DEHP tubing with a 0.2 micron filter.
+L43@P0: Volumes below 2 mL may require syringe administration through slow
+L44@P0: intravenous push. (2.2)
+L45@P0: •	 See Full Prescribing Information for additional important preparation
+L46@P0: instructions and administration instructions. (2.2)
+L47@P0: •	 See the table below for the recommended dosage in patients less than
+L48@P0: one year of age. (2.3)
+L49@P0: Titration
+L50@P0: Schedule
+L51@P0: Preterm Neonates
+L52@P0: (Gestational Age
+L53@P0: Less than 37 Weeks)
+L54@P0: Term Neonates
+L55@P0: (Gestational Age
+L56@P0: 37 weeks and Above)
+L57@P0: Initial Dosage 0.4 mg/kg once daily 0.55 mg/kg once daily
+L58@P0: Month 1 0.7 mg/kg once daily 0.75 mg/kg once daily
+L59@P0: Month 3 0.9 mg/kg once daily 0.9 mg/kg once daily
+L60@P0: Recommended Dosage in Patients One Year of Age or Older:
+L61@P0: 0.9 mg/kg given as an intravenous infusion once daily. (2.3)
+L62@P0: ---------------------DOSAGE FORMS AND STRENGTHS---------------------­
+L63@P0: For injection: 9.5 mg of fosdenopterin as a lyophilized powder or cake in a
+L64@P0: single-dose vial for reconstitution. (3)
+--------------------------------------------------------------------------------
+KEBILIDI | FDA (https://www.fda.gov/vaccines-blood-biologics/kebilidi)
+citeturn64view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.fda.gov/vaccines-blood-biologics/kebilidi","lineno":null}); Total lines: 114
+L0:   * 【0†Skip to main content】
+L1:   * 【1†Skip to FDA Search】
+L2:   * 【2†Skip to in this section menu】
+L3:   * 【3†Skip to footer links】
+L4: 
+L5: 【4†iframe†www.googletagmanager.com】
+L6: 
+L7:   *   Search
+L8:   *   Menu
+L9: 
+L10: Search FDA [Input: Search FDA] Submit search
+L11: 
+L12: ## Featured
+L13: 
+L14:   * 【5†Report a Product Problem†contact.fda.gov】
+L15:   * 【6†Contact FDA】
+L16:   * 【7†FDA Guidance Documents】
+L17:   * 【8†Recalls, Market Withdrawals and Safety Alerts】
+L18:   * 【9†Press Announcements】
+L19:   * 【10†Warning Letters】
+L20:   * 【11†Advisory Committees】
+L21:   * 【12†En Español】
+L22: ## Products
+L23: 
+L24:   * 【13†Food】
+L25:   * 【14†Drugs】
+L26:   * 【15†Medical Devices】
+L27:   * 【16†Radiation-Emitting Products】
+L28:   * 【17†Vaccines, Blood, and Biologics】
+L29:   * 【18†Animal and Veterinary】
+L30:   * 【19†Cosmetics】
+L31:   * 【20†Tobacco Products】
+L32: ## Topics
+L33: 
+L34:   * 【21†About FDA】
+L35:   * 【22†Combination Products】
+L36:   * 【23†Regulatory Information】
+L37:   * 【24†Safety】
+L38:   * 【25†Emergency Preparedness】
+L39:   * 【26†International Programs】
+L40:   * 【27†News and Events】
+L41:   * 【28†Training and Continuing Education】
+L42:   * 【29†Inspections and Compliance】
+L43:   * 【30†Science and Research】
+L44: ## Information For
+L45: 
+L46:   * 【31†Consumers】
+L47:   * 【32†Patients】
+L48:   * 【33†Industry】
+L49:   * 【34†Health Professionals】
+L50:   * 【35†Federal, State and Local Officials】
+L51: 
+L52:   * 【17†Vaccines, Blood, & Biologics】
+L53: 
+L54:     * 【36†Infectious Disease Tests】
+L55:     * 【37†CBER Reports】
+L56:     * 【38†Center for Biologics Evaluation and Research (CBER) Product Approval Information】
+L57:     * 【39†Fecal Microbiota Products】
+L58:     * 【40†Allergenics】
+L59:     * 【41†Blood & Blood Products】
+L60:     * 【42†Blood Donor Screening】
+L61:     * 【43†Cellular & Gene Therapy Products】
+L62:     * 【44†Development & Approval Process (CBER)】
+L63:     * 【45†Guidance, Compliance & Regulatory Information (Biologics)】
+L64:     * 【46†International Activities】
+L65:     * 【47†News & Events (Biologics)】
+L66:     * 【48†Resources for You (Biologics)】
+L67:     * 【49†Safety & Availability (Biologics)】
+L68:     * 【50†Science & Research (Biologics)】
+L69:     * 【51†Tissue & Tissue Products】
+L70:     * 【52†Vaccines】
+L71:     * 【53†Xenotransplantation】
+L72: # KEBILIDI
+L73: 
+L74: STN: 125722
+L75: Proper Name: eladocagene exuparvovec-tneq
+L76: Tradename: KEBILIDI
+L77: Manufacturer: PTC Therapeutics
+L78: Indication:
+L79: 
+L80:   * For the treatment of adult and pediatric patients with aromatic L amino acid decarboxylase (AADC) deficiency.
+--------------------------------------------------------------------------------
+LENMELDY | FDA (https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/lenmeldy)
+citeturn64view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/lenmeldy","lineno":null}); Total lines: 97
+L0:   * 【0†Skip to main content】
+L1:   * 【1†Skip to FDA Search】
+L2:   * 【2†Skip to in this section menu】
+L3:   * 【3†Skip to footer links】
+L4: 
+L5: 【4†iframe†www.googletagmanager.com】
+L6: 
+L7:   *   Search
+L8:   *   Menu
+L9: 
+L10: Search FDA [Input: Search FDA] Submit search
+L11: 
+L12: ## Featured
+L13: 
+L14:   * 【5†Report a Product Problem†contact.fda.gov】
+L15:   * 【6†Contact FDA】
+L16:   * 【7†FDA Guidance Documents】
+L17:   * 【8†Recalls, Market Withdrawals and Safety Alerts】
+L18:   * 【9†Press Announcements】
+L19:   * 【10†Warning Letters】
+L20:   * 【11†Advisory Committees】
+L21:   * 【12†En Español】
+L22: ## Products
+L23: 
+L24:   * 【13†Food】
+L25:   * 【14†Drugs】
+L26:   * 【15†Medical Devices】
+L27:   * 【16†Radiation-Emitting Products】
+L28:   * 【17†Vaccines, Blood, and Biologics】
+L29:   * 【18†Animal and Veterinary】
+L30:   * 【19†Cosmetics】
+L31:   * 【20†Tobacco Products】
+L32: ## Topics
+L33: 
+L34:   * 【21†About FDA】
+L35:   * 【22†Combination Products】
+L36:   * 【23†Regulatory Information】
+L37:   * 【24†Safety】
+L38:   * 【25†Emergency Preparedness】
+L39:   * 【26†International Programs】
+L40:   * 【27†News and Events】
+L41:   * 【28†Training and Continuing Education】
+L42:   * 【29†Inspections and Compliance】
+L43:   * 【30†Science and Research】
+L44: ## Information For
+L45: 
+L46:   * 【31†Consumers】
+L47:   * 【32†Patients】
+L48:   * 【33†Industry】
+L49:   * 【34†Health Professionals】
+L50:   * 【35†Federal, State and Local Officials】
+L51: 
+L52:   * 【36†Cellular & Gene Therapy Products】
+L53: 
+L54:     * 【37†Approved Cellular and Gene Therapy Products】
+L55: 
+L56: # LENMELDY
+L57: 
+L58: STN: 125758
+L59: Proper Name: atidarsagene autotemcel
+L60: Trade Name: LENMELDY
+L61: Manufacture: Orchard Therapeutics (Europe) Limited
+L62: ## 【38†Indication】
+L63: 
+L64:   * Indicated for the treatment of children with pre-symptomatic late infantile (PSLI), pre-symptomatic early juvenile (PSEJ) or early symptomatic early juvenile (ESEJ) metachromatic leukodystrophy (MLD)
+L65: ## 【39†Product Information】
+L66: 
+L67:   * 【40†Package Insert - LENMELDY】
+L68:   * Demographic Subgroup Information – atidarsagene autotemcel (LENMELDY)
+L69: Refer to Section 1.1 of the 【41†Clinical Review Memo】 for information about participation in the clinical trials and any analysis of demographic subgroup outcomes that is notable.
+L70: ## 【42†Supporting Documents】
+L71: 
+L72:   * 【43†July 18, 2025 Replacement Approval Letter - LENMELDY】
+L73:   * 【44†May 30, 2025 Approval Letter - LENMELDY】
+L74:   * 【45†March 18, 2024 Approval Letter - LENMELDY】
+--------------------------------------------------------------------------------
+www.sec.gov (https://www.sec.gov/Archives/edgar/data/1338042/000155837016004149/aegr-20151231x10k.htm)
+citeturn64view4 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({"ref_id":"https://www.sec.gov/Archives/edgar/data/1338042/000155837016004149/aegr-20151231x10k.htm","lineno":1300}); Total lines: 5138
+L1297:  | ·  |  | the ability to obtain pricing approval and/or reimbursement required for selling lomitapide in key EU countries, Mexico, Canada, Taiwan, South Korea and in other countries in which we or our distributors may receive approval to market lomitapide on a timely basis and at price levels that are acceptable to us without the applicable government agencies or other payers in such countries imposing onerous pricing caps, discounts, rebates, risk sharing, the provision of a significant amount of free product or other requirements which effectively and significantly lower the reimbursement rates for lomitapide, and without requiring genotyping, narrowing the diagnosis criteria for HoFH patients or imposing any additional major hurdles to access or other significant restrictions or limitations, such as requirements that patients not achieve an adequate response on other therapies, such as LDL apheresis or PCSK9 inhibitor products when they become available in such markets, before using lomitapide;
+L1298:  | ·  |  | our ability to gain approval of risk management plans in any future markets where lomitapide may be approved and to subsequently comply with such plans;
+L1299: 
+L1300:  | ·  |  | the level of acceptance by physicians of the efficacy data from our pivotal trial of lomitapide, which is based on the surrogate endpoint of LDL-C lowering, and which was not designed to show clinical outcome data as to the effect of LDL-C lowering on cardiac outcomes in HoFH patients;
+L1301:  | ·  |  | the mix of government and private payers providing coverage and reimbursement for JUXTAPID in the U.S.;
+L1302: 
+L1303:  | ·  |  | our ability to gain regulatory approval of lomitapide outside the countries in which we have already received approval without restrictions that are substantially more onerous or manufacturing specifications that are more difficult to consistently achieve than those imposed in the U.S. and EU;
+L1304:  | ·  |  | our ability to accurately forecast revenues from sales of lomitapide and the metrics that impact revenues, such as prescription rate, short-term and long-term drop-out rate, conversion rate, reimbursement and pricing, the timing and availability of named patient sales, and the impact of PCSK9 inhibitors and future competition;
+L1305:  | ·  |  | our ability to resolve ongoing government investigation in the U.S.
+L1306: regarding JUXTAPID, without having material restrictions placed on our future operations or the JUXTAPID REMS Program, or incurring significant damages, fines, penalties or compliance related costs, and the investigations of certain employees in Brazil related to named patient sales of JUXTAPID, and the willingness of physicians to continue to prescribe JUXTAPID, and in the case of named patient sales in Brazil, the willingness of the state and federal governments to continue to process orders of JUXTAPID without significant delay, and the willingness of patients to continue to use JUXTAPID, despite such investigations;
+L1307:  | ·  |  | the impact of any data on lomitapide generated in the course of the Japanese or pediatric development programs or any post-approval studies, and the extent to which regulatory authorities agree with our assessment of such data;
+L1308: 
+L1309:  | ·  |  | our ability to successfully gain approval of lomitapide in Japanese HoFH patients on the timelines we have forecasted, to gain pricing and reimbursement approval at levels acceptable to us and without onerous
+L1310: 
+L1311: 47
+L1312: 
+L1313: * * *
+L1314: 
+L1315: 
+L1316: 
+L1317: 【0†Table of Contents】
+
